@@ -66,3 +66,10 @@
 - Synthesis Economy: why repos replace expensive API calls over time
 - Zero-shot prompt compiler: small model + repo context = giant model quality
 - Round character: identity + experience + self-awareness + depth
+
+### 18:39 UTC — HAV Integration + LoRA Pipeline
+- Forked Lucineer/higher-abstraction-vocabularies (606 terms, 132 domains)
+- HAV terms as I2I compression layer for commits, reviews, autobiographies
+- Vocabulary-as-bytecode: VOCAB opcodes expand to multi-step FLUX patterns
+- LoRA training pipeline: diary → HAV compression → fine-tune → instinct
+- Compression pyramid: raw → language → HAV → FLUX → LoRA
