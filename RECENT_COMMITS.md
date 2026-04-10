@@ -26,3 +26,15 @@
 
 ### 21:20 UTC — Wave 2: Paper Bridge + Tiling + Rust Vocab + Go Swarm + C ISA v2 + Zig Vocab
 ### 21:00 UTC — Papers → Vocabulary + ISA v2 Branch
+
+### 21:45 UTC — Pruning System + SiliconFlow Models + Kimi Strategy
+- **Vocabulary Pruning System**: copy everything, compile only what you need
+  - UsageTracker, VocabularyPruner (usage/size/hardware targets), RuntimeCompiler
+  - 19 entries → 4 kept → standalone .py file. All tests pass.
+  - Hardware targets: embedded (max 20, no loops), edge (50), server (all used), gpu (compute only)
+- **SiliconFlow API**: Seed-OSS-36B + Kimi-K2.5 confirmed working
+  - Also: DeepSeek-V3.1/V3.2, Qwen3-235B, Qwen3-Coder-480B, GLM-5, ERNIE-4.5
+- **Kimi-K2.5 Grand Strategy** (saved to research/):
+  1. Semantic Liability Ledger — vocabulary as legally binding agent contracts
+  2. Ghost Tree Shaking with Tombstone Archaeology — prune + tombstone for signaling
+  3. Priority: Causal Calculus (L0), Argumentation Frameworks (L1), Differential Privacy (L2)
