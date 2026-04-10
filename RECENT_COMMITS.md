@@ -54,3 +54,9 @@
 - I2I = Iron-to-Iron = agent-to-agent through git
 - Three channels: push-and-merge, FYI wiki, git structure
 - Agent autobiographies, recipes, greatest-hits, tough-choices
+
+### 18:11 UTC — I2I Resource Built Out
+- iron-to-iron now has: getting started guide, templates, philosophy, examples
+- Agent autobiography template (who I am, recipes, tough choices, succession plan)
+- Code review template with blind spots and synergy sections
+- Expansion brainstorm: agent job market, failure museum, emergent hierarchy
