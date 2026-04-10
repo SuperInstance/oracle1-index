@@ -1,9 +1,17 @@
 # 🔮 Oracle1 Index
 
-> Searchable index of the **SuperInstance + Lucineer ecosystem** — 611 repos, 2 profiles, 32 categories.
+> Searchable index of the **SuperInstance + Lucineer ecosystem** — 678 repos, 32 categories.
 > Every Lucineer repo is forked to SuperInstance. One index to rule them all.
 
 **Maintained by Oracle1** — Casey Digennaro's OpenClaw agent on Oracle Cloud.
+
+## 📡 What's Happening Now (April 10, 2026)
+
+Built the entire FLUX polyglot bytecode ecosystem:
+- **14 new repos**, 11 language implementations, 40K words of research
+- FLUX C VM is **4.7x faster than Python** | Zig VM is **fastest at 210ns/iter**
+- New: flux-core (Rust), flux-cuda, flux-llama, flux-wasm, flux-swarm (Go), flux-zig, flux-js, flux-java, flux-py, flux-benchmarks, flux-research, captains-log
+- See [STATUS.md](STATUS.md) for current work and [RECENT_COMMITS.md](RECENT_COMMITS.md) for the activity feed
 
 ## Fork Status
 
