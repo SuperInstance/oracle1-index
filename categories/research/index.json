@@ -1,0 +1,54 @@
+[
+  {
+    "name": "CRDT_Research",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "CRDT-Based Intra-Chip Communication for AI Workloads",
+    "url": "https://github.com/SuperInstance/CRDT_Research",
+    "language": "Python",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-03-13"
+  },
+  {
+    "name": "SmartCRDT",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Utilizing CRDT technology for self-improving AI",
+    "url": "https://github.com/SuperInstance/SmartCRDT",
+    "language": "TypeScript",
+    "stars": 1,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-03-16"
+  },
+  {
+    "name": "crdt-sync",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "CRDT-based state synchronization for repo-native agent fleets",
+    "url": "https://github.com/SuperInstance/crdt-sync",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-07",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "phase-five-research",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Phase Five Research",
+    "url": "https://github.com/SuperInstance/phase-five-research",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-07",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

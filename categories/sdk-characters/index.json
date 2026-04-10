@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ai-character-integrations",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Comprehensive integration examples for AI Character SDK and related tools",
+    "url": "https://github.com/SuperInstance/ai-character-integrations",
+    "language": "Python",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-10"
+  },
+  {
+    "name": "ai-character-sdk",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Unified AI Character SDK combining escalation engine, hierarchical memory, and learning into a simple intuitive API",
+    "url": "https://github.com/SuperInstance/ai-character-sdk",
+    "language": "Python",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-10"
+  },
+  {
+    "name": "character-agent-integration",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "",
+    "url": "https://github.com/SuperInstance/character-agent-integration",
+    "language": "Python",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-09"
+  },
+  {
+    "name": "character-library",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "",
+    "url": "https://github.com/SuperInstance/character-library",
+    "language": "Python",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-09"
+  },
+  {
+    "name": "SuperInstance-SDK1",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "",
+    "url": "https://github.com/SuperInstance/SuperInstance-SDK1",
+    "language": "TypeScript",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-03-13"
+  },
+  {
+    "name": "SuperInstance-Starter-Agent",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Minimal Origin-Centric agent with modular equipment system for the SuperInstance spreadsheet paradigm",
+    "url": "https://github.com/SuperInstance/SuperInstance-Starter-Agent",
+    "language": "TypeScript",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-03-14"
+  }
+]

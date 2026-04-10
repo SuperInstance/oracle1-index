@@ -1,0 +1,55 @@
+[
+  {
+    "name": "flux-os",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "FLUX OS \u2014 Pure C intelligently hardware-agnostic operating system. Kernel-up autonomous development platform with FLUX bytecode VM, self-compiler, and A2A agent runtime.",
+    "url": "https://github.com/SuperInstance/flux-os",
+    "language": "C",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-04-10"
+  },
+  {
+    "name": "flux-runtime",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
+    "url": "https://github.com/SuperInstance/flux-runtime",
+    "language": "Python",
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "adaptive-optimization",
+      "agent",
+      "bytecode",
+      "compiler",
+      "hot-reload",
+      "jit",
+      "polyglot",
+      "python",
+      "runtime",
+      "self-evolving",
+      "ssa",
+      "virtual-machine",
+      "zero-dependencies"
+    ],
+    "fork": false,
+    "updated": "2026-04-10"
+  },
+  {
+    "name": "flux-runtime-c",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
+    "url": "https://github.com/SuperInstance/flux-runtime-c",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-10",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

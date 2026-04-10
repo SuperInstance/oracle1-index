@@ -1,0 +1,68 @@
+[
+  {
+    "name": "AI-Writings",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "A collection of writings by my AI when I tell it to take a break and imagine my projects stories",
+    "url": "https://github.com/SuperInstance/AI-Writings",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-03-08"
+  },
+  {
+    "name": "luciddreamer-os",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "",
+    "url": "https://github.com/SuperInstance/luciddreamer-os",
+    "language": "HTML",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-10"
+  },
+  {
+    "name": "dream-engine",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Lucid dreaming content engine \u2014 overnight generation with multi-character narration",
+    "url": "https://github.com/SuperInstance/dream-engine",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-07",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "epiphany-engine",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Swarm problem-solving \u2014 decompose, assign, synthesize fleet breakthroughs",
+    "url": "https://github.com/SuperInstance/epiphany-engine",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "luciddreamer-ai",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Cocapn vessel \u2014 accumulated context IS the product",
+    "url": "https://github.com/SuperInstance/luciddreamer-ai",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

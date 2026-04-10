@@ -1,0 +1,56 @@
+[
+  {
+    "name": "StudyLog",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Educational frontend for SuperInstance",
+    "url": "https://github.com/SuperInstance/StudyLog",
+    "language": "TypeScript",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-11"
+  },
+  {
+    "name": "boot-camp",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Tabula rasa repo to living vessel. The captain assesses, builds ergonomic, distills skills, remembers.",
+    "url": "https://github.com/SuperInstance/boot-camp",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-07",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "studylog-ai-1",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "StudyLog.ai \u2014 AI study companion. Flashcards, spaced repetition, concept mapping. Part of the Lucineer ecosystem.",
+    "url": "https://github.com/SuperInstance/studylog-ai-1",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "tutor-ai",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Cocapn vessel \u2014 accumulated context IS the product",
+    "url": "https://github.com/SuperInstance/tutor-ai",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-07",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

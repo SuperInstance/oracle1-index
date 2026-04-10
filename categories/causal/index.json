@@ -1,0 +1,30 @@
+[
+  {
+    "name": "causal-graph",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Lightweight in-KV causal reasoning for failure diagnosis",
+    "url": "https://github.com/SuperInstance/causal-graph",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "causal-healer",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Causal graph self-healing \u2014 diagnose root cause, choose optimal recovery",
+    "url": "https://github.com/SuperInstance/causal-healer",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "key": "a2a-protocol",
+    "title": "A2A Protocol",
+    "count": 4,
+    "original": 1,
+    "forked": 3,
+    "desc": "Agent-to-Agent discovery, negotiation, coordination, robotics."
+  },
+  {
+    "key": "agent-behavior",
+    "title": "Agent Behavior",
+    "count": 15,
+    "original": 1,
+    "forked": 14,
+    "desc": "DNA, evaluations, identity, rhythm, therapy, vocabulary."
+  },
+  {
+    "key": "ai-ml",
+    "title": "AI & ML",
+    "count": 32,
+    "original": 11,
+    "forked": 21,
+    "desc": "Inference, embeddings, vectors, RAG, JEPA, sentiment."
+  },
+  {
+    "key": "causal",
+    "title": "Causal Reasoning",
+    "count": 2,
+    "original": 0,
+    "forked": 2,
+    "desc": "Causal graphs, healing, memory \u2014 failure diagnosis."
+  },
+  {
+    "key": "cocapn",
+    "title": "Cocapn",
+    "count": 10,
+    "original": 2,
+    "forked": 8,
+    "desc": "The core agent runtime. The repo IS the agent, git IS the nervous system."
+  },
+  {
+    "key": "consensus",
+    "title": "Consensus & Deliberation",
+    "count": 6,
+    "original": 2,
+    "forked": 4,
+    "desc": "Tripartite, confidence cascades, deliberation protocols."
+  },
+  {
+    "key": "constraint-theory",
+    "title": "Constraint Theory",
+    "count": 10,
+    "original": 8,
+    "forked": 2,
+    "desc": "Deterministic geometric snapping and first-person perspectives."
+  },
+  {
+    "key": "context-management",
+    "title": "Context Management",
+    "count": 7,
+    "original": 0,
+    "forked": 7,
+    "desc": "Brokers, compactors, lattices \u2014 fleet context optimization."
+  },
+  {
+    "key": "craftmind",
+    "title": "CraftMind",
+    "count": 10,
+    "original": 0,
+    "forked": 10,
+    "desc": "Minecraft as AI training ground \u2014 fishing, herding, ranch, circuits, studio."
+  },
+  {
+    "key": "creative",
+    "title": "Creative & Dreams",
+    "count": 5,
+    "original": 2,
+    "forked": 3,
+    "desc": "AI writings, dream engines, storytelling."
+  },
+  {
+    "key": "cuda-core",
+    "title": "CUDA Core",
+    "count": 57,
+    "original": 1,
+    "forked": 56,
+    "desc": "Rust+CUDA fleet primitives \u2014 biology, deliberation, compliance, intelligence."
+  },
+  {
+    "key": "deckboss",
+    "title": "DeckBoss",
+    "count": 7,
+    "original": 2,
+    "forked": 5,
+    "desc": "Flight deck for launching, recovering, and coordinating agents."
+  },
+  {
+    "key": "edge-hardware",
+    "title": "Edge & Hardware",
+    "count": 14,
+    "original": 5,
+    "forked": 9,
+    "desc": "Jetson, metal, GPU, WebGPU, edge boarding."
+  },
+  {
+    "key": "education",
+    "title": "Education",
+    "count": 4,
+    "original": 1,
+    "forked": 3,
+    "desc": "Tutors, boot camps, universities, study tools."
+  },
+  {
+    "key": "equipment",
+    "title": "Equipment",
+    "count": 11,
+    "original": 10,
+    "forked": 1,
+    "desc": "Modular equipment system \u2014 memory, escalation, swarm, self-improvement."
+  },
+  {
+    "key": "fleet",
+    "title": "Fleet",
+    "count": 61,
+    "original": 1,
+    "forked": 60,
+    "desc": "Full fleet lifecycle \u2014 89 repos covering everything from analytics to mythology."
+  },
+  {
+    "key": "flux",
+    "title": "FLUX",
+    "count": 3,
+    "original": 2,
+    "forked": 1,
+    "desc": "Fluid Language Universal eXecution \u2014 self-assembling agent runtime."
+  },
+  {
+    "key": "games",
+    "title": "Games",
+    "count": 3,
+    "original": 1,
+    "forked": 2,
+    "desc": "Minecraft AI, game dev, disc golf."
+  },
+  {
+    "key": "git-agents",
+    "title": "Git Agents",
+    "count": 9,
+    "original": 2,
+    "forked": 7,
+    "desc": "Repo-native agents where git IS the nervous system."
+  },
+  {
+    "key": "infrastructure",
+    "title": "Infrastructure",
+    "count": 16,
+    "original": 12,
+    "forked": 4,
+    "desc": "Caching, locks, tracing, deployment, queues, rate limiting."
+  },
+  {
+    "key": "log-apps",
+    "title": "Log Apps",
+    "count": 33,
+    "original": 3,
+    "forked": 30,
+    "desc": "Domain AI companions \u2014 cooking, fitness, business, travel."
+  },
+  {
+    "key": "marine-fishing",
+    "title": "Marine & Fishing",
+    "count": 2,
+    "original": 0,
+    "forked": 2,
+    "desc": "Edge AI fishing vessels \u2014 species classification, captain voice."
+  },
+  {
+    "key": "memory-learning",
+    "title": "Memory & Learning",
+    "count": 11,
+    "original": 5,
+    "forked": 6,
+    "desc": "Hierarchical memory, bandits, RL, knowledge tensors."
+  },
+  {
+    "key": "nexus",
+    "title": "Nexus",
+    "count": 18,
+    "original": 1,
+    "forked": 17,
+    "desc": "Nexus runtime \u2014 energy, security, simulation, swarm, hardware."
+  },
+  {
+    "key": "other",
+    "title": "Other",
+    "count": 189,
+    "original": 104,
+    "forked": 85,
+    "desc": "Uncategorized repos."
+  },
+  {
+    "key": "research",
+    "title": "Research & Papers",
+    "count": 4,
+    "original": 2,
+    "forked": 2,
+    "desc": "Whitepapers, CRDT, mathematical foundations."
+  },
+  {
+    "key": "sdk-characters",
+    "title": "SDK & Characters",
+    "count": 6,
+    "original": 6,
+    "forked": 0,
+    "desc": "AI Character SDK, skill trees, starter agents."
+  },
+  {
+    "key": "skills-kungfu",
+    "title": "Skills & Kung Fu",
+    "count": 12,
+    "original": 2,
+    "forked": 10,
+    "desc": "Skill injection, evolution, exchange, cartridges."
+  },
+  {
+    "key": "spreadsheet-paradigm",
+    "title": "Spreadsheet Paradigm",
+    "count": 19,
+    "original": 11,
+    "forked": 8,
+    "desc": "Tile intelligence, Claw agents, origin-centric math."
+  },
+  {
+    "key": "swarm-intelligence",
+    "title": "Swarm Intelligence",
+    "count": 6,
+    "original": 0,
+    "forked": 6,
+    "desc": "Swarm intuition, stigmergy, collective reasoning."
+  },
+  {
+    "key": "trust-governance",
+    "title": "Trust & Governance",
+    "count": 13,
+    "original": 0,
+    "forked": 13,
+    "desc": "Compliance, identity, zero-trust, EU AI Act."
+  },
+  {
+    "key": "web-ui",
+    "title": "Web & UI",
+    "count": 12,
+    "original": 8,
+    "forked": 4,
+    "desc": "Frontend, dashboards, Cloudflare, design systems."
+  }
+]

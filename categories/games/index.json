@@ -1,0 +1,42 @@
+[
+  {
+    "name": "SuperInstance-gamedev",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "",
+    "url": "https://github.com/SuperInstance/SuperInstance-gamedev",
+    "language": "TypeScript",
+    "stars": 0,
+    "topics": [],
+    "fork": false,
+    "updated": "2026-01-20"
+  },
+  {
+    "name": "dogmind-arena",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Train AI dog agents \u2014 personality, trust, DNA, skills",
+    "url": "https://github.com/SuperInstance/dogmind-arena",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "libgdx",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Desktop/Android/HTML5/iOS Java game development framework",
+    "url": "https://github.com/SuperInstance/libgdx",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-03-25",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

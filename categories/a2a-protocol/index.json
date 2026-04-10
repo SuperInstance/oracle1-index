@@ -1,0 +1,71 @@
+[
+  {
+    "name": "flux",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: High-performance Rust runtime with bytecode VM, SSA IR, polyglot parser, and agent-to-agent protocol.",
+    "url": "https://github.com/SuperInstance/flux",
+    "language": "Rust",
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "agent",
+      "bytecode",
+      "compiler",
+      "no-std",
+      "parser",
+      "polyglot",
+      "runtime",
+      "rust",
+      "ssa",
+      "unsafe-free",
+      "virtual-machine",
+      "vm",
+      "zero-copy"
+    ],
+    "fork": false,
+    "updated": "2026-04-10"
+  },
+  {
+    "name": "a2a-future",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Reverse-actualization: A2A agent-to-agent coding in 2076 \u2014 5-round RA on the future of software creation, embedding-to-UI, deliberation protocols, and intelligence filtration",
+    "url": "https://github.com/SuperInstance/a2a-future",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-09",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "a2a-protocol",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Agent-to-Agent protocol \u2014 discovery, negotiation, coordination. Part of the Lucineer Cocapn fleet.",
+    "url": "https://github.com/SuperInstance/a2a-protocol",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "a2a-r-protocol",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "A2A-R: Agent-to-Agent protocol extensions for robotics \u2014 QoS levels, WebRTC streaming, safety-critical coordination",
+    "url": "https://github.com/SuperInstance/a2a-r-protocol",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-09",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]

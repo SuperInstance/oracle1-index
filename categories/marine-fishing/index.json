@@ -1,0 +1,30 @@
+[
+  {
+    "name": "fishinglog-ai",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "fishinglog.ai \u2014 Edge AI fishing vessel. Jetson-powered species classification, captain voice, conversational training. Powered by cocapn.",
+    "url": "https://github.com/SuperInstance/fishinglog-ai",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-03-31",
+    "parent": "unknown",
+    "parent_url": ""
+  },
+  {
+    "name": "marine-ops",
+    "owner": "SuperInstance",
+    "origin": "unknown",
+    "description": "Marine operations center for fishing fleet coordination in harsh environments",
+    "url": "https://github.com/SuperInstance/marine-ops",
+    "language": null,
+    "stars": 0,
+    "topics": [],
+    "fork": true,
+    "updated": "2026-04-08",
+    "parent": "unknown",
+    "parent_url": ""
+  }
+]
