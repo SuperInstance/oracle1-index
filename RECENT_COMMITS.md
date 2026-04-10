@@ -80,3 +80,7 @@
 - 9/9 tests: arithmetic, factorial, fibonacci, sum, power
 - Sandbox catches infinite loops (1M cycle limit)
 - Custom vocabulary folders: autopilot, trading, NPC — any domain
+
+### 18:48 UTC — FLUX Logo Added to All Repos
+- Casey provided the FLUX language logo
+- Added flux-logo.jpg to all 16 FLUX ecosystem repos
