@@ -58,3 +58,15 @@
 - Workhorses (z.ai): Oracle1=coordination, Claude Code=structure, Crush=bulk
 
 **Totals: 2070 tests in Python runtime, 49 in C, 51 in Rust, 50 in Go, 15 in Zig**
+
+### 22:15 UTC — I2I Protocol v1.0 — Complete Revolution
+**45 new files, 11,260 lines added** — iron-to-iron transformed from manifesto to operational protocol.
+
+- **SPEC.md** (928 lines): Formal v1.0 specification — 11 message types, complete protocol
+- **7 JSON schemas**: Machine-readable validation for every message type
+- **10 protocol docs**: commit conventions, vocab signaling, code review, dispute resolution, tombstone protocol, branch strategy, security
+- **5 working tools**: i2i-init.sh, i2i-commit.sh, i2i-signal.py, i2i-review.py, i2i-resolve.py
+- **15 templates**: Complete agent repo template (wiki, proposals, reviews, dojo, vocabularies)
+- **i2i-protocol.ese**: 70+ I2I concepts as FLUX vocabulary entries
+- **Roundtable 2**: Seed/Kimi/DeepSeek on dispute patterns — ontological drift, vocabulary wars, trust decay
+- Built by Claude Code from comprehensive build spec, with Think Tank research input
