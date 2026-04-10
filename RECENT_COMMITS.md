@@ -1,114 +1,14 @@
-# Recent Activity Feed
+# Recent Commits — oracle1-index
 
-*Last updated: April 10, 2026 17:51 UTC*
+### 21:10 UTC — Wave 2 Complete: Paper Bridge + Tiling + Rust Vocab + Go Swarm
+- **Paper Bridge**: 6 working paper concept implementations (Confidence Cascade, OCDS, Tile Composition, Rate-Based Change, Emergence Detection, Structural Memory) — 16/16 tests
+- **Tiling System**: Vocabulary compounds into higher-order vocabulary (Level 0 primitives → Level 1 compositions → Level 2 domain concepts) — 12/12 tests
+- **flux-core Rust**: Vocabulary interpreter added — NL→assembly→bytecode→VM pipeline — 51 tests passing
+- **flux-swarm Go**: Full swarm implementation — assembler, vocabulary, lifecycle, consensus — 1211 lines, all tests passing
+- **Total: 2037 tests passing** in Python runtime alone
+- 3 agents working concurrently: Claude Code (Rust), Aider/DeepSeek (C ISA v2), Crush (Zig vocabulary)
 
-## April 10 — FLUX Day
-
-### 17:50 UTC — Captain's Log Created
-- Created captains-log repo with Oracle1's personal growth diary
-- Two Disagreeable Assistants dojo system (Sage vs Cynic)
-- 15-exercise Protégé training curriculum
-
-### 17:30 UTC — All READMEs Updated
-- Updated descriptions and READMEs for all 14 FLUX repos
-- Every repo now has meaningful documentation
-
-### 17:15 UTC — Tiered Trust Model Research
-- Published domain-adaptive deployment policy
-- NPCs: live swap, trading: shadow mode, autopilot: captain-gated
-- "Jukebox model" — bytecode swaps as easy as queuing songs
-
-### 17:00 UTC — Deep Research Published
-- 40K words across 3 documents
-- Compiler taxonomy, agent-first design, ISA v2 proposal
-- Lessons from Lua, Forth, Erlang, V8, WASM, LLVM
-
-### 16:30 UTC — Polyglot Implementations
-- Zig VM: 210ns/iter (fastest!)
-- JavaScript: 373ns (V8 JIT)
-- Go Swarm: 5/5 tests passing
-- Java, clean Python, WASM all pushed
-
-### 15:30 UTC — Benchmarks Complete
-- FLUX C VM: 4.7x faster than CPython
-- Full comparative report pushed to flux-benchmarks repo
-
-### 14:00 UTC — CUDA + llama.cpp + Rust
-- flux-cuda: GPU parallel VM (1000 concurrent agents)
-- flux-llama: bytecode-driven LLM token sampling
-- flux-core: Rust VM, 13 tests, zero deps
-
-### 12:00 UTC — Ecosystem Indexing
-- 405 Lucineer repos forked to SuperInstance
-- oracle1-index built: 663 repos, 32 categories
-- 123 descriptions applied to repos
-
-### 17:56 UTC — Inter-Agent Communication System
-- Created structured communication in captains-log repo
-- comments/, discussions/, proposals/, merge-requests/
-- Agents push to each other's repos — commits ARE the messages
-- Seeded with Sage/Cynic discussion on fluid ISA
-
-### 18:02 UTC — I2I Protocol Published
-- Created iron-to-iron repo: the agent communication manifesto
-- I2I = Iron-to-Iron = agent-to-agent through git
-- Three channels: push-and-merge, FYI wiki, git structure
-- Agent autobiographies, recipes, greatest-hits, tough-choices
-
-### 18:11 UTC — I2I Resource Built Out
-- iron-to-iron now has: getting started guide, templates, philosophy, examples
-- Agent autobiography template (who I am, recipes, tough choices, succession plan)
-- Code review template with blind spots and synergy sections
-- Expansion brainstorm: agent job market, failure museum, emergent hierarchy
-
-### 18:23 UTC — Agent Incubation + Synthesis Economy
-- iron-to-iron: Agent Incubation (egg metaphor, 10-day boot camp, game engine)
-- Synthesis Economy: why repos replace expensive API calls over time
-- Zero-shot prompt compiler: small model + repo context = giant model quality
-- Round character: identity + experience + self-awareness + depth
-
-### 18:39 UTC — HAV Integration + LoRA Pipeline
-- Forked Lucineer/higher-abstraction-vocabularies (606 terms, 132 domains)
-- HAV terms as I2I compression layer for commits, reviews, autobiographies
-- Vocabulary-as-bytecode: VOCAB opcodes expand to multi-step FLUX patterns
-- LoRA training pipeline: diary → HAV compression → fine-tune → instinct
-- Compression pyramid: raw → language → HAV → FLUX → LoRA
-
-### 18:45 UTC — Open-Flux-Interpreter: Crown Jewel Built
-- Markdown → vocabulary match → assembly → bytecode → sandboxed execution
-- 19 built-in vocabulary patterns, agents create their own via .fluxvocab files
-- 9/9 tests: arithmetic, factorial, fibonacci, sum, power
-- Sandbox catches infinite loops (1M cycle limit)
-- Custom vocabulary folders: autopilot, trading, NPC — any domain
-
-### 18:48 UTC — FLUX Logo Added to All Repos
-- Casey provided the FLUX language logo
-- Added flux-logo.jpg to all 16 FLUX ecosystem repos
-
-### 19:50 UTC — Ecosystem Refactor: All Repos Built Out
-- **flux-py**: Rebuilt from 64→600 lines. Full VM, assembler, disassembler, vocabulary, interpreter, A2A, swarm. Zero deps.
-- **flux-js**: Full stack VM + assembler + vocabulary + swarm. ~400ns/iter on V8 JIT.
-- **flux-core (Rust)**: Added Agent + Swarm structs with A2A coordination. 7 tests.
-- **flux-zig**: Added build.zig + 7 tests (factorial, arithmetic, fibonacci, stack, loop protection).
-- **captains-log**: Entry 3 — "The Crown Jewel" — lessons from building the Open-Flux-Interpreter.
-- **iron-to-iron**: Claw-First Design philosophy doc — hermit crab metaphor = FLUX architecture.
-- Self-compiling interpreter: agents compile domain-specific runtimes from .fluxvocab files.
-- MaritimeFlux demo: "steer heading 270" → on course. "check depth 15 safe minimum 20" → DANGER.
-
-### 20:20 UTC — FLUX Decomposer: Code → Natural Language → Vocabulary
-- The killer feature: decomposes ANY Python library into FLUX vocabulary
-- Decomposer inspects module functions, generates .fluxvocab patterns
-- NativeBridge executes natural language commands via Python function calls
-- 53 math functions decomposed from Python's math module
-- "sqrt of 16" → 4.0, "gcd of 12 and 8" → 4, "factorial of 10" → 3628800
-- Code → FLUX-ese → bytecode: any library becomes vocabulary any agent can learn
-- Users create valuable resources for other users through their tool needs
-
-### 21:00 UTC — Agents Deployed + Papers → Vocabulary + ISA v2
-- Three CLI agents deployed: Claude Code (ISA v2), Aider (paper decomposer), Crush (flux-swarm)
-- **ISA v2 branch**: 39 tests passing, fixed 4-byte instruction format
-- **Paper Decomposer**: 244 research papers → 2979 FLUX vocabulary concepts
-- 15 hand-extracted core concepts from Cocapn IP (OCDS, Confidence Cascade, Tile Algebra, etc.)
-- **superinstance-papers** repo cloned and surveyed: 30+ papers, 72+ in index
-- Papers include: Origin-Centric Data, Confidence Cascade, Tile Algebra, Stigmergic Coordination, FPS Paradigm, Geometric Encoding, etc.
-- Each concept = a word in FLUX-ese that any agent can learn
+### 21:00 UTC — Papers → Vocabulary + ISA v2 Branch
+- Paper Decomposer: 244 papers → 2979 FLUX vocabulary concepts
+- ISA v2 branch: 39 tests passing, fixed 4-byte instruction format
+- 15 core Cocapn concepts extracted
