@@ -38,3 +38,23 @@
   1. Semantic Liability Ledger — vocabulary as legally binding agent contracts
   2. Ghost Tree Shaking with Tombstone Archaeology — prune + tombstone for signaling
   3. Priority: Causal Calculus (L0), Argumentation Frameworks (L1), Differential Privacy (L2)
+
+### 22:00 UTC — Multi-Model Roundtable + Argumentation Framework + L0 Primitives
+**First AI roundtable completed:**
+- Seed-OSS (creative), Kimi-K2.5 (big picture), DeepSeek-V3.2 (MC/synthesizer)
+- Topic: What are the L0 primitives every agent must know?
+- Seed: SELF, POSSIBLE, CAUSE, GOOD (cognitive hooks for inventing vocabulary)
+- Kimi: OTHER, TRUE/FALSE, AGREEMENT, COST (social coordination primitives)
+- DeepSeek synthesis: 7 L0 primitives (SELF, OTHER, POSSIBLE, TRUE, CAUSE, VALUE, AGREEMENT)
+
+**New systems built:**
+- **L0 Constitutional Vocabulary** (l0_primitives.ese): the 7 irreducible words
+- **Argumentation Framework** (argumentation.py): Dung-style, courtroom for agents, 33 tests
+- **Tombstone System** (Go, tombstone.go): pruned vocab leaves traces, 11 tests
+- **Seed signaling ideas**: repo structure as taxonomy, filenames as dialect badges, commit messages as announcements
+
+**Model usage strategy:**
+- Think Tank (SiliconFlow): Seed=ideation, Kimi=strategy, DeepSeek=MC
+- Workhorses (z.ai): Oracle1=coordination, Claude Code=structure, Crush=bulk
+
+**Totals: 2070 tests in Python runtime, 49 in C, 51 in Rust, 50 in Go, 15 in Zig**
