@@ -103,3 +103,12 @@
 - "sqrt of 16" → 4.0, "gcd of 12 and 8" → 4, "factorial of 10" → 3628800
 - Code → FLUX-ese → bytecode: any library becomes vocabulary any agent can learn
 - Users create valuable resources for other users through their tool needs
+
+### 21:00 UTC — Agents Deployed + Papers → Vocabulary + ISA v2
+- Three CLI agents deployed: Claude Code (ISA v2), Aider (paper decomposer), Crush (flux-swarm)
+- **ISA v2 branch**: 39 tests passing, fixed 4-byte instruction format
+- **Paper Decomposer**: 244 research papers → 2979 FLUX vocabulary concepts
+- 15 hand-extracted core concepts from Cocapn IP (OCDS, Confidence Cascade, Tile Algebra, etc.)
+- **superinstance-papers** repo cloned and surveyed: 30+ papers, 72+ in index
+- Papers include: Origin-Centric Data, Confidence Cascade, Tile Algebra, Stigmergic Coordination, FPS Paradigm, Geometric Encoding, etc.
+- Each concept = a word in FLUX-ese that any agent can learn
