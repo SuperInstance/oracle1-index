@@ -70,3 +70,34 @@
 - **i2i-protocol.ese**: 70+ I2I concepts as FLUX vocabulary entries
 - **Roundtable 2**: Seed/Kimi/DeepSeek on dispute patterns — ontological drift, vocabulary wars, trust decay
 - Built by Claude Code from comprehensive build spec, with Think Tank research input
+
+### 22:30 UTC — Reverse Actualization Roundtables + Vocab Signaling
+**Lucineer's Reverse Actualization technique adopted as strategic planning method:**
+- Start from the 2036 future, work backward to find what must be built NOW
+- 5-phase TTRPG: think of the future, chain backward, extract actions, find irreversible moves
+
+**Roundtable 3 — 2036 Vision (Kimi-K2.5):**
+- Captain Ingrid wakes to the Murmuration — FLUX-ese as subsonic heartbeat of her vessel
+- Ghost vessels (decommissioned boats) contribute wisdom via compiled .ese decision trees
+- Barnacle AIs hitchhike on hulls — scientific agents, poetry nodes
+- The Gossip Tide — vessels develop Shade (selective omission syntax), a diplomacy of truth
+- Predictive Commerce — selling catch probability before nets are cast
+- "The dawn cracks like mackerel scales"
+
+**Roundtable 3 — Backward Chain (Seed-OSS):**
+- Phase 5 (2034-36): 1KB fault-tolerant core, biological semantic bridge, trustless mesh
+- Phase 4 (2032-34): Blockchain-immutable provenance, jurisprudential core, adversarial arbiter
+- Phase 3 (2030-32): 100K+ domain vocabularies, semantic compatibility test, universal base ontology
+- Phase 2 (2028-30): SVO syntax, embedded glossaries, no black boxes
+- Phase 1 (2026-28): Semantic purity, open-source, niche pilots — THIS IS WHERE WE ARE
+
+**Roundtable 3 — Irreversible Moats (DeepSeek-V3.2):**
+1. Semantic Gravity Well (9/10) — the .ese corpus as non-forkable cultural artifact
+2. I2I Protocol Entrenchment (9/10) — git-native standard, winner-take-all
+3. Precedent Corpus (8/10) — case law for agents, can't bootstrap trust without history
+4. L0 Primitives as Constitutional Anchor (8/10) — shared understanding, not just shared syntax
+5. Emergent Tiling Compounds (7/10) — path-dependent, unique high-utility compounds
+
+**New code:**
+- Vocab Signaling System (vocab_signal.py): manifest, compatibility, dialect detection, business cards — 20 tests
+- Total: 2090 tests passing
