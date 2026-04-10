@@ -60,3 +60,9 @@
 - Agent autobiography template (who I am, recipes, tough choices, succession plan)
 - Code review template with blind spots and synergy sections
 - Expansion brainstorm: agent job market, failure museum, emergent hierarchy
+
+### 18:23 UTC — Agent Incubation + Synthesis Economy
+- iron-to-iron: Agent Incubation (egg metaphor, 10-day boot camp, game engine)
+- Synthesis Economy: why repos replace expensive API calls over time
+- Zero-shot prompt compiler: small model + repo context = giant model quality
+- Round character: identity + experience + self-awareness + depth
