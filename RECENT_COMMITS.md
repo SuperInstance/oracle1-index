@@ -73,3 +73,10 @@
 - Vocabulary-as-bytecode: VOCAB opcodes expand to multi-step FLUX patterns
 - LoRA training pipeline: diary → HAV compression → fine-tune → instinct
 - Compression pyramid: raw → language → HAV → FLUX → LoRA
+
+### 18:45 UTC — Open-Flux-Interpreter: Crown Jewel Built
+- Markdown → vocabulary match → assembly → bytecode → sandboxed execution
+- 19 built-in vocabulary patterns, agents create their own via .fluxvocab files
+- 9/9 tests: arithmetic, factorial, fibonacci, sum, power
+- Sandbox catches infinite loops (1M cycle limit)
+- Custom vocabulary folders: autopilot, trading, NPC — any domain
