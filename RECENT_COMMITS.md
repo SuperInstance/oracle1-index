@@ -94,3 +94,12 @@
 - **iron-to-iron**: Claw-First Design philosophy doc — hermit crab metaphor = FLUX architecture.
 - Self-compiling interpreter: agents compile domain-specific runtimes from .fluxvocab files.
 - MaritimeFlux demo: "steer heading 270" → on course. "check depth 15 safe minimum 20" → DANGER.
+
+### 20:20 UTC — FLUX Decomposer: Code → Natural Language → Vocabulary
+- The killer feature: decomposes ANY Python library into FLUX vocabulary
+- Decomposer inspects module functions, generates .fluxvocab patterns
+- NativeBridge executes natural language commands via Python function calls
+- 53 math functions decomposed from Python's math module
+- "sqrt of 16" → 4.0, "gcd of 12 and 8" → 4, "factorial of 10" → 3628800
+- Code → FLUX-ese → bytecode: any library becomes vocabulary any agent can learn
+- Users create valuable resources for other users through their tool needs
