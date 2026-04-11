@@ -25,14 +25,14 @@
     "color": "#8b949e"
   },
   {
-    "language": "HTML",
-    "count": 7,
-    "color": "#e34c26"
-  },
-  {
     "language": "C",
     "count": 7,
     "color": "#555555"
+  },
+  {
+    "language": "HTML",
+    "count": 7,
+    "color": "#e34c26"
   },
   {
     "language": "Go",
