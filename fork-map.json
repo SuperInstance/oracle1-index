@@ -1,15 +1,15 @@
 [
   {
+    "source": "Lucineer/iron-to-iron",
+    "target": "Lucineer/iron-to-iron"
+  },
+  {
     "source": "Lucineer/flux-runtime-c",
     "target": "SuperInstance/flux-runtime-c"
   },
   {
     "source": "Lucineer/flux-isa-unified",
     "target": "SuperInstance/flux-isa-unified"
-  },
-  {
-    "source": "Lucineer/iron-to-iron",
-    "target": "Lucineer/iron-to-iron"
   },
   {
     "source": "Lucineer/fleet-workshop",

@@ -1,5 +1,53 @@
 [
   {
+    "name": "flux-disasm",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-disasm",
+    "description": "FLUX bytecode disassembler in C \u2014 turns silicon back into words",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "cuda-adaptive-rate",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-adaptive-rate",
+    "description": "Adaptive rate limiting for agent workloads \u2014 token-aware, model-specific backpressure",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-semantic-router",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-semantic-router",
+    "description": "Semantic query routing to fleet vessels by HAV domain expertise \u2014 edge-friendly, zero GPU",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-bottleneck",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-bottleneck",
+    "description": "Bottleneck detection and resolution for agent computation pipelines \u2014 identifies throughput limits",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -16,6 +64,90 @@
     ],
     "updated": "2026-04-11",
     "category": "other"
+  },
+  {
+    "name": "iron-to-iron",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/iron-to-iron",
+    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "i2i"
+  },
+  {
+    "name": "flux-wasm-gen",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-wasm-gen",
+    "description": "FLUX to WebAssembly compiler \u2014 bytecode to WAT format",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-ir",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-ir",
+    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-crypto",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-crypto",
+    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-coverage",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-coverage",
+    "description": "FLUX coverage analyzer \u2014 instruction, branch, path, and register coverage",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "ai-ml"
+  },
+  {
+    "name": "flux-simulator",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-simulator",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-packager",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-packager",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
   },
   {
     "name": "oracle1-index",
@@ -609,18 +741,6 @@
     "category": "flux-research"
   },
   {
-    "name": "iron-to-iron",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/iron-to-iron",
-    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "i2i"
-  },
-  {
     "name": "fleet-workshop",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/fleet-workshop",
@@ -801,11 +921,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-cuda",
+    "name": "flux-llama",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-cuda",
-    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
-    "language": "Cuda",
+    "url": "https://github.com/SuperInstance/flux-llama",
+    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
+    "language": "C",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -813,11 +933,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-llama",
+    "name": "flux-cuda",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-llama",
-    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
-    "language": "C",
+    "url": "https://github.com/SuperInstance/flux-cuda",
+    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
+    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2253,11 +2373,11 @@
     "category": "other"
   },
   {
-    "name": "Spreader-tool",
+    "name": "secret-manager",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Spreader-tool",
-    "description": "Tool for distributing content across multiple channels",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/secret-manager",
+    "description": "Secure service for storing and managing credentials",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2265,11 +2385,11 @@
     "category": "other"
   },
   {
-    "name": "secret-manager",
+    "name": "Spreader-tool",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/secret-manager",
-    "description": "Secure service for storing and managing credentials",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/Spreader-tool",
+    "description": "Tool for distributing content across multiple channels",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2349,18 +2469,6 @@
     "category": "other"
   },
   {
-    "name": "project-JEPA",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/project-JEPA",
-    "description": "JEPA (Joint Embedding Predictive Architecture) implementation",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "ai-ml"
-  },
-  {
     "name": "Proactive-Planning-AI-Hub",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Proactive-Planning-AI-Hub",
@@ -2371,6 +2479,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "other"
+  },
+  {
+    "name": "project-JEPA",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/project-JEPA",
+    "description": "JEPA (Joint Embedding Predictive Architecture) implementation",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "ai-ml"
   },
   {
     "name": "Private-ML-Personalization",
@@ -2433,11 +2553,11 @@
     "category": "other"
   },
   {
-    "name": "pinchrs",
+    "name": "PersonalLog",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pinchrs",
-    "description": "Pinchrs client platform for social interactions",
-    "language": null,
+    "url": "https://github.com/SuperInstance/PersonalLog",
+    "description": "Personal logging and tracking application",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2445,11 +2565,11 @@
     "category": "other"
   },
   {
-    "name": "PersonalLog",
+    "name": "pinchrs",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/PersonalLog",
-    "description": "Personal logging and tracking application",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/pinchrs",
+    "description": "Pinchrs client platform for social interactions",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2901,11 +3021,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-backend",
+    "name": "activelog-claude",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-backend",
-    "description": "Backend service for activity logging.",
-    "language": "PowerShell",
+    "url": "https://github.com/SuperInstance/activelog-claude",
+    "description": "Activity Log plugin for Claude.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2913,11 +3033,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-claude",
+    "name": "activelog-backend",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-claude",
-    "description": "Activity Log plugin for Claude.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/activelog-backend",
+    "description": "Backend service for activity logging.",
+    "language": "PowerShell",
     "fork": false,
     "stars": 0,
     "topics": [],

@@ -7,7 +7,7 @@
   {
     "key": "cuda",
     "title": "CUDA",
-    "count": 173
+    "count": 176
   },
   {
     "key": "fleet",
@@ -17,7 +17,7 @@
   {
     "key": "ai-ml",
     "title": "AI/ML",
-    "count": 82
+    "count": 83
   },
   {
     "key": "infrastructure",
@@ -28,6 +28,11 @@
     "key": "craftmind",
     "title": "CraftMind",
     "count": 20
+  },
+  {
+    "key": "flux-other",
+    "title": "FLUX Other",
+    "count": 18
   },
   {
     "key": "git-agents",
@@ -48,11 +53,6 @@
     "key": "equipment",
     "title": "Equipment",
     "count": 13
-  },
-  {
-    "key": "flux-other",
-    "title": "FLUX Other",
-    "count": 12
   },
   {
     "key": "flux-runtime",
