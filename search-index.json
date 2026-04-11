@@ -1,53 +1,5 @@
 [
   {
-    "name": "fleet-mechanic",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-mechanic",
-    "description": "\ud83d\udd27 Autonomous fleet maintenance agent \u2014 A2A-native, FLUX-powered, git-first",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "fleet"
-  },
-  {
-    "name": "flux-a2a-prototype",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-a2a-prototype",
-    "description": "FLUX A2A Signal Protocol \u2014 Agent-first-class JSON language with branching, forking, co-iteration",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-protocol"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
-    "name": "flux-research",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-research",
-    "description": "FLUX Deep Research \u2014 Compiler/interpreter taxonomy, agent-first design, ISA v2 proposal.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -67,6 +19,78 @@
     "category": "other"
   },
   {
+    "name": "flux-runtime-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-runtime-c",
+    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-isa-unified",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-isa-unified",
+    "description": "Unified FLUX Instruction Set Architecture \u2014 merged from JC1 (128 opcodes) and Oracle1 (115 opcodes) into ~150 shared opcodes.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-research"
+  },
+  {
+    "name": "git-agent-standard",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/git-agent-standard",
+    "description": "Git-Agent Vessel Standard \u2014 the shared spec for building agent vessels where the repo IS the agent. Lucineer realm fork with infrastructure extensions.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "git-agents"
+  },
+  {
+    "name": "cuda-memory-fabric",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
+    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
+    "language": "Makefile",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-ghost-tiles",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
+    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
+    "language": "Makefile",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-trust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cuda-trust",
+    "description": "Trust engine \u2014 grows slowly, decays fast, multi-context trust profiles with Bayesian fusion (Rust)",
+    "language": "Makefile",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
     "name": "superz-diary",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-diary",
@@ -84,6 +108,264 @@
     ],
     "updated": "2026-04-11",
     "category": "other"
+  },
+  {
+    "name": "fleet-mechanic",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-mechanic",
+    "description": "\ud83d\udd27 Autonomous fleet maintenance agent \u2014 A2A-native, FLUX-powered, git-first",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "fleet"
+  },
+  {
+    "name": "oracle1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-vessel",
+    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "language": "Shell",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "git-agents"
+  },
+  {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "greenhorn-onboarding",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/greenhorn-onboarding",
+    "description": "\ud83d\udfe2 Point an agent here. Give it a PAT. Watch it find its place. Zero-config fleet onboarding for the Cocapn Fleet.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "greenhorn"
+  },
+  {
+    "name": "flux-swarm",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-swarm",
+    "description": "FLUX Swarm \u2014 Go implementation with distributed agent coordination and A2A messaging.",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-runtime-zho",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-zho",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-envelope",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-envelope",
+    "description": "FLUX Viewpoint Envelope \u2014 Cross-linguistic coherence, Lingua Franca bytecode, universal vocabulary bridge",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-protocol"
+  },
+  {
+    "name": "flux-runtime-deu",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-deu",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-runtime-wen",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-wen",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-runtime-san",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-san",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-runtime-kor",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-kor",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-runtime-lat",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-lat",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "flux-py",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-py",
+    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "fleet-workshop",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-workshop",
+    "description": "\ud83d\udd2e\u26a1 Where Oracle1 and JetsonClaw1 workshop ideas before they become repos. Casey picks what gets built.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "fleet"
+  },
+  {
+    "name": "greenhorn-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/greenhorn-runtime",
+    "description": "\ud83d\udfe2 Portable agent runtime in Go, C, C++, CUDA. Download, deploy, specialize. Plants agents anywhere within hardware/API limits.",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "greenhorn"
+  },
+  {
+    "name": "iron-to-iron",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/iron-to-iron",
+    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "i2i"
+  },
+  {
+    "name": "git-agent-standard",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/git-agent-standard",
+    "description": "The repo IS the agent. Git IS the nervous system. Standard for AI agents embodied as GitHub repositories.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "git-agents"
+  },
+  {
+    "name": "babel-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/babel-vessel",
+    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "git-agents"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "flux-a2a-prototype",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-a2a-prototype",
+    "description": "FLUX A2A Signal Protocol \u2014 Agent-first-class JSON language with branching, forking, co-iteration",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-protocol"
+  },
+  {
+    "name": "flux-research",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-research",
+    "description": "FLUX Deep Research \u2014 Compiler/interpreter taxonomy, agent-first design, ISA v2 proposal.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
   },
   {
     "name": "flux-collab",
@@ -110,10 +392,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-ir",
+    "name": "flux-crypto",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ir",
-    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
+    "url": "https://github.com/SuperInstance/flux-crypto",
+    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -122,10 +404,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-crypto",
+    "name": "flux-ir",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-crypto",
-    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
+    "url": "https://github.com/SuperInstance/flux-ir",
+    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -170,40 +452,10 @@
     "category": "fleet"
   },
   {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "cuda-genepool",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/cuda-genepool",
     "description": "Gene pool \u2014 shared pattern library for agent evolution and code sharing",
-    "language": "Makefile",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
-    "name": "cuda-ghost-tiles",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
-    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -228,18 +480,6 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/cuda-emotion",
     "description": "Emotional state engine \u2014 maps neurochemicals to 11 core emotions that modulate risk, exploration, cooperation (Rust)",
-    "language": "Makefile",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
-    "name": "cuda-memory-fabric",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
-    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -276,18 +516,6 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/cuda-confidence",
     "description": "Confidence primitive \u2014 foundational type where every value carries uncertainty and propagates it (Rust)",
-    "language": "Makefile",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
-    "name": "cuda-trust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-trust",
-    "description": "Trust engine \u2014 grows slowly, decays fast, multi-context trust profiles with Bayesian fusion (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -1535,18 +1763,6 @@
     "category": "cuda"
   },
   {
-    "name": "flux-isa-unified",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-isa-unified",
-    "description": "Unified FLUX Instruction Set Architecture \u2014 merged from JC1 (128 opcodes) and Oracle1 (115 opcodes) into ~150 shared opcodes.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-research"
-  },
-  {
     "name": "cuda-topology",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-topology",
@@ -1605,18 +1821,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "cuda"
-  },
-  {
-    "name": "flux-runtime-c",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-runtime-c",
-    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
   },
   {
     "name": "flux-asm",
@@ -2099,18 +2303,6 @@
     "category": "flux-toolchain"
   },
   {
-    "name": "oracle1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-vessel",
-    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
-    "language": "Shell",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "git-agents"
-  },
-  {
     "name": "flux-linker",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-linker",
@@ -2133,18 +2325,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-toolchain"
-  },
-  {
-    "name": "fleet-workshop",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-workshop",
-    "description": "\ud83d\udd2e\u26a1 Where Oracle1 and JetsonClaw1 workshop ideas before they become repos. Casey picks what gets built.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "fleet"
   },
   {
     "name": "vessel-template",
@@ -2171,18 +2351,6 @@
     "category": "flux-toolchain"
   },
   {
-    "name": "greenhorn-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/greenhorn-runtime",
-    "description": "\ud83d\udfe2 Portable agent runtime in Go, C, C++, CUDA. Download, deploy, specialize. Plants agents anywhere within hardware/API limits.",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "greenhorn"
-  },
-  {
     "name": "flux-repl",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-repl",
@@ -2193,18 +2361,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-toolchain"
-  },
-  {
-    "name": "flux-envelope",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-envelope",
-    "description": "FLUX Viewpoint Envelope \u2014 Cross-linguistic coherence, Lingua Franca bytecode, universal vocabulary bridge",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-protocol"
   },
   {
     "name": "git-agent-codespace",
@@ -2243,18 +2399,6 @@
     "category": "fleet"
   },
   {
-    "name": "greenhorn-onboarding",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/greenhorn-onboarding",
-    "description": "\ud83d\udfe2 Point an agent here. Give it a PAT. Watch it find its place. Zero-config fleet onboarding for the Cocapn Fleet.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "greenhorn"
-  },
-  {
     "name": "flux-runtime-c",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-runtime-c",
@@ -2279,42 +2423,6 @@
     "category": "greenhorn"
   },
   {
-    "name": "git-agent-standard",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/git-agent-standard",
-    "description": "The repo IS the agent. Git IS the nervous system. Standard for AI agents embodied as GitHub repositories.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "git-agents"
-  },
-  {
-    "name": "babel-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/babel-vessel",
-    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "git-agents"
-  },
-  {
-    "name": "iron-to-iron",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/iron-to-iron",
-    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "i2i"
-  },
-  {
     "name": "flux-isa-unified",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-isa-unified",
@@ -2325,78 +2433,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-research"
-  },
-  {
-    "name": "flux-runtime-lat",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-lat",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-san",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-san",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-wen",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-wen",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-kor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-kor",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-deu",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-deu",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-zho",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-zho",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
   },
   {
     "name": "JetsonClaw1-vessel",
@@ -2471,18 +2507,6 @@
     "category": "other"
   },
   {
-    "name": "git-agent-standard",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/git-agent-standard",
-    "description": "Git-Agent Vessel Standard \u2014 the shared spec for building agent vessels where the repo IS the agent. Lucineer realm fork with infrastructure extensions.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "git-agents"
-  },
-  {
     "name": "jetsonclaw1-onboarding",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/jetsonclaw1-onboarding",
@@ -2493,30 +2517,6 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "git-agents"
-  },
-  {
-    "name": "flux-swarm",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-swarm",
-    "description": "FLUX Swarm \u2014 Go implementation with distributed agent coordination and A2A messaging.",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-py",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-py",
-    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "flux-other"
   },
   {
     "name": "flux-js",

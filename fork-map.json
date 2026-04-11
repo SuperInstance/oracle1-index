@@ -1,11 +1,19 @@
 [
   {
-    "source": "Lucineer/cuda-genepool",
-    "target": "SuperInstance/cuda-genepool"
+    "source": "Lucineer/cuda-memory-fabric",
+    "target": "SuperInstance/cuda-memory-fabric"
   },
   {
     "source": "Lucineer/cuda-ghost-tiles",
     "target": "SuperInstance/cuda-ghost-tiles"
+  },
+  {
+    "source": "Lucineer/cuda-trust",
+    "target": "SuperInstance/cuda-trust"
+  },
+  {
+    "source": "Lucineer/cuda-genepool",
+    "target": "SuperInstance/cuda-genepool"
   },
   {
     "source": "Lucineer/cuda-neurotransmitter",
@@ -14,10 +22,6 @@
   {
     "source": "Lucineer/cuda-emotion",
     "target": "SuperInstance/cuda-emotion"
-  },
-  {
-    "source": "Lucineer/cuda-memory-fabric",
-    "target": "SuperInstance/cuda-memory-fabric"
   },
   {
     "source": "Lucineer/cuda-energy",
@@ -30,10 +34,6 @@
   {
     "source": "Lucineer/cuda-confidence",
     "target": "SuperInstance/cuda-confidence"
-  },
-  {
-    "source": "Lucineer/cuda-trust",
-    "target": "SuperInstance/cuda-trust"
   },
   {
     "source": "Lucineer/iron-to-iron",
