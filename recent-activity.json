@@ -1,5 +1,17 @@
 [
   {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -172,18 +184,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-toolchain"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
   },
   {
     "name": "fleet-workshop",
