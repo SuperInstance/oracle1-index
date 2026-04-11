@@ -11,7 +11,7 @@
   },
   {
     "language": "Python",
-    "count": 123,
+    "count": 124,
     "color": "#3572A5"
   },
   {
@@ -20,9 +20,9 @@
     "color": "#f1e05a"
   },
   {
-    "language": "C",
-    "count": 7,
-    "color": "#555555"
+    "language": "Makefile",
+    "count": 14,
+    "color": "#8b949e"
   },
   {
     "language": "HTML",
@@ -30,9 +30,9 @@
     "color": "#e34c26"
   },
   {
-    "language": "Makefile",
-    "count": 5,
-    "color": "#8b949e"
+    "language": "C",
+    "count": 7,
+    "color": "#555555"
   },
   {
     "language": "Go",

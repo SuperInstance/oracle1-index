@@ -1,5 +1,41 @@
 [
   {
+    "source": "Lucineer/cuda-genepool",
+    "target": "SuperInstance/cuda-genepool"
+  },
+  {
+    "source": "Lucineer/cuda-ghost-tiles",
+    "target": "SuperInstance/cuda-ghost-tiles"
+  },
+  {
+    "source": "Lucineer/cuda-neurotransmitter",
+    "target": "SuperInstance/cuda-neurotransmitter"
+  },
+  {
+    "source": "Lucineer/cuda-emotion",
+    "target": "SuperInstance/cuda-emotion"
+  },
+  {
+    "source": "Lucineer/cuda-memory-fabric",
+    "target": "SuperInstance/cuda-memory-fabric"
+  },
+  {
+    "source": "Lucineer/cuda-energy",
+    "target": "SuperInstance/cuda-energy"
+  },
+  {
+    "source": "Lucineer/cuda-biology",
+    "target": "SuperInstance/cuda-biology"
+  },
+  {
+    "source": "Lucineer/cuda-confidence",
+    "target": "SuperInstance/cuda-confidence"
+  },
+  {
+    "source": "Lucineer/cuda-trust",
+    "target": "SuperInstance/cuda-trust"
+  },
+  {
     "source": "Lucineer/iron-to-iron",
     "target": "Lucineer/iron-to-iron"
   },
@@ -62,10 +98,6 @@
   {
     "source": "Lucineer/cuda-fusion",
     "target": "SuperInstance/cuda-fusion"
-  },
-  {
-    "source": "Lucineer/cuda-emotion",
-    "target": "SuperInstance/cuda-emotion"
   },
   {
     "source": "Lucineer/cuda-attention",
@@ -444,28 +476,12 @@
     "target": "SuperInstance/cuda-voxel-logic"
   },
   {
-    "source": "Lucineer/cuda-trust",
-    "target": "SuperInstance/cuda-trust"
-  },
-  {
     "source": "Lucineer/cuda-temporal",
     "target": "SuperInstance/cuda-temporal"
   },
   {
     "source": "Lucineer/cuda-reflex",
     "target": "SuperInstance/cuda-reflex"
-  },
-  {
-    "source": "Lucineer/cuda-memory-fabric",
-    "target": "SuperInstance/cuda-memory-fabric"
-  },
-  {
-    "source": "Lucineer/cuda-ghost-tiles",
-    "target": "SuperInstance/cuda-ghost-tiles"
-  },
-  {
-    "source": "Lucineer/cuda-confidence",
-    "target": "SuperInstance/cuda-confidence"
   },
   {
     "source": "Lucineer/cuda-adaptation",
@@ -1124,10 +1140,6 @@
     "target": "SuperInstance/cuda-platonic"
   },
   {
-    "source": "Lucineer/cuda-neurotransmitter",
-    "target": "SuperInstance/cuda-neurotransmitter"
-  },
-  {
     "source": "Lucineer/cuda-neural-compiler",
     "target": "SuperInstance/cuda-neural-compiler"
   },
@@ -1146,10 +1158,6 @@
   {
     "source": "Lucineer/cuda-instruction-set",
     "target": "SuperInstance/cuda-instruction-set"
-  },
-  {
-    "source": "Lucineer/cuda-genepool",
-    "target": "SuperInstance/cuda-genepool"
   },
   {
     "source": "Lucineer/cuda-git-agent",
@@ -1178,10 +1186,6 @@
   {
     "source": "Lucineer/cuda-fault-sim",
     "target": "SuperInstance/cuda-fault-sim"
-  },
-  {
-    "source": "Lucineer/cuda-energy",
-    "target": "SuperInstance/cuda-energy"
   },
   {
     "source": "Lucineer/cuda-emergence",
@@ -1222,10 +1226,6 @@
   {
     "source": "Lucineer/cuda-captain",
     "target": "SuperInstance/cuda-captain"
-  },
-  {
-    "source": "Lucineer/cuda-biology",
-    "target": "SuperInstance/cuda-biology"
   },
   {
     "source": "Lucineer/cuda-axiom",
