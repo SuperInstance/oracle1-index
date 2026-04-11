@@ -1,17 +1,17 @@
 [
   {
     "language": "TypeScript",
-    "count": 296,
+    "count": 297,
     "color": "#3178c6"
   },
   {
     "language": "Rust",
-    "count": 143,
+    "count": 149,
     "color": "#dea584"
   },
   {
     "language": "Python",
-    "count": 122,
+    "count": 123,
     "color": "#3572A5"
   },
   {
@@ -20,14 +20,14 @@
     "color": "#f1e05a"
   },
   {
+    "language": "C",
+    "count": 7,
+    "color": "#555555"
+  },
+  {
     "language": "HTML",
     "count": 7,
     "color": "#e34c26"
-  },
-  {
-    "language": "C",
-    "count": 6,
-    "color": "#555555"
   },
   {
     "language": "Makefile",

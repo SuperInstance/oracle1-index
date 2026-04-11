@@ -7,7 +7,7 @@
   {
     "key": "cuda",
     "title": "CUDA",
-    "count": 176
+    "count": 179
   },
   {
     "key": "fleet",
@@ -32,16 +32,16 @@
   {
     "key": "flux-other",
     "title": "FLUX Other",
-    "count": 18
-  },
-  {
-    "key": "git-agents",
-    "title": "Git Agents",
-    "count": 16
+    "count": 19
   },
   {
     "key": "cocapn",
     "title": "Cocapn",
+    "count": 17
+  },
+  {
+    "key": "git-agents",
+    "title": "Git Agents",
     "count": 16
   },
   {
@@ -82,7 +82,7 @@
   {
     "key": "flux-protocol",
     "title": "FLUX Protocol",
-    "count": 3
+    "count": 4
   },
   {
     "key": "greenhorn",
