@@ -11,7 +11,7 @@
   },
   {
     "language": "Python",
-    "count": 125,
+    "count": 129,
     "color": "#3572A5"
   },
   {
@@ -40,14 +40,14 @@
     "color": "#00ADD8"
   },
   {
-    "language": "Shell",
-    "count": 3,
-    "color": "#89e051"
-  },
-  {
     "language": "Java",
     "count": 3,
     "color": "#b07219"
+  },
+  {
+    "language": "Shell",
+    "count": 2,
+    "color": "#89e051"
   },
   {
     "language": "Cuda",
