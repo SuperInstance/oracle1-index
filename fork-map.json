@@ -4,6 +4,14 @@
     "target": "SuperInstance/brothers-keeper"
   },
   {
+    "source": "Lucineer/tender",
+    "target": "SuperInstance/tender"
+  },
+  {
+    "source": "Lucineer/lighthouse-keeper",
+    "target": "SuperInstance/lighthouse-keeper"
+  },
+  {
     "source": "Lucineer/cuda-rbac",
     "target": "SuperInstance/cuda-rbac"
   },
@@ -208,12 +216,12 @@
     "target": "Lucineer/zeroclaw-1"
   },
   {
-    "source": "Lucineer/cuda-memory-fabric",
-    "target": "SuperInstance/cuda-memory-fabric"
-  },
-  {
     "source": "Lucineer/cuda-ghost-tiles",
     "target": "SuperInstance/cuda-ghost-tiles"
+  },
+  {
+    "source": "Lucineer/cuda-memory-fabric",
+    "target": "SuperInstance/cuda-memory-fabric"
   },
   {
     "source": "Lucineer/cuda-trust",
