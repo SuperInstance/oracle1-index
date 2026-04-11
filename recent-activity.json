@@ -42,10 +42,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-fuzzer",
+    "name": "flux-metrics",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fuzzer",
-    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
+    "url": "https://github.com/SuperInstance/flux-metrics",
+    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -54,10 +54,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-metrics",
+    "name": "flux-fuzzer",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-metrics",
-    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
+    "url": "https://github.com/SuperInstance/flux-fuzzer",
+    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
     "language": "Python",
     "fork": false,
     "stars": 0,

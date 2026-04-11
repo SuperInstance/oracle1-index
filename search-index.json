@@ -42,10 +42,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-fuzzer",
+    "name": "flux-metrics",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fuzzer",
-    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
+    "url": "https://github.com/SuperInstance/flux-metrics",
+    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -54,10 +54,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-metrics",
+    "name": "flux-fuzzer",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-metrics",
-    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
+    "url": "https://github.com/SuperInstance/flux-fuzzer",
+    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -678,7 +678,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "flux-research"
+    "category": "flux-other"
   },
   {
     "name": "flux-py",
@@ -777,11 +777,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-cuda",
+    "name": "flux-llama",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-cuda",
-    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
-    "language": "Cuda",
+    "url": "https://github.com/SuperInstance/flux-llama",
+    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
+    "language": "C",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -789,11 +789,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-llama",
+    "name": "flux-cuda",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-llama",
-    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
-    "language": "C",
+    "url": "https://github.com/SuperInstance/flux-cuda",
+    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
+    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -810,7 +810,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "flux-research"
+    "category": "flux-other"
   },
   {
     "name": "hav-reverse-actualization",
@@ -945,10 +945,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-memory-fabric",
+    "name": "cuda-trust",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-memory-fabric",
-    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
+    "url": "https://github.com/Lucineer/cuda-trust",
+    "description": "Trust engine \u2014 grows slowly, decays fast, multi-context trust profiles with Bayesian fusion (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -957,10 +957,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-trust",
+    "name": "cuda-memory-fabric",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-trust",
-    "description": "Trust engine \u2014 grows slowly, decays fast, multi-context trust profiles with Bayesian fusion (Rust)",
+    "url": "https://github.com/Lucineer/cuda-memory-fabric",
+    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1197,10 +1197,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-edge-runtime",
+    "name": "cuda-resolve-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-edge-runtime",
-    "description": "Rust+CUDA rebuild of nexus-edge-runtime \u2014 GPU trust engine, reflex compiler, fleet coordination",
+    "url": "https://github.com/Lucineer/cuda-resolve-agent",
+    "description": "Deliberative A2A agent \u2014 Consider/Resolve/Forfeit with Bayesian confidence, built on cuda-equipment",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1209,10 +1209,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-resolve-agent",
+    "name": "cuda-edge-runtime",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-resolve-agent",
-    "description": "Deliberative A2A agent \u2014 Consider/Resolve/Forfeit with Bayesian confidence, built on cuda-equipment",
+    "url": "https://github.com/Lucineer/cuda-edge-runtime",
+    "description": "Rust+CUDA rebuild of nexus-edge-runtime \u2014 GPU trust engine, reflex compiler, fleet coordination",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1485,10 +1485,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-discovery",
+    "name": "cuda-pipeline",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-discovery",
-    "description": "Service discovery \u2014 agent registration, health probing, capability lookup, fleet directory (Rust)",
+    "url": "https://github.com/Lucineer/cuda-pipeline",
+    "description": "Data pipeline \u2014 ETL stages, map/filter/reduce transforms, stream processing (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1497,10 +1497,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-pipeline",
+    "name": "cuda-discovery",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-pipeline",
-    "description": "Data pipeline \u2014 ETL stages, map/filter/reduce transforms, stream processing (Rust)",
+    "url": "https://github.com/Lucineer/cuda-discovery",
+    "description": "Service discovery \u2014 agent registration, health probing, capability lookup, fleet directory (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1521,10 +1521,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-cache",
+    "name": "cuda-serializer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-cache",
-    "description": "Caching \u2014 LRU eviction, TTL expiration, namespaces, hit/miss stats (Rust)",
+    "url": "https://github.com/Lucineer/cuda-serializer",
+    "description": "Serialization \u2014 binary encoding, message framing, schema evolution, varint (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1545,10 +1545,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-serializer",
+    "name": "cuda-cache",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-serializer",
-    "description": "Serialization \u2014 binary encoding, message framing, schema evolution, varint (Rust)",
+    "url": "https://github.com/Lucineer/cuda-cache",
+    "description": "Caching \u2014 LRU eviction, TTL expiration, namespaces, hit/miss stats (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1713,10 +1713,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-metrics",
+    "name": "cuda-weather",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-metrics",
-    "description": "Telemetry \u2014 counters, gauges, histograms, timers, health checks, metric aggregation (Rust)",
+    "url": "https://github.com/Lucineer/cuda-weather",
+    "description": "Environmental sensing \u2014 temperature, humidity, light, noise, terrain, weather inference (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1725,10 +1725,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-weather",
+    "name": "cuda-metrics",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-weather",
-    "description": "Environmental sensing \u2014 temperature, humidity, light, noise, terrain, weather inference (Rust)",
+    "url": "https://github.com/Lucineer/cuda-metrics",
+    "description": "Telemetry \u2014 counters, gauges, histograms, timers, health checks, metric aggregation (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2298,7 +2298,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "provider-abstraction-layer",
@@ -2346,7 +2346,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "Private-ML-Personalization",
@@ -2454,7 +2454,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "nexus-runtime",
@@ -2505,18 +2505,6 @@
     "category": "other"
   },
   {
-    "name": "monitoring-dashboard",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/monitoring-dashboard",
-    "description": "Web dashboard for real-time system and app monitoring",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "MPC-Orchestration-Optimization",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/MPC-Orchestration-Optimization",
@@ -2529,6 +2517,18 @@
     "category": "other"
   },
   {
+    "name": "monitoring-dashboard",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/monitoring-dashboard",
+    "description": "Web dashboard for real-time system and app monitoring",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "infrastructure"
+  },
+  {
     "name": "model-switching-strategy",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/model-switching-strategy",
@@ -2538,7 +2538,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "conversation-toolkit",
@@ -2826,7 +2826,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "AI-Smart-Notifications",
@@ -2877,11 +2877,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-backend",
+    "name": "activelog-claude",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-backend",
-    "description": "Backend service for activity logging.",
-    "language": "PowerShell",
+    "url": "https://github.com/SuperInstance/activelog-claude",
+    "description": "Activity Log plugin for Claude.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2889,11 +2889,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-claude",
+    "name": "activelog-backend",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-claude",
-    "description": "Activity Log plugin for Claude.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/activelog-backend",
+    "description": "Backend service for activity logging.",
+    "language": "PowerShell",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2982,7 +2982,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "JEPA-Real-Time-Sentiment-Analysis",
@@ -3006,7 +3006,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "jam",
@@ -3030,7 +3030,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "In-Browser-Dev-Tools",
@@ -3066,7 +3066,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "health",
@@ -3078,7 +3078,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "hardware-capability-profiler",
@@ -3186,7 +3186,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "educationgamecocapn",
@@ -3194,18 +3194,6 @@
     "url": "https://github.com/SuperInstance/educationgamecocapn",
     "description": "Educational game featuring a captain character.",
     "language": "JavaScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
-    "name": "dodecet-encoder",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/dodecet-encoder",
-    "description": "Encoder model utilizing a dodecet architecture.",
-    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -3225,6 +3213,18 @@
     "category": "other"
   },
   {
+    "name": "dodecet-encoder",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/dodecet-encoder",
+    "description": "Encoder model utilizing a dodecet architecture.",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "ai-ml"
+  },
+  {
     "name": "DMLog",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/DMLog",
@@ -3234,7 +3234,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "cost-analysis",
@@ -3330,7 +3330,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "test-repo",
@@ -3378,7 +3378,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "cuda-narrative",
@@ -3546,7 +3546,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "vessel-bridge",
@@ -3618,7 +3618,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "travlog-ai",
@@ -3678,7 +3678,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "the-technician",
@@ -3774,7 +3774,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "swarm-intuition-v2",
@@ -3822,7 +3822,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "stigmergy",
@@ -4026,7 +4026,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "resolve",
@@ -4050,7 +4050,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "reallog-ai",
@@ -4134,7 +4134,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "personallog-1",
@@ -4230,7 +4230,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "open-fleet-safety",
@@ -4254,7 +4254,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "onebit-edge",
@@ -4350,7 +4350,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "nexus-learning",
@@ -4422,7 +4422,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "nexus-edge-runtime",
@@ -4446,7 +4446,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "nexus-comms",
@@ -4506,7 +4506,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "error-catalog",
@@ -4650,7 +4650,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "IKKF",
@@ -4674,7 +4674,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "mitochondrial-ra",
@@ -4698,7 +4698,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "metal-profile",
@@ -4818,7 +4818,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "log-origin",
@@ -4842,7 +4842,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "local-inference-bridge",
@@ -4854,7 +4854,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "local-bridge",
@@ -5034,7 +5034,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "increments-fleet-trust",
@@ -5070,7 +5070,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "i-know-kung-fu-too",
@@ -5178,7 +5178,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "gravity-well-protocol",
@@ -5238,7 +5238,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "git-coordination-protocol",
@@ -6042,7 +6042,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "fleet-backup",
@@ -6201,18 +6201,6 @@
     "category": "other"
   },
   {
-    "name": "edge-compiler",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/edge-compiler",
-    "description": "Compile and optimize models for specific hardware targets",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "edge-equipment-catalog",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/edge-equipment-catalog",
@@ -6223,6 +6211,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "other"
+  },
+  {
+    "name": "edge-compiler",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/edge-compiler",
+    "description": "Compile and optimize models for specific hardware targets",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "ai-ml"
   },
   {
     "name": "edge-boarding-protocol",
@@ -6393,18 +6393,6 @@
     "category": "marine"
   },
   {
-    "name": "debug-observatory",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/debug-observatory",
-    "description": "Fleet-wide debugging hub",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "deckboss-1",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/deckboss-1",
@@ -6417,6 +6405,18 @@
     "category": "marine"
   },
   {
+    "name": "debug-observatory",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/debug-observatory",
+    "description": "Fleet-wide debugging hub",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "other"
+  },
+  {
     "name": "dead-reckoning-engine",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/dead-reckoning-engine",
@@ -6426,7 +6426,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "cudaclaw-1",
@@ -6978,7 +6978,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-studio",
@@ -6990,7 +6990,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-ranch",
@@ -7002,7 +7002,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-herding",
@@ -7014,7 +7014,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-fishing",
@@ -7026,7 +7026,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "marine"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-discgolf",
@@ -7038,7 +7038,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-courses",
@@ -7050,7 +7050,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind",
@@ -7062,7 +7062,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-circuits",
@@ -7074,7 +7074,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftlog-ai",
@@ -7110,7 +7110,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "cooklog-ai",
@@ -7254,7 +7254,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "compliance-watcher",
@@ -7302,7 +7302,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "collective-mind",
@@ -7698,7 +7698,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "agent-tattoo",
@@ -7842,7 +7842,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "activelog-ai",
@@ -7914,7 +7914,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "superinstance-index",
@@ -8028,18 +8028,6 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-model-descent",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-model-descent",
-    "description": "Model descent \u2014 the ultimate decomposition. Algorithms absorb intelligence over time, reducing inference cost to zero",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-09",
-    "category": "cuda"
-  },
-  {
     "name": "cuda-self-modify",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-self-modify",
@@ -8056,6 +8044,18 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-stream-processor",
     "description": "Deliberation stream processor \u2014 real-time A2A payload stream with feed-in and equilibrium signals",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-09",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-model-descent",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-model-descent",
+    "description": "Model descent \u2014 the ultimate decomposition. Algorithms absorb intelligence over time, reducing inference cost to zero",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -8205,7 +8205,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "the-fleet",
@@ -8272,7 +8272,7 @@
     "stars": 1,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "cuda-intelligence",
@@ -8344,7 +8344,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "nexus-comms",
@@ -8380,7 +8380,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "nexus-explainability",
@@ -8428,7 +8428,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "nexus-energy",
@@ -8440,7 +8440,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "cudaclaw",
@@ -8476,7 +8476,7 @@
     "stars": 2,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "agentic-compiler",
@@ -8572,7 +8572,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "ghost-tiles",
@@ -8632,7 +8632,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "fleet-knowledge",
@@ -8987,7 +8987,7 @@
       "reverse-actualization"
     ],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "craftmind-fishing",
@@ -9004,7 +9004,7 @@
       "minecraft"
     ],
     "updated": "2026-04-08",
-    "category": "marine"
+    "category": "craftmind"
   },
   {
     "name": "coinlog-ai",
@@ -9041,7 +9041,7 @@
       "mineflayer"
     ],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "codelog-ai",
@@ -9147,7 +9147,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "the-technician",
@@ -9171,7 +9171,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "contributor-hub",
@@ -9219,7 +9219,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "device-discovery",
@@ -9243,7 +9243,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "sensor-mesh",
@@ -9267,7 +9267,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "hw-routing",
@@ -9459,7 +9459,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "fleet-nervous-system",
@@ -10155,7 +10155,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "config-vault",
@@ -10191,7 +10191,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "skill-exchange",
@@ -10303,7 +10303,7 @@
       "multi-model"
     ],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "context-compactor",
@@ -10387,7 +10387,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "branch-sandbox",
@@ -10459,7 +10459,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "fleet-notifications",
@@ -10531,7 +10531,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "fleet-backup",
@@ -10723,7 +10723,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "storyboard-engine",
@@ -10735,7 +10735,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "fleet-starter",
@@ -10879,7 +10879,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "fleet-blueprint",
@@ -10919,7 +10919,7 @@
       "reference-architecture"
     ],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "Constraint-Theory",
@@ -10959,7 +10959,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "ues-protocol",
@@ -11013,7 +11013,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "musiclog-ai",
@@ -11068,7 +11068,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "mycelium-ai",
@@ -11196,18 +11196,6 @@
     "category": "fleet"
   },
   {
-    "name": "loop-closure",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/loop-closure",
-    "description": "Meta-orchestrator \u2014 closes the fleet loop: decompose, execute, monitor, evolve",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-08",
-    "category": "other"
-  },
-  {
     "name": "meta-loop-evolver",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/meta-loop-evolver",
@@ -11230,6 +11218,18 @@
     "topics": [],
     "updated": "2026-04-08",
     "category": "other"
+  },
+  {
+    "name": "loop-closure",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/loop-closure",
+    "description": "Meta-orchestrator \u2014 closes the fleet loop: decompose, execute, monitor, evolve",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-08",
+    "category": "infrastructure"
   },
   {
     "name": "clawcommit-lucid",
@@ -11256,6 +11256,18 @@
     "category": "other"
   },
   {
+    "name": "flow-forge",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flow-forge",
+    "description": "Zero-code natural language workflow builder for the Cocapn Fleet",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-08",
+    "category": "other"
+  },
+  {
     "name": "dogmind-arena",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/dogmind-arena",
@@ -11269,18 +11281,6 @@
       "game",
       "genetic-algorithm"
     ],
-    "updated": "2026-04-08",
-    "category": "other"
-  },
-  {
-    "name": "flow-forge",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flow-forge",
-    "description": "Zero-code natural language workflow builder for the Cocapn Fleet",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
     "updated": "2026-04-08",
     "category": "other"
   },
@@ -11453,7 +11453,7 @@
     "stars": 2,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "git-agent-rebase",
@@ -11667,7 +11667,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "Lucineer-chip",
@@ -11720,22 +11720,6 @@
     "category": "other"
   },
   {
-    "name": "cocapn-press",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cocapn-press",
-    "description": "Press, marketing, and narrative strategy for the cocapn ecosystem",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "cocapn",
-      "marketing",
-      "press"
-    ],
-    "updated": "2026-04-07",
-    "category": "cocapn"
-  },
-  {
     "name": "membership-api",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/membership-api",
@@ -11751,6 +11735,22 @@
     ],
     "updated": "2026-04-07",
     "category": "other"
+  },
+  {
+    "name": "cocapn-press",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cocapn-press",
+    "description": "Press, marketing, and narrative strategy for the cocapn ecosystem",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "cocapn",
+      "marketing",
+      "press"
+    ],
+    "updated": "2026-04-07",
+    "category": "cocapn"
   },
   {
     "name": "dream-engine",
@@ -11911,7 +11911,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "travelog-ai",
@@ -11961,7 +11961,7 @@
       "minecraft"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "i-know-kung-fu-too",
@@ -12011,7 +12011,7 @@
       "rust"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "Tripartite1",
@@ -12027,7 +12027,7 @@
       "multi-agent"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "businesslog",
@@ -12059,7 +12059,7 @@
       "model-context-protocol"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "personallog",
@@ -12377,7 +12377,7 @@
       "quality"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "forgiveness-function",
@@ -12444,7 +12444,7 @@
       "self-improvement"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-studio",
@@ -12460,7 +12460,7 @@
       "minecraft"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-courses",
@@ -12477,7 +12477,7 @@
       "minecraft"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-ranch",
@@ -12494,7 +12494,7 @@
       "ranch"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-circuits",
@@ -12511,7 +12511,7 @@
       "minecraft"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "craftmind-herding",
@@ -12528,7 +12528,7 @@
       "minecraft"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "nexus-fracture-sim",
@@ -12544,7 +12544,7 @@
       "simulation"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "edge-equipment-catalog",
@@ -12592,7 +12592,7 @@
       "protocol"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "gravity-well-protocol",
@@ -12691,7 +12691,7 @@
       "skills"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "kernel-model",
@@ -12855,7 +12855,7 @@
       "research"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "bid-engine",
@@ -12943,7 +12943,7 @@
       "repo-agent"
     ],
     "updated": "2026-04-07",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "gardenlog-ai",
@@ -13084,7 +13084,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-04-03",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "personallog-ai",
@@ -13216,7 +13216,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-28",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "modly",
@@ -13228,7 +13228,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-28",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "I-know-kung-fu",
@@ -13345,7 +13345,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-19",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "SuperInstanceEco",
@@ -13417,7 +13417,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "cache-layer-optimizer",
@@ -13429,7 +13429,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "distributed-tracing",
@@ -13465,7 +13465,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "frozen-model-rl",
@@ -13477,7 +13477,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "task-queue",
@@ -13489,7 +13489,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "rate-limiter",
@@ -13501,7 +13501,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "rag-indexer",
@@ -13513,7 +13513,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "protocol-adapters",
@@ -13549,7 +13549,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "timeseries-db",
@@ -13561,7 +13561,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "vector-navigator",
@@ -13573,7 +13573,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "inference-optimizer",
@@ -13585,7 +13585,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "StudyLog",
@@ -13621,7 +13621,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-18",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "cuda-claw",
@@ -13825,7 +13825,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-03-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "Rubiks-Tensor-Transformer",
@@ -13849,7 +13849,7 @@
     "stars": 1,
     "topics": [],
     "updated": "2026-03-07",
-    "category": "other"
+    "category": "craftmind"
   },
   {
     "name": "Mycelium",
@@ -13969,7 +13969,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "ai-character-sdk",
@@ -13993,7 +13993,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-10",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "ai-character-integrations",
@@ -14041,7 +14041,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "escalation-engine",
@@ -14053,7 +14053,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-10",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "ws-status-indicator",
@@ -14089,7 +14089,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "usemeter",
@@ -14125,7 +14125,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "tripartite-rs",
@@ -14137,7 +14137,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-09",
-    "category": "other"
+    "category": "consensus"
   },
   {
     "name": "vector-search",
@@ -14149,7 +14149,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-09",
-    "category": "other"
+    "category": "ai-ml"
   },
   {
     "name": "jepa-sentiment",
@@ -14173,7 +14173,7 @@
     "stars": 0,
     "topics": [],
     "updated": "2026-01-09",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "examples",

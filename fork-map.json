@@ -992,12 +992,12 @@
     "target": "SuperInstance/edge-native-paper"
   },
   {
-    "source": "Lucineer/edge-compiler",
-    "target": "SuperInstance/edge-compiler"
-  },
-  {
     "source": "Lucineer/edge-equipment-catalog",
     "target": "SuperInstance/edge-equipment-catalog"
+  },
+  {
+    "source": "Lucineer/edge-compiler",
+    "target": "SuperInstance/edge-compiler"
   },
   {
     "source": "Lucineer/edge-boarding-protocol",
@@ -1056,12 +1056,12 @@
     "target": "SuperInstance/deckboss-ai"
   },
   {
-    "source": "Lucineer/debug-observatory",
-    "target": "SuperInstance/debug-observatory"
-  },
-  {
     "source": "Lucineer/deckboss-1",
     "target": "SuperInstance/deckboss-1"
+  },
+  {
+    "source": "Lucineer/debug-observatory",
+    "target": "SuperInstance/debug-observatory"
   },
   {
     "source": "Lucineer/dead-reckoning-engine",
