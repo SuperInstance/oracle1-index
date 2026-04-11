@@ -1,23 +1,223 @@
 [
   {
-    "source": "Lucineer/zeroclaw-1",
-    "target": "Lucineer/zeroclaw-1"
+    "source": "Lucineer/brothers-keeper",
+    "target": "SuperInstance/brothers-keeper"
   },
   {
-    "source": "Lucineer/cuda-ghost-tiles",
-    "target": "SuperInstance/cuda-ghost-tiles"
+    "source": "Lucineer/cuda-rbac",
+    "target": "SuperInstance/cuda-rbac"
+  },
+  {
+    "source": "Lucineer/cuda-state-machine",
+    "target": "SuperInstance/cuda-state-machine"
+  },
+  {
+    "source": "Lucineer/cuda-observer",
+    "target": "SuperInstance/cuda-observer"
+  },
+  {
+    "source": "Lucineer/cuda-event",
+    "target": "SuperInstance/cuda-event"
+  },
+  {
+    "source": "Lucineer/cuda-discovery",
+    "target": "SuperInstance/cuda-discovery"
+  },
+  {
+    "source": "Lucineer/cuda-lock",
+    "target": "SuperInstance/cuda-lock"
+  },
+  {
+    "source": "Lucineer/cuda-serializer",
+    "target": "SuperInstance/cuda-serializer"
+  },
+  {
+    "source": "Lucineer/cuda-mesh",
+    "target": "SuperInstance/cuda-mesh"
+  },
+  {
+    "source": "Lucineer/cuda-cache",
+    "target": "SuperInstance/cuda-cache"
+  },
+  {
+    "source": "Lucineer/cuda-logging",
+    "target": "SuperInstance/cuda-logging"
+  },
+  {
+    "source": "Lucineer/cuda-retry",
+    "target": "SuperInstance/cuda-retry"
+  },
+  {
+    "source": "Lucineer/cuda-rate-limit",
+    "target": "SuperInstance/cuda-rate-limit"
+  },
+  {
+    "source": "Lucineer/cuda-config",
+    "target": "SuperInstance/cuda-config"
+  },
+  {
+    "source": "Lucineer/cuda-cryptography",
+    "target": "SuperInstance/cuda-cryptography"
+  },
+  {
+    "source": "Lucineer/cuda-provenance",
+    "target": "SuperInstance/cuda-provenance"
+  },
+  {
+    "source": "Lucineer/cuda-consensus",
+    "target": "SuperInstance/cuda-consensus"
+  },
+  {
+    "source": "Lucineer/cuda-resource",
+    "target": "SuperInstance/cuda-resource"
+  },
+  {
+    "source": "Lucineer/cuda-prompt",
+    "target": "SuperInstance/cuda-prompt"
+  },
+  {
+    "source": "Lucineer/cuda-schedule",
+    "target": "SuperInstance/cuda-schedule"
+  },
+  {
+    "source": "Lucineer/cuda-navigation",
+    "target": "SuperInstance/cuda-navigation"
+  },
+  {
+    "source": "Lucineer/cuda-tuple-space",
+    "target": "SuperInstance/cuda-tuple-space"
+  },
+  {
+    "source": "Lucineer/cuda-weather",
+    "target": "SuperInstance/cuda-weather"
+  },
+  {
+    "source": "Lucineer/cuda-persistence",
+    "target": "SuperInstance/cuda-persistence"
+  },
+  {
+    "source": "Lucineer/cuda-sandbox",
+    "target": "SuperInstance/cuda-sandbox"
+  },
+  {
+    "source": "Lucineer/cuda-metrics",
+    "target": "SuperInstance/cuda-metrics"
+  },
+  {
+    "source": "Lucineer/cuda-playbook",
+    "target": "SuperInstance/cuda-playbook"
+  },
+  {
+    "source": "Lucineer/cuda-hierarchy",
+    "target": "SuperInstance/cuda-hierarchy"
+  },
+  {
+    "source": "Lucineer/cuda-motor",
+    "target": "SuperInstance/cuda-motor"
+  },
+  {
+    "source": "Lucineer/cuda-decision",
+    "target": "SuperInstance/cuda-decision"
+  },
+  {
+    "source": "Lucineer/cuda-social",
+    "target": "SuperInstance/cuda-social"
+  },
+  {
+    "source": "Lucineer/cuda-world-model",
+    "target": "SuperInstance/cuda-world-model"
+  },
+  {
+    "source": "Lucineer/cuda-self-model",
+    "target": "SuperInstance/cuda-self-model"
+  },
+  {
+    "source": "Lucineer/cuda-communication",
+    "target": "SuperInstance/cuda-communication"
+  },
+  {
+    "source": "Lucineer/cuda-skill",
+    "target": "SuperInstance/cuda-skill"
+  },
+  {
+    "source": "Lucineer/cuda-perception",
+    "target": "SuperInstance/cuda-perception"
+  },
+  {
+    "source": "Lucineer/cuda-learning",
+    "target": "SuperInstance/cuda-learning"
+  },
+  {
+    "source": "Lucineer/cuda-time",
+    "target": "SuperInstance/cuda-time"
+  },
+  {
+    "source": "Lucineer/cuda-snapshot",
+    "target": "SuperInstance/cuda-snapshot"
+  },
+  {
+    "source": "Lucineer/cuda-semantic-router",
+    "target": "SuperInstance/cuda-semantic-router"
+  },
+  {
+    "source": "Lucineer/cuda-adaptive-rate",
+    "target": "SuperInstance/cuda-adaptive-rate"
+  },
+  {
+    "source": "Lucineer/cuda-bytecode-optimizer",
+    "target": "SuperInstance/cuda-bytecode-optimizer"
+  },
+  {
+    "source": "Lucineer/cuda-context-window",
+    "target": "SuperInstance/cuda-context-window"
+  },
+  {
+    "source": "Lucineer/cuda-fleet-topology",
+    "target": "SuperInstance/cuda-fleet-topology"
+  },
+  {
+    "source": "Lucineer/cuda-fleet-health",
+    "target": "SuperInstance/cuda-fleet-health"
+  },
+  {
+    "source": "Lucineer/cuda-edge-lint",
+    "target": "SuperInstance/cuda-edge-lint"
+  },
+  {
+    "source": "Lucineer/cuda-bottleneck",
+    "target": "SuperInstance/cuda-bottleneck"
+  },
+  {
+    "source": "Lucineer/cuda-hav-bridge",
+    "target": "SuperInstance/cuda-hav-bridge"
+  },
+  {
+    "source": "Lucineer/cuda-pipeline",
+    "target": "SuperInstance/cuda-pipeline"
+  },
+  {
+    "source": "Lucineer/cuda-workflow",
+    "target": "SuperInstance/cuda-workflow"
+  },
+  {
+    "source": "Lucineer/cuda-genepool",
+    "target": "SuperInstance/cuda-genepool"
+  },
+  {
+    "source": "Lucineer/zeroclaw-1",
+    "target": "Lucineer/zeroclaw-1"
   },
   {
     "source": "Lucineer/cuda-memory-fabric",
     "target": "SuperInstance/cuda-memory-fabric"
   },
   {
-    "source": "Lucineer/cuda-trust",
-    "target": "SuperInstance/cuda-trust"
+    "source": "Lucineer/cuda-ghost-tiles",
+    "target": "SuperInstance/cuda-ghost-tiles"
   },
   {
-    "source": "Lucineer/cuda-genepool",
-    "target": "SuperInstance/cuda-genepool"
+    "source": "Lucineer/cuda-trust",
+    "target": "SuperInstance/cuda-trust"
   },
   {
     "source": "Lucineer/cuda-neurotransmitter",
