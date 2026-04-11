@@ -1,0 +1,66 @@
+name: Update Oracle1 Index
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # Every 15 minutes
+  workflow_dispatch:  # Manual trigger
+  push:
+    paths:
+      - '.github/workflows/update-index.yml'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Generate index data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/generate_index.py
+      
+      - name: Update dashboard timestamp
+        run: |
+          echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > last-updated.txt
+      
+      - name: Commit changes
+        run: |
+          git config user.name "oracle1-indexer[bot]"
+          git config user.email "oracle1-indexer[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: update index $(date -u +%Y-%m-%d\ %H:%M UTC)"
+            git push
+          fi
+      
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+  
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
