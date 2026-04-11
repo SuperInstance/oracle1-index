@@ -1,23 +1,35 @@
 [
   {
-    "name": "greenhorn-onboarding",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/greenhorn-onboarding",
-    "description": "\ud83d\udfe2 Point an agent here. Give it a PAT. Watch it find its place. Zero-config fleet onboarding for the Cocapn Fleet.",
+    "name": "lighthouse-keeper",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
     "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
-    "category": "greenhorn"
+    "category": "other"
+  },
+  {
+    "name": "tender",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/tender",
+    "description": "Mobile fleet provisioning and logistics for AI agent operations",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
   },
   {
     "name": "brothers-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/brothers-keeper",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/brothers-keeper",
     "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
     "language": "Python",
-    "fork": true,
+    "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
@@ -42,16 +54,64 @@
     "category": "other"
   },
   {
-    "name": "brothers-keeper",
+    "name": "test-api",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/brothers-keeper",
-    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
-    "language": "Python",
+    "url": "https://github.com/Lucineer/test-api",
+    "description": null,
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
     "category": "other"
+  },
+  {
+    "name": "brothers-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/brothers-keeper",
+    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "flux-spec",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-spec",
+    "description": "FLUX Ecosystem - flux-spec",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "greenhorn-onboarding",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/greenhorn-onboarding",
+    "description": "\ud83d\udfe2 Point an agent here. Give it a PAT. Watch it find its place. Zero-config fleet onboarding for the Cocapn Fleet.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "greenhorn"
   },
   {
     "name": "iron-to-iron",
@@ -772,18 +832,6 @@
     "category": "flux-protocol"
   },
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "zeroclaw-1",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/zeroclaw-1",
@@ -849,18 +897,6 @@
     ],
     "updated": "2026-04-11",
     "category": "other"
-  },
-  {
-    "name": "flux-spec",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-spec",
-    "description": "FLUX Ecosystem - flux-spec",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
   },
   {
     "name": "flux-runtime-c",
@@ -1643,10 +1679,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-context-window",
+    "name": "cuda-bytecode-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-context-window",
-    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
+    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
+    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1655,10 +1691,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-bytecode-optimizer",
+    "name": "cuda-context-window",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
-    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
+    "url": "https://github.com/Lucineer/cuda-context-window",
+    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1859,10 +1895,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-fpga-toolkit",
+    "name": "cuda-rtl-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
-    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
+    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
+    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1871,10 +1907,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rtl-optimizer",
+    "name": "cuda-fpga-toolkit",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
-    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
+    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
+    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1895,10 +1931,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-weight-stream",
+    "name": "cuda-swarm-tiler",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-weight-stream",
-    "description": "DDR4 to BRAM weight streaming \u2014 tiled weight loading for inference silicon with prefetch and LRU eviction",
+    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
+    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -1919,10 +1955,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-swarm-tiler",
+    "name": "cuda-weight-stream",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
-    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
+    "url": "https://github.com/Lucineer/cuda-weight-stream",
+    "description": "DDR4 to BRAM weight streaming \u2014 tiled weight loading for inference silicon with prefetch and LRU eviction",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2075,10 +2111,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-voxel-logic",
+    "name": "cuda-platonic",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-voxel-logic",
-    "description": "3D voxel spatial reasoning \u2014 occupancy grids, A* pathfinding, raycasting, CSG operations (Rust)",
+    "url": "https://github.com/Lucineer/cuda-platonic",
+    "description": "Platonic forms \u2014 ideal type templates agents measure against and evolve toward (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2087,10 +2123,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-platonic",
+    "name": "cuda-voxel-logic",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-platonic",
-    "description": "Platonic forms \u2014 ideal type templates agents measure against and evolve toward (Rust)",
+    "url": "https://github.com/Lucineer/cuda-voxel-logic",
+    "description": "3D voxel spatial reasoning \u2014 occupancy grids, A* pathfinding, raycasting, CSG operations (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2111,10 +2147,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-adaptation",
+    "name": "cuda-temporal",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-adaptation",
-    "description": "Runtime self-adaptation \u2014 adaptive parameters, strategy switching, behavioral plasticity, hill-climbing (Rust)",
+    "url": "https://github.com/Lucineer/cuda-temporal",
+    "description": "Temporal reasoning \u2014 time intervals, causal chains, deadline urgency, scheduling with conflict detection (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2123,10 +2159,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-temporal",
+    "name": "cuda-adaptation",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-temporal",
-    "description": "Temporal reasoning \u2014 time intervals, causal chains, deadline urgency, scheduling with conflict detection (Rust)",
+    "url": "https://github.com/Lucineer/cuda-adaptation",
+    "description": "Runtime self-adaptation \u2014 adaptive parameters, strategy switching, behavioral plasticity, hill-climbing (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2171,10 +2207,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-narrative",
+    "name": "cuda-fusion",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-narrative",
-    "description": "Narrative construction \u2014 agents build explanations from events, memory, and goals with themes and similarity search (Rust)",
+    "url": "https://github.com/Lucineer/cuda-fusion",
+    "description": "Multi-sensor data fusion \u2014 weighted/Bayesian/median methods, outlier rejection, sensor health (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2183,10 +2219,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-fusion",
+    "name": "cuda-narrative",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-fusion",
-    "description": "Multi-sensor data fusion \u2014 weighted/Bayesian/median methods, outlier rejection, sensor health (Rust)",
+    "url": "https://github.com/Lucineer/cuda-narrative",
+    "description": "Narrative construction \u2014 agents build explanations from events, memory, and goals with themes and similarity search (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2339,10 +2375,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-sandbox",
+    "name": "cuda-persistence",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-sandbox",
-    "description": "Sandbox \u2014 execution isolation, resource limits, operation policies, fault containment (Rust)",
+    "url": "https://github.com/Lucineer/cuda-persistence",
+    "description": "Persistence \u2014 checkpointing, state serialization, recovery, rollback, dirty tracking (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2351,10 +2387,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-persistence",
+    "name": "cuda-sandbox",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-persistence",
-    "description": "Persistence \u2014 checkpointing, state serialization, recovery, rollback, dirty tracking (Rust)",
+    "url": "https://github.com/Lucineer/cuda-sandbox",
+    "description": "Sandbox \u2014 execution isolation, resource limits, operation policies, fault containment (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2483,10 +2519,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rate-limit",
+    "name": "cuda-retry",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rate-limit",
-    "description": "Rate limiting \u2014 token bucket, sliding window, per-agent quotas, backpressure (Rust)",
+    "url": "https://github.com/Lucineer/cuda-retry",
+    "description": "Retry \u2014 exponential backoff, jitter, circuit breaker, resilient execution patterns (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2495,10 +2531,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-retry",
+    "name": "cuda-rate-limit",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-retry",
-    "description": "Retry \u2014 exponential backoff, jitter, circuit breaker, resilient execution patterns (Rust)",
+    "url": "https://github.com/Lucineer/cuda-rate-limit",
+    "description": "Rate limiting \u2014 token bucket, sliding window, per-agent quotas, backpressure (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2627,18 +2663,6 @@
     "category": "cuda"
   },
   {
-    "name": "cocapn-fleet-readme",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cocapn-fleet-readme",
-    "description": "Master fleet README, roadmap, and vessel registry",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cocapn"
-  },
-  {
     "name": "cuda-metrics-v2",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-metrics-v2",
@@ -2649,6 +2673,18 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "cuda"
+  },
+  {
+    "name": "cocapn-fleet-readme",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cocapn-fleet-readme",
+    "description": "Master fleet README, roadmap, and vessel registry",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cocapn"
   },
   {
     "name": "cuda-resilience",
@@ -2711,10 +2747,10 @@
     "category": "flux-other"
   },
   {
-    "name": "cuda-crdt",
+    "name": "cuda-budget",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-crdt",
-    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
+    "url": "https://github.com/Lucineer/cuda-budget",
+    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2723,10 +2759,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-budget",
+    "name": "cuda-crdt",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-budget",
-    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
+    "url": "https://github.com/Lucineer/cuda-crdt",
+    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2771,10 +2807,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-saga",
+    "name": "cuda-instruction-set",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-saga",
-    "description": "Saga pattern \u2014 distributed transactions, compensation, recovery (Rust)",
+    "url": "https://github.com/Lucineer/cuda-instruction-set",
+    "description": "Agent-native instruction set with confidence propagation, A2A encoding, assembler/disassembler (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2783,10 +2819,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-instruction-set",
+    "name": "cuda-saga",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-instruction-set",
-    "description": "Agent-native instruction set with confidence propagation, A2A encoding, assembler/disassembler (Rust)",
+    "url": "https://github.com/Lucineer/cuda-saga",
+    "description": "Saga pattern \u2014 distributed transactions, compensation, recovery (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2831,10 +2867,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-filtration",
+    "name": "cuda-convergence",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-filtration",
-    "description": "Intelligence filtration \u2014 extract insights from agent deliberation streams in real-time",
+    "url": "https://github.com/Lucineer/cuda-convergence",
+    "description": "Convergence detection \u2014 equilibrium processing for A2A deliberation systems",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2843,10 +2879,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-convergence",
+    "name": "cuda-filtration",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-convergence",
-    "description": "Convergence detection \u2014 equilibrium processing for A2A deliberation systems",
+    "url": "https://github.com/Lucineer/cuda-filtration",
+    "description": "Intelligence filtration \u2014 extract insights from agent deliberation streams in real-time",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2891,10 +2927,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-swarm-agent",
+    "name": "cuda-sensor-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-agent",
-    "description": "Autonomous swarm vessel \u2014 self-contained agent with fleet coordination, deliberation, health",
+    "url": "https://github.com/Lucineer/cuda-sensor-agent",
+    "description": "Perception agent \u2014 sensor fusion, confidence-weighted observations, health monitoring, built on cuda-equipment",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2903,10 +2939,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-sensor-agent",
+    "name": "cuda-swarm-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-sensor-agent",
-    "description": "Perception agent \u2014 sensor fusion, confidence-weighted observations, health monitoring, built on cuda-equipment",
+    "url": "https://github.com/Lucineer/cuda-swarm-agent",
+    "description": "Autonomous swarm vessel \u2014 self-contained agent with fleet coordination, deliberation, health",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2975,10 +3011,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-election",
+    "name": "cuda-lease",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-election",
-    "description": "Leader election \u2014 Raft-like voting, term management, heartbeat, majority",
+    "url": "https://github.com/Lucineer/cuda-lease",
+    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2999,10 +3035,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-lease",
+    "name": "cuda-election",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-lease",
-    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
+    "url": "https://github.com/Lucineer/cuda-election",
+    "description": "Leader election \u2014 Raft-like voting, term management, heartbeat, majority",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -9917,10 +9953,10 @@
     "category": "cocapn"
   },
   {
-    "name": "compliance-fork",
+    "name": "sovereign-identity",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/compliance-fork",
-    "description": "EU AI Act compliance vessel \u2014 audit and compliance tooling. Part of the Lucineer Cocapn fleet.",
+    "url": "https://github.com/Lucineer/sovereign-identity",
+    "description": "Cryptographic vessel identities \u2014 DID/SPIFFE for agent sovereignty. Part of the Lucineer Cocapn fleet.",
     "language": "TypeScript",
     "fork": false,
     "stars": 0,
@@ -9929,10 +9965,10 @@
     "category": "other"
   },
   {
-    "name": "sovereign-identity",
+    "name": "compliance-fork",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/sovereign-identity",
-    "description": "Cryptographic vessel identities \u2014 DID/SPIFFE for agent sovereignty. Part of the Lucineer Cocapn fleet.",
+    "url": "https://github.com/Lucineer/compliance-fork",
+    "description": "EU AI Act compliance vessel \u2014 audit and compliance tooling. Part of the Lucineer Cocapn fleet.",
     "language": "TypeScript",
     "fork": false,
     "stars": 0,
@@ -9996,6 +10032,23 @@
     "category": "other"
   },
   {
+    "name": "craftmind-fishing",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/craftmind-fishing",
+    "description": "CraftMind Fishing \u2014 22 personality scripts, A/B testing, autonomous Minecraft fishing. Part of the Lucineer ecosystem.",
+    "language": "JavaScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-bot",
+      "cocapn",
+      "fishing",
+      "minecraft"
+    ],
+    "updated": "2026-04-08",
+    "category": "craftmind"
+  },
+  {
     "name": "actualizer-ai",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/actualizer-ai",
@@ -10012,18 +10065,19 @@
     "category": "ai-ml"
   },
   {
-    "name": "craftmind-fishing",
+    "name": "craftmind",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/craftmind-fishing",
-    "description": "CraftMind Fishing \u2014 22 personality scripts, A/B testing, autonomous Minecraft fishing. Part of the Lucineer ecosystem.",
+    "url": "https://github.com/Lucineer/craftmind",
+    "description": "CraftMind \u2014 Modular Minecraft bot framework. Pathfinder, state machine, plugins, LLM brain. Part of the Lucineer ecosystem.",
     "language": "JavaScript",
     "fork": false,
     "stars": 0,
     "topics": [
+      "agent",
       "ai-bot",
       "cocapn",
-      "fishing",
-      "minecraft"
+      "minecraft",
+      "mineflayer"
     ],
     "updated": "2026-04-08",
     "category": "craftmind"
@@ -10046,24 +10100,6 @@
     ],
     "updated": "2026-04-08",
     "category": "other"
-  },
-  {
-    "name": "craftmind",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/craftmind",
-    "description": "CraftMind \u2014 Modular Minecraft bot framework. Pathfinder, state machine, plugins, LLM brain. Part of the Lucineer ecosystem.",
-    "language": "JavaScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent",
-      "ai-bot",
-      "cocapn",
-      "minecraft",
-      "mineflayer"
-    ],
-    "updated": "2026-04-08",
-    "category": "craftmind"
   },
   {
     "name": "codelog-ai",
@@ -11376,18 +11412,6 @@
     "category": "fleet"
   },
   {
-    "name": "governance-lab",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/governance-lab",
-    "description": "Test governance rules in isolated branches \u2014 empirical OS evolution",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-08",
-    "category": "other"
-  },
-  {
     "name": "gravity-well-v2",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/gravity-well-v2",
@@ -11398,6 +11422,18 @@
     "topics": [],
     "updated": "2026-04-08",
     "category": "ai-ml"
+  },
+  {
+    "name": "governance-lab",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/governance-lab",
+    "description": "Test governance rules in isolated branches \u2014 empirical OS evolution",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-08",
+    "category": "other"
   },
   {
     "name": "branch-sandbox",
@@ -11960,18 +11996,6 @@
     "category": "other"
   },
   {
-    "name": "increments-trust",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/increments-trust",
-    "description": "12-parameter trust model with 25:1 loss-to-gain ratio",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-08",
-    "category": "ai-ml"
-  },
-  {
     "name": "ues-protocol",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/ues-protocol",
@@ -11982,6 +12006,18 @@
     "topics": [],
     "updated": "2026-04-08",
     "category": "other"
+  },
+  {
+    "name": "increments-trust",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/increments-trust",
+    "description": "12-parameter trust model with 25:1 loss-to-gain ratio",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-08",
+    "category": "ai-ml"
   },
   {
     "name": "governance-equipment",
@@ -12014,18 +12050,6 @@
     "category": "other"
   },
   {
-    "name": "ideation-engine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/ideation-engine",
-    "description": "Multi-model creative pipeline \u2014 dream, riff, brainstorm, ground, refine into build plans",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-08",
-    "category": "ai-ml"
-  },
-  {
     "name": "musiclog-ai",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/musiclog-ai",
@@ -12043,6 +12067,18 @@
     ],
     "updated": "2026-04-08",
     "category": "other"
+  },
+  {
+    "name": "ideation-engine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/ideation-engine",
+    "description": "Multi-model creative pipeline \u2014 dream, riff, brainstorm, ground, refine into build plans",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-08",
+    "category": "ai-ml"
   },
   {
     "name": "pay-equipment",
@@ -12206,16 +12242,16 @@
     "category": "fleet"
   },
   {
-    "name": "meta-loop-evolver",
+    "name": "loop-closure",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/meta-loop-evolver",
-    "description": "Fleet that modifies its own governance \u2014 evolvable orchestration rules",
+    "url": "https://github.com/Lucineer/loop-closure",
+    "description": "Meta-orchestrator \u2014 closes the fleet loop: decompose, execute, monitor, evolve",
     "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "other"
+    "category": "infrastructure"
   },
   {
     "name": "swarm-intuition",
@@ -12230,16 +12266,16 @@
     "category": "other"
   },
   {
-    "name": "loop-closure",
+    "name": "meta-loop-evolver",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/loop-closure",
-    "description": "Meta-orchestrator \u2014 closes the fleet loop: decompose, execute, monitor, evolve",
+    "url": "https://github.com/Lucineer/meta-loop-evolver",
+    "description": "Fleet that modifies its own governance \u2014 evolvable orchestration rules",
     "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-08",
-    "category": "infrastructure"
+    "category": "other"
   },
   {
     "name": "clawcommit-lucid",
@@ -12266,18 +12302,6 @@
     "category": "other"
   },
   {
-    "name": "flow-forge",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flow-forge",
-    "description": "Zero-code natural language workflow builder for the Cocapn Fleet",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-08",
-    "category": "other"
-  },
-  {
     "name": "dogmind-arena",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/dogmind-arena",
@@ -12291,6 +12315,18 @@
       "game",
       "genetic-algorithm"
     ],
+    "updated": "2026-04-08",
+    "category": "other"
+  },
+  {
+    "name": "flow-forge",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flow-forge",
+    "description": "Zero-code natural language workflow builder for the Cocapn Fleet",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-08",
     "category": "other"
   },
@@ -12730,6 +12766,22 @@
     "category": "other"
   },
   {
+    "name": "cocapn-press",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cocapn-press",
+    "description": "Press, marketing, and narrative strategy for the cocapn ecosystem",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "cocapn",
+      "marketing",
+      "press"
+    ],
+    "updated": "2026-04-07",
+    "category": "cocapn"
+  },
+  {
     "name": "membership-api",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/membership-api",
@@ -12745,22 +12797,6 @@
     ],
     "updated": "2026-04-07",
     "category": "other"
-  },
-  {
-    "name": "cocapn-press",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cocapn-press",
-    "description": "Press, marketing, and narrative strategy for the cocapn ecosystem",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "cocapn",
-      "marketing",
-      "press"
-    ],
-    "updated": "2026-04-07",
-    "category": "cocapn"
   },
   {
     "name": "dream-engine",
