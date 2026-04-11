@@ -1,17 +1,5 @@
 [
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -26,6 +14,42 @@
       "hackernews",
       "onboarding"
     ],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "flux-timeline",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-timeline",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-analysis"
+  },
+  {
+    "name": "flux-visualizer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-visualizer",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-analysis"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-11",
     "category": "other"
   },
@@ -220,29 +244,5 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "git-agents"
-  },
-  {
-    "name": "flux-grammar",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-grammar",
-    "description": "Formal FLUX assembly language grammar \u2014 lexer, parser, validator",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-toolchain"
-  },
-  {
-    "name": "greenhorn-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/greenhorn-runtime",
-    "description": "\ud83d\udfe2 Portable agent runtime in Go, C, C++, CUDA. Download, deploy, specialize. Plants agents anywhere within hardware/API limits.",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "greenhorn"
   }
 ]

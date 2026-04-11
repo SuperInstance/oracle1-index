@@ -1,17 +1,5 @@
 [
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -26,6 +14,42 @@
       "hackernews",
       "onboarding"
     ],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "flux-timeline",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-timeline",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-analysis"
+  },
+  {
+    "name": "flux-visualizer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-visualizer",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-analysis"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-11",
     "category": "other"
   },
@@ -777,11 +801,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-llama",
+    "name": "flux-cuda",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-llama",
-    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
-    "language": "C",
+    "url": "https://github.com/SuperInstance/flux-cuda",
+    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
+    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -789,11 +813,11 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-cuda",
+    "name": "flux-llama",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-cuda",
-    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
-    "language": "Cuda",
+    "url": "https://github.com/SuperInstance/flux-llama",
+    "description": "FLUX \u00d7 llama.cpp \u2014 Multi-agent bytecode-driven LLM token sampling with swarm voting.",
+    "language": "C",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2229,11 +2253,11 @@
     "category": "other"
   },
   {
-    "name": "secret-manager",
+    "name": "Spreader-tool",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/secret-manager",
-    "description": "Secure service for storing and managing credentials",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/Spreader-tool",
+    "description": "Tool for distributing content across multiple channels",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2241,11 +2265,11 @@
     "category": "other"
   },
   {
-    "name": "Spreader-tool",
+    "name": "secret-manager",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Spreader-tool",
-    "description": "Tool for distributing content across multiple channels",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/secret-manager",
+    "description": "Secure service for storing and managing credentials",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2325,18 +2349,6 @@
     "category": "other"
   },
   {
-    "name": "Proactive-Planning-AI-Hub",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Proactive-Planning-AI-Hub",
-    "description": "Central hub for AI-driven proactive planning",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "project-JEPA",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/project-JEPA",
@@ -2347,6 +2359,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "ai-ml"
+  },
+  {
+    "name": "Proactive-Planning-AI-Hub",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Proactive-Planning-AI-Hub",
+    "description": "Central hub for AI-driven proactive planning",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "other"
   },
   {
     "name": "Private-ML-Personalization",
@@ -2409,11 +2433,11 @@
     "category": "other"
   },
   {
-    "name": "PersonalLog",
+    "name": "pinchrs",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/PersonalLog",
-    "description": "Personal logging and tracking application",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/pinchrs",
+    "description": "Pinchrs client platform for social interactions",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2421,11 +2445,11 @@
     "category": "other"
   },
   {
-    "name": "pinchrs",
+    "name": "PersonalLog",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pinchrs",
-    "description": "Pinchrs client platform for social interactions",
-    "language": null,
+    "url": "https://github.com/SuperInstance/PersonalLog",
+    "description": "Personal logging and tracking application",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2877,11 +2901,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-claude",
+    "name": "activelog-backend",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-claude",
-    "description": "Activity Log plugin for Claude.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/activelog-backend",
+    "description": "Backend service for activity logging.",
+    "language": "PowerShell",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -2889,11 +2913,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-backend",
+    "name": "activelog-claude",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-backend",
-    "description": "Backend service for activity logging.",
-    "language": "PowerShell",
+    "url": "https://github.com/SuperInstance/activelog-claude",
+    "description": "Activity Log plugin for Claude.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],

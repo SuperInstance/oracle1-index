@@ -60,6 +60,11 @@
     "count": 9
   },
   {
+    "key": "flux-analysis",
+    "title": "FLUX Analysis",
+    "count": 8
+  },
+  {
     "key": "consensus",
     "title": "Consensus",
     "count": 8
@@ -68,11 +73,6 @@
     "key": "flux-toolchain",
     "title": "FLUX Toolchain",
     "count": 7
-  },
-  {
-    "key": "flux-analysis",
-    "title": "FLUX Analysis",
-    "count": 6
   },
   {
     "key": "flux-research",
