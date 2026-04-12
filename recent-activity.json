@@ -12,6 +12,132 @@
     "category": "cocapn"
   },
   {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-baton",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-baton",
+    "description": "Generational context handoff for FLUX-native agents \u2014 the baton IS the brain",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-vessel",
+    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
+  },
+  {
+    "name": "flux-chronometer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-chronometer",
+    "description": "Cocapn vessel vessel \u2014 testing and conformance",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "lighthouse-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-agent-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-agent-runtime",
+    "description": "FLUX-native agent runtime \u2014 self-bootstrapping agents in Docker sandboxes that create vessels, pick tasks, and produce real work",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-baton-test",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-baton-test",
+    "description": "Baton lifecycle test vessel",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "JetsonClaw1-vessel",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/JetsonClaw1-vessel",
+    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "flux-agent-sim",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/flux-agent-sim",
@@ -72,48 +198,6 @@
     "category": "git-agents"
   },
   {
-    "name": "lighthouse-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-vessel",
-    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
-  },
-  {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "flux-evolve",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/flux-evolve",
@@ -160,89 +244,5 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "flux-social",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-social",
-    "description": "Rust social graph: agents, relations, groups, centrality, roles",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-ephemeral",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-ephemeral",
-    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-grimoire",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-grimoire",
-    "description": "Rust crate \u2014 pattern library: reusable spells with success tracking, pruning, curriculum boot camp",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-stigmergy",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-stigmergy",
-    "description": "Rust crate \u2014 stigmergic communication: shared environment traces, decay, waypoints, queries",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-necropolis",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-necropolis",
-    "description": "Rust crate \u2014 fleet graveyard: tombstones, afterlife knowledge harvest, memorial visits, auto-harvest on burial",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-telepathy",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-telepathy",
-    "description": "Agent-to-agent messaging with trust-weighted priority \u2014 the nervous system of the fleet",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-keeper",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-keeper",
-    "description": "Health monitoring, stuck detection, watchdog \u2014 the guardian of agent uptime",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "infrastructure"
   }
 ]
