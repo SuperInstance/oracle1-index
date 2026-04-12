@@ -30,6 +30,30 @@
     "category": "other"
   },
   {
+    "name": "fluxinstinct-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxinstinct-go",
+    "description": "Go package \u2014 hardwired reflex system: 10 instinct types, priority ordering, tick evaluation",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-instinct",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-instinct",
+    "description": "Rust crate \u2014 hardwired reflex system: 10 instinct types, priority ordering, history ring buffer",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
     "name": "oracle1-index",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/oracle1-index",
@@ -2987,10 +3011,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-context-window",
+    "name": "cuda-bytecode-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-context-window",
-    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
+    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
+    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2999,10 +3023,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-bytecode-optimizer",
+    "name": "cuda-context-window",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
-    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
+    "url": "https://github.com/Lucineer/cuda-context-window",
+    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3179,10 +3203,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rtl-optimizer",
+    "name": "cuda-fpga-toolkit",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
-    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
+    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
+    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3191,10 +3215,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-fpga-toolkit",
+    "name": "cuda-rtl-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
-    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
+    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
+    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3215,10 +3239,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-swarm-tiler",
+    "name": "cuda-axiom",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
-    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
+    "url": "https://github.com/Lucineer/cuda-axiom",
+    "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3239,10 +3263,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-axiom",
+    "name": "cuda-swarm-tiler",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-axiom",
-    "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
+    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
+    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3483,6 +3507,18 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-attention",
     "description": "Resource-limited attention \u2014 saliency scoring, habituation, change detection, focus modes (Rust)",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-narrative",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-narrative",
+    "description": "Narrative construction \u2014 agents build explanations from events, memory, and goals with themes and similarity search (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,

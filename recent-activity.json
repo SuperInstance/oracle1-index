@@ -30,6 +30,30 @@
     "category": "other"
   },
   {
+    "name": "fluxinstinct-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxinstinct-go",
+    "description": "Go package \u2014 hardwired reflex system: 10 instinct types, priority ordering, tick evaluation",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-instinct",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-instinct",
+    "description": "Rust crate \u2014 hardwired reflex system: 10 instinct types, priority ordering, history ring buffer",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
     "name": "oracle1-index",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/oracle1-index",
@@ -227,29 +251,5 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "JetsonClaw1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
-    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
-  },
-  {
-    "name": "bytecode-verifier-c",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/bytecode-verifier-c",
-    "description": "Pure C11 FLUX bytecode verifier \u2014 pre-execution validation, security primitive for agent VMs",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
   }
 ]
