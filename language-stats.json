@@ -6,7 +6,7 @@
   },
   {
     "language": "Rust",
-    "count": 204,
+    "count": 205,
     "color": "#dea584"
   },
   {
@@ -16,12 +16,12 @@
   },
   {
     "language": "C",
-    "count": 50,
+    "count": 51,
     "color": "#555555"
   },
   {
     "language": "Go",
-    "count": 24,
+    "count": 25,
     "color": "#00ADD8"
   },
   {
@@ -40,24 +40,24 @@
     "color": "#e34c26"
   },
   {
+    "language": "Cuda",
+    "count": 3,
+    "color": "#8b949e"
+  },
+  {
     "language": "Java",
     "count": 3,
     "color": "#b07219"
   },
   {
-    "language": "Cuda",
+    "language": "Zig",
     "count": 2,
-    "color": "#8b949e"
+    "color": "#ec915c"
   },
   {
     "language": "Shell",
     "count": 2,
     "color": "#89e051"
-  },
-  {
-    "language": "Zig",
-    "count": 1,
-    "color": "#ec915c"
   },
   {
     "language": "C#",

@@ -1,5 +1,17 @@
 [
   {
+    "name": "holodeck-studio",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-studio",
+    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -18,35 +30,30 @@
     "category": "other"
   },
   {
-    "name": "holodeck-zig",
+    "name": "superz-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-zig",
-    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
-    "language": null,
+    "url": "https://github.com/SuperInstance/superz-vessel",
+    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
+    "language": "Python",
     "fork": false,
     "stars": 0,
-    "topics": [],
+    "topics": [
+      "auditor",
+      "fleet",
+      "quartermaster",
+      "scout",
+      "superinstance",
+      "vessel"
+    ],
     "updated": "2026-04-12",
     "category": "other"
   },
   {
-    "name": "holodeck-c",
+    "name": "holodeck-cuda",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-c",
-    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-rust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-rust",
-    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
-    "language": null,
+    "url": "https://github.com/SuperInstance/holodeck-cuda",
+    "description": "GPU-resident holodeck MUD \u2014 16K rooms, 65K agents, warp-level combat",
+    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -58,7 +65,7 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/holodeck-go",
     "description": "Holodeck studio implementation in go \u2014 Cocapn fleet",
-    "language": null,
+    "language": "Go",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -66,11 +73,23 @@
     "category": "other"
   },
   {
-    "name": "holodeck-studio",
+    "name": "holodeck-c",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-studio",
-    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/holodeck-c",
+    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-zig",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-zig",
+    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
+    "language": "Zig",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -83,6 +102,18 @@
     "url": "https://github.com/SuperInstance/oracle1-index",
     "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
     "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -126,18 +157,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-agent-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-agent-runtime",
-    "description": "FLUX-native agent runtime \u2014 self-bootstrapping agents in Docker sandboxes that create vessels, pick tasks, and produce real work",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "lighthouse-keeper",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/lighthouse-keeper",
@@ -148,6 +167,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "other"
+  },
+  {
+    "name": "flux-agent-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-agent-runtime",
+    "description": "FLUX-native agent runtime \u2014 self-bootstrapping agents in Docker sandboxes that create vessels, pick tasks, and produce real work",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
   },
   {
     "name": "flux-baton-test",
@@ -220,29 +251,5 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "claude-code-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/claude-code-vessel",
-    "description": "Claude Code workhorse vessel with experience journal and task delegation",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "babel-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/babel-vessel",
-    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
   }
 ]

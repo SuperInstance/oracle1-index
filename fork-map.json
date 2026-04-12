@@ -392,24 +392,24 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-ephemeral",
-    "target": "SuperInstance/cuda-ephemeral"
-  },
-  {
     "source": "Lucineer/cuda-telepathy",
     "target": "SuperInstance/cuda-telepathy"
+  },
+  {
+    "source": "Lucineer/cuda-ephemeral",
+    "target": "SuperInstance/cuda-ephemeral"
   },
   {
     "source": "Lucineer/keeper-c",
     "target": "SuperInstance/keeper-c"
   },
   {
-    "source": "Lucineer/cuda-necropolis",
-    "target": "SuperInstance/cuda-necropolis"
-  },
-  {
     "source": "Lucineer/cuda-grimoire",
     "target": "SuperInstance/cuda-grimoire"
+  },
+  {
+    "source": "Lucineer/cuda-necropolis",
+    "target": "SuperInstance/cuda-necropolis"
   },
   {
     "source": "Lucineer/luciddreamer-ai",
