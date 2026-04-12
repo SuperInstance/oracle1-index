@@ -6,17 +6,17 @@
   },
   {
     "language": "Rust",
-    "count": 182,
+    "count": 196,
     "color": "#dea584"
   },
   {
     "language": "Python",
-    "count": 158,
+    "count": 161,
     "color": "#3572A5"
   },
   {
     "language": "C",
-    "count": 31,
+    "count": 46,
     "color": "#555555"
   },
   {
@@ -45,14 +45,14 @@
     "color": "#b07219"
   },
   {
-    "language": "Shell",
-    "count": 2,
-    "color": "#89e051"
-  },
-  {
     "language": "Cuda",
     "count": 2,
     "color": "#8b949e"
+  },
+  {
+    "language": "Shell",
+    "count": 2,
+    "color": "#89e051"
   },
   {
     "language": "Zig",

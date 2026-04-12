@@ -2,7 +2,7 @@
   {
     "key": "other",
     "title": "Other",
-    "count": 627
+    "count": 628
   },
   {
     "key": "cuda",
@@ -12,7 +12,7 @@
   {
     "key": "flux-other",
     "title": "FLUX Other",
-    "count": 143
+    "count": 149
   },
   {
     "key": "fleet",
@@ -62,7 +62,7 @@
   {
     "key": "flux-runtime",
     "title": "FLUX Runtime",
-    "count": 10
+    "count": 9
   },
   {
     "key": "flux-analysis",
