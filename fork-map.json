@@ -1,5 +1,13 @@
 [
   {
+    "source": "Lucineer/fishinglog-ai",
+    "target": "SuperInstance/fishinglog-ai"
+  },
+  {
+    "source": "Lucineer/flux-runtime-c",
+    "target": "SuperInstance/flux-runtime-c"
+  },
+  {
     "source": "Lucineer/brothers-keeper",
     "target": "SuperInstance/brothers-keeper"
   },
@@ -216,12 +224,12 @@
     "target": "Lucineer/zeroclaw-1"
   },
   {
-    "source": "Lucineer/cuda-ghost-tiles",
-    "target": "SuperInstance/cuda-ghost-tiles"
-  },
-  {
     "source": "Lucineer/cuda-memory-fabric",
     "target": "SuperInstance/cuda-memory-fabric"
+  },
+  {
+    "source": "Lucineer/cuda-ghost-tiles",
+    "target": "SuperInstance/cuda-ghost-tiles"
   },
   {
     "source": "Lucineer/cuda-trust",
@@ -250,10 +258,6 @@
   {
     "source": "Lucineer/iron-to-iron",
     "target": "Lucineer/iron-to-iron"
-  },
-  {
-    "source": "Lucineer/flux-runtime-c",
-    "target": "SuperInstance/flux-runtime-c"
   },
   {
     "source": "Lucineer/flux-isa-unified",
@@ -286,10 +290,6 @@
   {
     "source": "Lucineer/git-remote-agent",
     "target": "SuperInstance/git-remote-agent"
-  },
-  {
-    "source": "Lucineer/fishinglog-ai",
-    "target": "SuperInstance/fishinglog-ai"
   },
   {
     "source": "Lucineer/jam",
