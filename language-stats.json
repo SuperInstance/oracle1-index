@@ -16,8 +16,13 @@
   },
   {
     "language": "C",
-    "count": 21,
+    "count": 25,
     "color": "#555555"
+  },
+  {
+    "language": "Go",
+    "count": 16,
+    "color": "#00ADD8"
   },
   {
     "language": "JavaScript",
@@ -28,11 +33,6 @@
     "language": "Makefile",
     "count": 14,
     "color": "#8b949e"
-  },
-  {
-    "language": "Go",
-    "count": 13,
-    "color": "#00ADD8"
   },
   {
     "language": "HTML",

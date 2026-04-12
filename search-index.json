@@ -30,6 +30,141 @@
     "category": "other"
   },
   {
+    "name": "fluxtrust-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxtrust-go",
+    "description": "Go trust scoring: Bayesian updates, decay, revocation, sorting",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxsocial-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxsocial-go",
+    "description": "Go social graph: agents, relations, groups, centrality, roles",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "adaptive-optimization",
+      "agent",
+      "bytecode",
+      "compiler",
+      "hot-reload",
+      "jit",
+      "polyglot",
+      "python",
+      "runtime",
+      "self-evolving",
+      "ssa",
+      "virtual-machine",
+      "zero-dependencies"
+    ],
+    "updated": "2026-04-12",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "fluxdreamcycle-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxdreamcycle-go",
+    "description": "Go background task scheduler: priorities, recurring tasks, retry, overdue detection",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-social-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-social-c",
+    "description": "Pure C11 social graph: agents, relations, groups, centrality, roles",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-ephemeral-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-ephemeral-c",
+    "description": "Pure C11 sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-dream-cycle-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-dream-cycle-c",
+    "description": "Pure C11 background task scheduler: priorities, recurring tasks, retry, overdue detection",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-trust-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-trust-c",
+    "description": "Pure C11 trust scoring: Bayesian updates, decay, revocation, sorting",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "JetsonClaw1-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
@@ -76,18 +211,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "greenhorn"
-  },
-  {
-    "name": "flux-conformance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   },
   {
     "name": "flux-evolve-c",
@@ -361,18 +484,6 @@
     "category": "flux-other"
   },
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "fluxinstinct-go",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/fluxinstinct-go",
@@ -623,33 +734,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "other"
-  },
-  {
-    "name": "flux-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime",
-    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "a2a",
-      "adaptive-optimization",
-      "agent",
-      "bytecode",
-      "compiler",
-      "hot-reload",
-      "jit",
-      "polyglot",
-      "python",
-      "runtime",
-      "self-evolving",
-      "ssa",
-      "virtual-machine",
-      "zero-dependencies"
-    ],
-    "updated": "2026-04-12",
-    "category": "flux-runtime"
   },
   {
     "name": "flux-lsp",
@@ -3275,10 +3359,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-context-window",
+    "name": "cuda-bytecode-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-context-window",
-    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
+    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
+    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3287,10 +3371,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-bytecode-optimizer",
+    "name": "cuda-context-window",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
-    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
+    "url": "https://github.com/Lucineer/cuda-context-window",
+    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3443,10 +3527,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-resolve",
+    "name": "cuda-compiler-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-resolve",
-    "description": "A2A deliberative compilation in Rust \u2014 JSON payloads, confidence propagation, multi-agent protocol",
+    "url": "https://github.com/Lucineer/cuda-compiler-agent",
+    "description": "Rust+CUDA deliberation bytecode engine \u2014 agentic-native compiler",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3455,10 +3539,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-compiler-agent",
+    "name": "cuda-resolve",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-compiler-agent",
-    "description": "Rust+CUDA deliberation bytecode engine \u2014 agentic-native compiler",
+    "url": "https://github.com/Lucineer/cuda-resolve",
+    "description": "A2A deliberative compilation in Rust \u2014 JSON payloads, confidence propagation, multi-agent protocol",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3503,6 +3587,18 @@
     "category": "cuda"
   },
   {
+    "name": "cuda-swarm-tiler",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
+    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
     "name": "cuda-weight-stream",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-weight-stream",
@@ -3519,18 +3615,6 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-axiom",
     "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
-    "name": "cuda-swarm-tiler",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
-    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -4295,16 +4379,16 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-crdt",
+    "name": "flux-disasm",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-crdt",
-    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
-    "language": "Rust",
+    "url": "https://github.com/Lucineer/flux-disasm",
+    "description": "FLUX bytecode disassembler in C \u2014 turns silicon back into words",
+    "language": "C",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
-    "category": "cuda"
+    "category": "flux-other"
   },
   {
     "name": "cuda-budget",
@@ -4319,16 +4403,16 @@
     "category": "cuda"
   },
   {
-    "name": "flux-disasm",
+    "name": "cuda-crdt",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-disasm",
-    "description": "FLUX bytecode disassembler in C \u2014 turns silicon back into words",
-    "language": "C",
+    "url": "https://github.com/Lucineer/cuda-crdt",
+    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
-    "category": "flux-other"
+    "category": "cuda"
   },
   {
     "name": "flux-asm",
@@ -4559,18 +4643,6 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-lease",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-lease",
-    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
     "name": "cuda-election",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-election",
@@ -4587,6 +4659,18 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-backpressure",
     "description": "Backpressure \u2014 credit-based flow control, adaptive rate, queue monitoring",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-lease",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-lease",
+    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
     "language": "Rust",
     "fork": false,
     "stars": 0,
