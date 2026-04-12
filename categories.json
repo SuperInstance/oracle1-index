@@ -2,12 +2,12 @@
   {
     "key": "other",
     "title": "Other",
-    "count": 609
+    "count": 610
   },
   {
     "key": "cuda",
     "title": "CUDA",
-    "count": 259
+    "count": 258
   },
   {
     "key": "fleet",
@@ -22,12 +22,12 @@
   {
     "key": "flux-other",
     "title": "FLUX Other",
-    "count": 40
+    "count": 47
   },
   {
     "key": "infrastructure",
     "title": "Infrastructure",
-    "count": 29
+    "count": 30
   },
   {
     "key": "craftmind",
@@ -57,7 +57,7 @@
   {
     "key": "consensus",
     "title": "Consensus",
-    "count": 10
+    "count": 11
   },
   {
     "key": "flux-runtime",

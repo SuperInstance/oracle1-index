@@ -28,12 +28,12 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-telepathy",
-    "target": "SuperInstance/cuda-telepathy"
-  },
-  {
     "source": "Lucineer/cuda-ephemeral",
     "target": "SuperInstance/cuda-ephemeral"
+  },
+  {
+    "source": "Lucineer/cuda-telepathy",
+    "target": "SuperInstance/cuda-telepathy"
   },
   {
     "source": "Lucineer/keeper-c",
@@ -96,12 +96,12 @@
     "target": "SuperInstance/cuda-self-evolve"
   },
   {
-    "source": "Lucineer/flux-ese-parser",
-    "target": "SuperInstance/flux-ese-parser"
-  },
-  {
     "source": "Lucineer/fleet-witness-marks",
     "target": "SuperInstance/fleet-witness-marks"
+  },
+  {
+    "source": "Lucineer/flux-ese-parser",
+    "target": "SuperInstance/flux-ese-parser"
   },
   {
     "source": "Lucineer/fishinglog-ai",

@@ -1,5 +1,35 @@
 [
   {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "cocapn-mud",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cocapn-mud",
+    "description": "\ud83c\udff0 The Cocapn MUD \u2014 a persistent multiplayer world where agents build, chat, role-play, and coordinate. Telnet in, the tavern is always open.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cocapn"
+  },
+  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -15,6 +45,174 @@
       "superinstance",
       "vessel"
     ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-bytecode-diff",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-bytecode-diff",
+    "description": "Bytecode diff and migration tools \u2014 compare, patch, and migrate FLUX programs across ISA versions",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-adaptive-opcodes",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-adaptive-opcodes",
+    "description": "Adaptive opcode discovery \u2014 runtime ISA extension, proposal, testing, and democratic adoption of new opcodes",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxenergy-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxenergy-go",
+    "description": "Go package \u2014 ATP energy system: pools, circadian rhythm, instinct triggers, apoptosis",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxtelepathy-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxtelepathy-go",
+    "description": "Go package \u2014 26-byte binary message transport: mailbox, trust-gated router, receipt tracking",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxkeeper-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxkeeper-go",
+    "description": "Go package \u2014 system watchdog: /proc monitoring, health scoring, trend analysis, ring buffer",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "infrastructure"
+  },
+  {
+    "name": "flux-skill-dsl",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-skill-dsl",
+    "description": "Skill Definition Language \u2014 formal type-safe skill definitions, composition, dependency management for agent capabilities",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-energy",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-energy",
+    "description": "Rust crate \u2014 ATP energy system: pools, circadian rhythm, costs, instinct triggers, apoptosis",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxconfidence-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxconfidence-go",
+    "description": "Go package \u2014 confidence math: Bayesian fusion, decay, multi-agent reconciliation",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "consensus"
+  },
+  {
+    "name": "instinct-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/instinct-c",
+    "description": null,
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "energy-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/energy-c",
+    "description": null,
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "fleet-ci",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-ci",
+    "description": "GitHub Actions workflows for FLUX Fleet \u2014 free CI/CD for agent coordination",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "fleet"
+  },
+  {
+    "name": "flux-provenance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-provenance",
+    "description": "Provenance and attribution layer \u2014 cryptographic bytecode signing, author tracking, chain of custody",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-coop-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-coop-runtime",
+    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -43,24 +241,6 @@
     "category": "git-agents"
   },
   {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "bytecode-verifier-c",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/bytecode-verifier-c",
@@ -83,18 +263,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "git-agents"
-  },
-  {
-    "name": "cocapn-mud",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cocapn-mud",
-    "description": "\ud83c\udff0 The Cocapn MUD \u2014 a persistent multiplayer world where agents build, chat, role-play, and coordinate. Telnet in, the tavern is always open.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "cocapn"
   },
   {
     "name": "flux-isa-authority",
@@ -244,10 +412,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-telepathy",
+    "name": "cuda-ephemeral",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-telepathy",
-    "description": "Rust crate \u2014 A2A message transport, binary encoding, mailbox, routing for Cocapn fleet",
+    "url": "https://github.com/SuperInstance/cuda-ephemeral",
+    "description": "Rust crate \u2014 ephemeral (short-lived) agent task management for Cocapn fleet",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -256,10 +424,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-ephemeral",
+    "name": "cuda-telepathy",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-ephemeral",
-    "description": "Rust crate \u2014 ephemeral (short-lived) agent task management for Cocapn fleet",
+    "url": "https://github.com/SuperInstance/cuda-telepathy",
+    "description": "Rust crate \u2014 A2A message transport, binary encoding, mailbox, routing for Cocapn fleet",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -314,18 +482,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
   },
   {
     "name": "confidence-c",
@@ -476,18 +632,6 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-sandbox",
     "description": "Safe simulation environment for testing cooperative FLUX programs \u2014 mock agents, mock repos, deterministic execution",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-coop-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-coop-runtime",
-    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -736,18 +880,6 @@
     "category": "cuda"
   },
   {
-    "name": "flux-ese-parser",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ese-parser",
-    "description": "Markdown-like DSL that compiles to FLUX VM bytecodes \u2014 thoughts become actions",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "fleet-witness-marks",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/fleet-witness-marks",
@@ -758,6 +890,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "fleet"
+  },
+  {
+    "name": "flux-ese-parser",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-ese-parser",
+    "description": "Markdown-like DSL that compiles to FLUX VM bytecodes \u2014 thoughts become actions",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
   },
   {
     "name": "flux-evolution",
@@ -2231,18 +2375,6 @@
     "category": "other"
   },
   {
-    "name": "SmartCRDT",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/SmartCRDT",
-    "description": "Utilizing CRDT technology for self-improving AI",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "AI-Writings",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/AI-Writings",
@@ -2250,6 +2382,18 @@
     "language": null,
     "fork": false,
     "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "SmartCRDT",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/SmartCRDT",
+    "description": "Utilizing CRDT technology for self-improving AI",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
     "topics": [],
     "updated": "2026-04-11",
     "category": "other"
@@ -2291,6 +2435,18 @@
     "category": "flux-research"
   },
   {
+    "name": "flux-cuda",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-cuda",
+    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
+    "language": "Cuda",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-research"
+  },
+  {
     "name": "flux-llama",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-llama",
@@ -2315,18 +2471,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-cuda",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-cuda",
-    "description": "FLUX CUDA \u2014 GPU-accelerated bytecode VM. 1000 parallel agents on NVIDIA GPUs.",
-    "language": "Cuda",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-research"
-  },
-  {
     "name": "flux-core",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-core",
@@ -2339,18 +2483,6 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-zig",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-zig",
-    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
-    "language": "Zig",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-multilingual",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-multilingual",
@@ -2358,6 +2490,18 @@
     "language": "Python",
     "fork": false,
     "stars": 1,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-zig",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-zig",
+    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
+    "language": "Zig",
+    "fork": false,
+    "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-other"
@@ -2471,18 +2615,6 @@
     "category": "flux-runtime"
   },
   {
-    "name": "flux-runtime-san",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-san",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
     "name": "flux-envelope",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-envelope",
@@ -2493,6 +2625,18 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-protocol"
+  },
+  {
+    "name": "flux-runtime-san",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-san",
+    "description": null,
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
   },
   {
     "name": "flux-runtime-deu",
@@ -2673,18 +2817,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "ai-ml"
-  },
-  {
-    "name": "fleet-ci",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-ci",
-    "description": "GitHub Actions workflows for FLUX Fleet \u2014 free CI/CD for agent coordination",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "fleet"
   },
   {
     "name": "cuda-neurotransmitter",
@@ -3047,10 +3179,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-fpga-toolkit",
+    "name": "cuda-rtl-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
-    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
+    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
+    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3059,10 +3191,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rtl-optimizer",
+    "name": "cuda-fpga-toolkit",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
-    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
+    "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
+    "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3155,10 +3287,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-self-modify",
+    "name": "cuda-stream-processor",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-self-modify",
-    "description": "Self-modifying programs \u2014 runtime code adaptation through deliberation with checkpoint/rollback",
+    "url": "https://github.com/Lucineer/cuda-stream-processor",
+    "description": "Deliberation stream processor \u2014 real-time A2A payload stream with feed-in and equilibrium signals",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3167,10 +3299,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-stream-processor",
+    "name": "cuda-self-modify",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-stream-processor",
-    "description": "Deliberation stream processor \u2014 real-time A2A payload stream with feed-in and equilibrium signals",
+    "url": "https://github.com/Lucineer/cuda-self-modify",
+    "description": "Self-modifying programs \u2014 runtime code adaptation through deliberation with checkpoint/rollback",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3299,10 +3431,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-adaptation",
+    "name": "cuda-temporal",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-adaptation",
-    "description": "Runtime self-adaptation \u2014 adaptive parameters, strategy switching, behavioral plasticity, hill-climbing (Rust)",
+    "url": "https://github.com/Lucineer/cuda-temporal",
+    "description": "Temporal reasoning \u2014 time intervals, causal chains, deadline urgency, scheduling with conflict detection (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3311,10 +3443,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-temporal",
+    "name": "cuda-adaptation",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-temporal",
-    "description": "Temporal reasoning \u2014 time intervals, causal chains, deadline urgency, scheduling with conflict detection (Rust)",
+    "url": "https://github.com/Lucineer/cuda-adaptation",
+    "description": "Runtime self-adaptation \u2014 adaptive parameters, strategy switching, behavioral plasticity, hill-climbing (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3363,18 +3495,6 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-fusion",
     "description": "Multi-sensor data fusion \u2014 weighted/Bayesian/median methods, outlier rejection, sensor health (Rust)",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
-    "name": "cuda-narrative",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-narrative",
-    "description": "Narrative construction \u2014 agents build explanations from events, memory, and goals with themes and similarity search (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -4943,18 +5063,6 @@
     "category": "other"
   },
   {
-    "name": "MPC-Orchestration-Optimization",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/MPC-Orchestration-Optimization",
-    "description": "Tools for optimizing multi-party computation orchestration",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "monitoring-dashboard",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/monitoring-dashboard",
@@ -4965,6 +5073,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "infrastructure"
+  },
+  {
+    "name": "MPC-Orchestration-Optimization",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/MPC-Orchestration-Optimization",
+    "description": "Tools for optimizing multi-party computation orchestration",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "other"
   },
   {
     "name": "model-switching-strategy",
@@ -5027,11 +5147,11 @@
     "category": "other"
   },
   {
-    "name": "cloudflare-code",
+    "name": "clawmatrix",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cloudflare-code",
-    "description": "Cloudflare code examples.",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/clawmatrix",
+    "description": "Matrix manipulation tool.",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5039,11 +5159,11 @@
     "category": "other"
   },
   {
-    "name": "clawmatrix",
+    "name": "cloudflare-code",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/clawmatrix",
-    "description": "Matrix manipulation tool.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/cloudflare-code",
+    "description": "Cloudflare code examples.",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5219,11 +5339,11 @@
     "category": "other"
   },
   {
-    "name": "Auto-Tuning-Engine",
+    "name": "Automatic-Type-Safe-IndexedDB",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Auto-Tuning-Engine",
-    "description": "Automated engine for system tuning.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/Automatic-Type-Safe-IndexedDB",
+    "description": "Type-safe wrapper for IndexedDB.",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5231,11 +5351,11 @@
     "category": "other"
   },
   {
-    "name": "Automatic-Type-Safe-IndexedDB",
+    "name": "Auto-Tuning-Engine",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Automatic-Type-Safe-IndexedDB",
-    "description": "Type-safe wrapper for IndexedDB.",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/Auto-Tuning-Engine",
+    "description": "Automated engine for system tuning.",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5423,18 +5543,6 @@
     "category": "ai-ml"
   },
   {
-    "name": "JEPA-Real-Time-Sentiment-Analysis",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/JEPA-Real-Time-Sentiment-Analysis",
-    "description": "Real-time sentiment analysis using JEPA architecture.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "llm-cost-calculator",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/llm-cost-calculator",
@@ -5445,6 +5553,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "ai-ml"
+  },
+  {
+    "name": "JEPA-Real-Time-Sentiment-Analysis",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/JEPA-Real-Time-Sentiment-Analysis",
+    "description": "Real-time sentiment analysis using JEPA architecture.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "other"
   },
   {
     "name": "jam",
@@ -5649,18 +5769,6 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "ai-ml"
-  },
-  {
-    "name": "Dynamic-Theming",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Dynamic-Theming",
-    "description": "Dynamic theming system for UI theme switching.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
   },
   {
     "name": "DMLog",
