@@ -1,17 +1,5 @@
 [
   {
-    "name": "cocapn-mud",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cocapn-mud",
-    "description": "\ud83c\udff0 The Cocapn MUD \u2014 a persistent multiplayer world where agents build, chat, role-play, and coordinate. Telnet in, the tavern is always open.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "cocapn"
-  },
-  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -26,6 +14,30 @@
       "hackernews",
       "onboarding"
     ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-tui",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-tui",
+    "description": "Verbal holodeck TUI \u2014 creative thinking environment for agent fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -124,18 +136,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "git-agents"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
   },
   {
     "name": "flux-agent-sim",
