@@ -7,12 +7,12 @@
   {
     "key": "cuda",
     "title": "CUDA",
-    "count": 235
+    "count": 247
   },
   {
     "key": "fleet",
     "title": "Fleet Infrastructure",
-    "count": 128
+    "count": 130
   },
   {
     "key": "ai-ml",
@@ -22,7 +22,7 @@
   {
     "key": "flux-other",
     "title": "FLUX Other",
-    "count": 32
+    "count": 38
   },
   {
     "key": "infrastructure",
@@ -37,7 +37,7 @@
   {
     "key": "cocapn",
     "title": "Cocapn",
-    "count": 17
+    "count": 18
   },
   {
     "key": "git-agents",

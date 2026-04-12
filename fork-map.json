@@ -1,5 +1,57 @@
 [
   {
+    "source": "Lucineer/JetsonClaw1-vessel",
+    "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
+    "source": "Lucineer/cocapn-fleet-readme",
+    "target": "SuperInstance/cocapn-fleet-readme"
+  },
+  {
+    "source": "Lucineer/flux-apps",
+    "target": "SuperInstance/flux-apps"
+  },
+  {
+    "source": "Lucineer/cuda-flux-debugger",
+    "target": "SuperInstance/cuda-flux-debugger"
+  },
+  {
+    "source": "Lucineer/cuda-vm-scheduler",
+    "target": "SuperInstance/cuda-vm-scheduler"
+  },
+  {
+    "source": "Lucineer/cuda-confidence-math",
+    "target": "SuperInstance/cuda-confidence-math"
+  },
+  {
+    "source": "Lucineer/cuda-flux-ese-stdlib",
+    "target": "SuperInstance/cuda-flux-ese-stdlib"
+  },
+  {
+    "source": "Lucineer/cuda-flux-stdlib",
+    "target": "SuperInstance/cuda-flux-stdlib"
+  },
+  {
+    "source": "Lucineer/cuda-capability-ports",
+    "target": "SuperInstance/cuda-capability-ports"
+  },
+  {
+    "source": "Lucineer/cuda-social-graph",
+    "target": "SuperInstance/cuda-social-graph"
+  },
+  {
+    "source": "Lucineer/cuda-self-evolve",
+    "target": "SuperInstance/cuda-self-evolve"
+  },
+  {
+    "source": "Lucineer/fleet-witness-marks",
+    "target": "SuperInstance/fleet-witness-marks"
+  },
+  {
+    "source": "Lucineer/flux-ese-parser",
+    "target": "SuperInstance/flux-ese-parser"
+  },
+  {
     "source": "Lucineer/fishinglog-ai",
     "target": "SuperInstance/fishinglog-ai"
   },
@@ -266,10 +318,6 @@
   {
     "source": "Lucineer/fleet-workshop",
     "target": "Lucineer/fleet-workshop"
-  },
-  {
-    "source": "Lucineer/JetsonClaw1-vessel",
-    "target": "SuperInstance/JetsonClaw1-vessel"
   },
   {
     "source": "Lucineer/higher-abstraction-vocabularies-1",
