@@ -4,6 +4,10 @@
     "target": "SuperInstance/lighthouse-keeper"
   },
   {
+    "source": "Lucineer/JetsonClaw1-vessel",
+    "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
     "source": "Lucineer/captains-log-academy",
     "target": "SuperInstance/captains-log-academy"
   },
@@ -108,12 +112,12 @@
     "target": "SuperInstance/flux-ephemeral-c"
   },
   {
-    "source": "Lucineer/flux-energy",
-    "target": "SuperInstance/flux-energy"
-  },
-  {
     "source": "Lucineer/flux-ephemeral",
     "target": "SuperInstance/flux-ephemeral"
+  },
+  {
+    "source": "Lucineer/flux-energy",
+    "target": "SuperInstance/flux-energy"
   },
   {
     "source": "Lucineer/flux-dream-cycle-c",
@@ -338,10 +342,6 @@
   {
     "source": "Lucineer/fluxtrust-go",
     "target": "SuperInstance/fluxtrust-go"
-  },
-  {
-    "source": "Lucineer/JetsonClaw1-vessel",
-    "target": "SuperInstance/JetsonClaw1-vessel"
   },
   {
     "source": "Lucineer/fluxgrimoire-go",

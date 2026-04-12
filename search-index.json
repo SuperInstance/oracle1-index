@@ -1,5 +1,53 @@
 [
   {
+    "name": "holodeck-zig",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-zig",
+    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
+    "language": "Zig",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-go",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-go",
+    "description": "Holodeck studio implementation in go \u2014 Cocapn fleet",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-c",
+    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -16,6 +64,100 @@
     ],
     "updated": "2026-04-12",
     "category": "other"
+  },
+  {
+    "name": "flux-conformance-runner",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-conformance-runner",
+    "description": "C11 conformance test runner: 88 vectors against flux-runtime-c",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "ai-ml"
+  },
+  {
+    "name": "flux-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "adaptive-optimization",
+      "agent",
+      "bytecode",
+      "compiler",
+      "hot-reload",
+      "jit",
+      "polyglot",
+      "python",
+      "runtime",
+      "self-evolving",
+      "ssa",
+      "virtual-machine",
+      "zero-dependencies"
+    ],
+    "updated": "2026-04-12",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "superz-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-vessel",
+    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "auditor",
+      "fleet",
+      "quartermaster",
+      "scout",
+      "superinstance",
+      "vessel"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "lighthouse-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "JetsonClaw1-vessel",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/JetsonClaw1-vessel",
+    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
+  },
+  {
+    "name": "JetsonClaw1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
+    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
   },
   {
     "name": "holodeck-studio",
@@ -54,78 +196,11 @@
     "category": "flux-toolchain"
   },
   {
-    "name": "superz-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-vessel",
-    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "auditor",
-      "fleet",
-      "quartermaster",
-      "scout",
-      "superinstance",
-      "vessel"
-    ],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "holodeck-cuda",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/holodeck-cuda",
     "description": "GPU-resident holodeck MUD \u2014 16K rooms, 65K agents, warp-level combat",
     "language": "Cuda",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-go",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-go",
-    "description": "Holodeck studio implementation in go \u2014 Cocapn fleet",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-c",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-c",
-    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-zig",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-zig",
-    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
-    "language": "Zig",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-rust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-rust",
-    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
-    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -169,18 +244,6 @@
     "category": "flux-other"
   },
   {
-    "name": "lighthouse-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "flux-agent-runtime",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-agent-runtime",
@@ -215,18 +278,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "JetsonClaw1-vessel",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/JetsonClaw1-vessel",
-    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
   },
   {
     "name": "flux-agent-sim",
@@ -445,33 +496,6 @@
     "category": "other"
   },
   {
-    "name": "flux-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime",
-    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "a2a",
-      "adaptive-optimization",
-      "agent",
-      "bytecode",
-      "compiler",
-      "hot-reload",
-      "jit",
-      "polyglot",
-      "python",
-      "runtime",
-      "self-evolving",
-      "ssa",
-      "virtual-machine",
-      "zero-dependencies"
-    ],
-    "updated": "2026-04-12",
-    "category": "flux-runtime"
-  },
-  {
     "name": "flux-tools",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-tools",
@@ -592,24 +616,24 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-social",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-social",
-    "description": "Rust social graph: agents, relations, groups, centrality, roles",
-    "language": "Rust",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-skills",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-skills",
     "description": "\u26a1 FLUX-native agent skills \u2014 clone, run, modify, compose. A2A-first docs so agents teach agents.",
     "language": "Python",
     "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-social",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-social",
+    "description": "Rust social graph: agents, relations, groups, centrality, roles",
+    "language": "Rust",
+    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -904,18 +928,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-navigate",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-navigate",
-    "description": "Rust 2D grid pathfinding: BFS, waypoints, replanning",
-    "language": "Rust",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-multilingual",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-multilingual",
@@ -923,6 +935,18 @@
     "language": "Python",
     "fork": false,
     "stars": 1,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-navigate",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-navigate",
+    "description": "Rust 2D grid pathfinding: BFS, waypoints, replanning",
+    "language": "Rust",
+    "fork": true,
+    "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
@@ -1288,10 +1312,10 @@
     "category": "flux-protocol"
   },
   {
-    "name": "flux-energy",
+    "name": "flux-ephemeral",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-energy",
-    "description": "Rust crate \u2014 ATP energy system: pools, circadian rhythm, costs, instinct triggers, apoptosis",
+    "url": "https://github.com/SuperInstance/flux-ephemeral",
+    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
     "language": "Rust",
     "fork": true,
     "stars": 0,
@@ -1300,10 +1324,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-ephemeral",
+    "name": "flux-energy",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ephemeral",
-    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
+    "url": "https://github.com/SuperInstance/flux-energy",
+    "description": "Rust crate \u2014 ATP energy system: pools, circadian rhythm, costs, instinct triggers, apoptosis",
     "language": "Rust",
     "fork": true,
     "stars": 0,
@@ -2248,18 +2272,6 @@
     "category": "other"
   },
   {
-    "name": "flux-conformance-runner",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-conformance-runner",
-    "description": "C11 conformance test runner: 88 vectors against flux-runtime-c",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "ai-ml"
-  },
-  {
     "name": "flux-census",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/flux-census",
@@ -2642,18 +2654,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
-  },
-  {
-    "name": "JetsonClaw1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
-    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
   },
   {
     "name": "isa-v3-draft",
