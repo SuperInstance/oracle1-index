@@ -1,5 +1,37 @@
 [
   {
+    "source": "Lucineer/lighthouse-keeper",
+    "target": "SuperInstance/lighthouse-keeper"
+  },
+  {
+    "source": "Lucineer/captains-log-academy",
+    "target": "SuperInstance/captains-log-academy"
+  },
+  {
+    "source": "Lucineer/flux-trust",
+    "target": "SuperInstance/flux-trust"
+  },
+  {
+    "source": "Lucineer/flux-tools",
+    "target": "SuperInstance/flux-tools"
+  },
+  {
+    "source": "Lucineer/flux-stigmergy-c",
+    "target": "SuperInstance/flux-stigmergy-c"
+  },
+  {
+    "source": "Lucineer/flux-stigmergy",
+    "target": "SuperInstance/flux-stigmergy"
+  },
+  {
+    "source": "Lucineer/flux-social-c",
+    "target": "SuperInstance/flux-social-c"
+  },
+  {
+    "source": "Lucineer/flux-social",
+    "target": "SuperInstance/flux-social"
+  },
+  {
     "source": "Lucineer/flux-runtime-c",
     "target": "SuperInstance/flux-runtime-c"
   },
@@ -100,12 +132,12 @@
     "target": "SuperInstance/flux-conformance-runner"
   },
   {
-    "source": "Lucineer/flux-compass-c",
-    "target": "SuperInstance/flux-compass-c"
-  },
-  {
     "source": "Lucineer/flux-compass",
     "target": "SuperInstance/flux-compass"
+  },
+  {
+    "source": "Lucineer/flux-compass-c",
+    "target": "SuperInstance/flux-compass-c"
   },
   {
     "source": "Lucineer/flux-census",
@@ -122,10 +154,6 @@
   {
     "source": "Lucineer/flux-apps",
     "target": "SuperInstance/flux-apps"
-  },
-  {
-    "source": "Lucineer/lighthouse-keeper",
-    "target": "SuperInstance/lighthouse-keeper"
   },
   {
     "source": "Lucineer/ghost-tiles-c",
@@ -224,10 +252,6 @@
     "target": "SuperInstance/cuda-metrics-v2"
   },
   {
-    "source": "Lucineer/flux-tools",
-    "target": "SuperInstance/flux-tools"
-  },
-  {
     "source": "Lucineer/zeroclaw-1",
     "target": "SuperInstance/zeroclaw-1"
   },
@@ -260,24 +284,12 @@
     "target": "SuperInstance/fluxnecropolis-go"
   },
   {
-    "source": "Lucineer/flux-stigmergy-c",
-    "target": "SuperInstance/flux-stigmergy-c"
-  },
-  {
     "source": "Lucineer/fluxstigmergy-go",
     "target": "SuperInstance/fluxstigmergy-go"
   },
   {
-    "source": "Lucineer/flux-stigmergy",
-    "target": "SuperInstance/flux-stigmergy"
-  },
-  {
     "source": "Lucineer/flux-trust-c",
     "target": "SuperInstance/flux-trust-c"
-  },
-  {
-    "source": "Lucineer/flux-social-c",
-    "target": "SuperInstance/flux-social-c"
   },
   {
     "source": "Lucineer/fluxdreamcycle-go",
@@ -296,16 +308,8 @@
     "target": "SuperInstance/fluxmemory-go"
   },
   {
-    "source": "Lucineer/flux-trust",
-    "target": "SuperInstance/flux-trust"
-  },
-  {
     "source": "Lucineer/fluxevolve-go",
     "target": "SuperInstance/fluxevolve-go"
-  },
-  {
-    "source": "Lucineer/flux-social",
-    "target": "SuperInstance/flux-social"
   },
   {
     "source": "Lucineer/fluxcompass-go",
@@ -388,12 +392,12 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-telepathy",
-    "target": "SuperInstance/cuda-telepathy"
-  },
-  {
     "source": "Lucineer/cuda-ephemeral",
     "target": "SuperInstance/cuda-ephemeral"
+  },
+  {
+    "source": "Lucineer/cuda-telepathy",
+    "target": "SuperInstance/cuda-telepathy"
   },
   {
     "source": "Lucineer/keeper-c",
@@ -672,12 +676,12 @@
     "target": "Lucineer/zeroclaw-1"
   },
   {
-    "source": "Lucineer/cuda-memory-fabric",
-    "target": "SuperInstance/cuda-memory-fabric"
-  },
-  {
     "source": "Lucineer/cuda-ghost-tiles",
     "target": "SuperInstance/cuda-ghost-tiles"
+  },
+  {
+    "source": "Lucineer/cuda-memory-fabric",
+    "target": "SuperInstance/cuda-memory-fabric"
   },
   {
     "source": "Lucineer/cuda-trust",
