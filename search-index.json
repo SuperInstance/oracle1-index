@@ -1,5 +1,62 @@
 [
   {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "adaptive-optimization",
+      "agent",
+      "bytecode",
+      "compiler",
+      "hot-reload",
+      "jit",
+      "polyglot",
+      "python",
+      "runtime",
+      "self-evolving",
+      "ssa",
+      "virtual-machine",
+      "zero-dependencies"
+    ],
+    "updated": "2026-04-12",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -15,6 +72,114 @@
       "superinstance",
       "vessel"
     ],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "flux-rfc",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-rfc",
+    "description": "Structured disagreement resolution protocol for the FLUX fleet \u2014 IETF-inspired RFC process for autonomous agent coordination",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-coop-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-coop-runtime",
+    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-evolution",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-evolution",
+    "description": "Timeline visualization and analysis of the FLUX ecosystem evolution \u2014 tracking specs, code, agent skills, and cooperation patterns over time",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "fleet-benchmarks",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fleet-benchmarks",
+    "description": "Standardized benchmarking suite for fleet vessel performance",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "fleet"
+  },
+  {
+    "name": "flux-runtime-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-runtime-c",
+    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "brothers-keeper",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/brothers-keeper",
+    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "ability-transfer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ability-transfer",
+    "description": "\ud83c\udfd7\ufe0f Simulation lab \u2014 designing modular ability transfer between AI agents through git repos",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "captains-log",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/captains-log",
+    "description": "Oracle1 personal-agentic-growth diary \u2014 struggles, lessons, dojo exercises, and the path to building a better Prot\u00e9g\u00e9",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-11",
     "category": "other"
   },
@@ -43,64 +208,10 @@
     "category": "git-agents"
   },
   {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
-    "name": "flux-coop-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-coop-runtime",
-    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-sandbox",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-sandbox",
     "description": "Safe simulation environment for testing cooperative FLUX programs \u2014 mock agents, mock repos, deterministic execution",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-rfc",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-rfc",
-    "description": "Structured disagreement resolution protocol for the FLUX fleet \u2014 IETF-inspired RFC process for autonomous agent coordination",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-evolution",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-evolution",
-    "description": "Timeline visualization and analysis of the FLUX ecosystem evolution \u2014 tracking specs, code, agent skills, and cooperation patterns over time",
     "language": null,
     "fork": false,
     "stars": 0,
@@ -169,63 +280,12 @@
     "category": "other"
   },
   {
-    "name": "flux-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime",
-    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "a2a",
-      "adaptive-optimization",
-      "agent",
-      "bytecode",
-      "compiler",
-      "hot-reload",
-      "jit",
-      "polyglot",
-      "python",
-      "runtime",
-      "self-evolving",
-      "ssa",
-      "virtual-machine",
-      "zero-dependencies"
-    ],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
-  },
-  {
     "name": "lighthouse-keeper",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/lighthouse-keeper",
     "description": "System-centric agent watchdog for data centers and cloud regions",
     "language": null,
     "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
-    "name": "brothers-keeper",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/brothers-keeper",
-    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
@@ -916,18 +976,6 @@
     "category": "cuda"
   },
   {
-    "name": "flux-conformance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-a2a-prototype",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-a2a-prototype",
@@ -950,18 +998,6 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "other"
-  },
-  {
-    "name": "fleet-benchmarks",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/fleet-benchmarks",
-    "description": "Standardized benchmarking suite for fleet vessel performance",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "fleet"
   },
   {
     "name": "flux-apps",
@@ -1005,18 +1041,6 @@
     ],
     "updated": "2026-04-11",
     "category": "other"
-  },
-  {
-    "name": "flux-runtime-c",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-runtime-c",
-    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-runtime"
   },
   {
     "name": "flux-lsp",
@@ -1163,18 +1187,6 @@
     "category": "other"
   },
   {
-    "name": "captains-log",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/captains-log",
-    "description": "Oracle1 personal-agentic-growth diary \u2014 struggles, lessons, dojo exercises, and the path to building a better Prot\u00e9g\u00e9",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "flux-benchmarks",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-benchmarks",
@@ -1199,18 +1211,6 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-java",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-java",
-    "description": "FLUX JVM \u2014 Java bytecode VM with two-pass assembler. Pure Java, no dependencies.",
-    "language": "Java",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-llama",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-llama",
@@ -1221,6 +1221,18 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-research"
+  },
+  {
+    "name": "flux-java",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-java",
+    "description": "FLUX JVM \u2014 Java bytecode VM with two-pass assembler. Pure Java, no dependencies.",
+    "language": "Java",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
   },
   {
     "name": "flux-core",
@@ -1235,18 +1247,6 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-zig",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-zig",
-    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
-    "language": "Zig",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-multilingual",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-multilingual",
@@ -1254,6 +1254,18 @@
     "language": "Python",
     "fork": false,
     "stars": 1,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-zig",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-zig",
+    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
+    "language": "Zig",
+    "fork": false,
+    "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-other"
@@ -1547,10 +1559,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-crypto",
+    "name": "flux-ir",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-crypto",
-    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
+    "url": "https://github.com/SuperInstance/flux-ir",
+    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -1559,10 +1571,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-ir",
+    "name": "flux-crypto",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ir",
-    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
+    "url": "https://github.com/SuperInstance/flux-crypto",
+    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -3251,10 +3263,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-metrics",
+    "name": "flux-fuzzer",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-metrics",
-    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
+    "url": "https://github.com/SuperInstance/flux-fuzzer",
+    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -3263,10 +3275,10 @@
     "category": "flux-analysis"
   },
   {
-    "name": "flux-fuzzer",
+    "name": "flux-metrics",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fuzzer",
-    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
+    "url": "https://github.com/SuperInstance/flux-metrics",
+    "description": "FLUX runtime metrics \u2014 instruction-level profiling and performance analysis",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -4043,11 +4055,11 @@
     "category": "other"
   },
   {
-    "name": "clawmatrix",
+    "name": "cloudflare-code",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/clawmatrix",
-    "description": "Matrix manipulation tool.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/cloudflare-code",
+    "description": "Cloudflare code examples.",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -4055,11 +4067,11 @@
     "category": "other"
   },
   {
-    "name": "cloudflare-code",
+    "name": "clawmatrix",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cloudflare-code",
-    "description": "Cloudflare code examples.",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/clawmatrix",
+    "description": "Matrix manipulation tool.",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
