@@ -12,6 +12,30 @@
     "category": "cocapn"
   },
   {
+    "name": "flux-evolve",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-evolve",
+    "description": "Rust self-modification engine: genome, mutation, revert, rollback, elite protection",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-memory",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-memory",
+    "description": "Rust key-value store: TTL, versioning, snapshots, diff, GC",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -26,6 +50,150 @@
       "hackernews",
       "onboarding"
     ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-skills",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-skills",
+    "description": "\u26a1 FLUX-native agent skills \u2014 clone, run, modify, compose. A2A-first docs so agents teach agents.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-evolve",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-evolve",
+    "description": "Rust self-modification engine: genome, mutation, revert, rollback, elite protection",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-memory",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-memory",
+    "description": "Rust key-value store: TTL, versioning, snapshots, diff, GC",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-ephemeral",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-ephemeral",
+    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-social",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-social",
+    "description": "Rust social graph: agents, relations, groups, centrality, roles",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxevolve-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxevolve-go",
+    "description": "Go self-modification engine: genome, mutation, revert, rollback, elite protection",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-trust",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-trust",
+    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxmemory-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxmemory-go",
+    "description": "Go key-value store: TTL, versioning, snapshots, diff, GC",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-dream-cycle",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/flux-dream-cycle",
+    "description": "Rust background task scheduler: priorities, recurring tasks, retry, overdue detection",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxtrust-go",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fluxtrust-go",
+    "description": "Go trust scoring: Bayesian updates, decay, revocation, sorting",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "fluxephemeral-go",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/fluxephemeral-go",
+    "description": "Go sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -153,18 +321,6 @@
     "category": "flux-other"
   },
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "JetsonClaw1-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
@@ -254,18 +410,6 @@
     ],
     "updated": "2026-04-12",
     "category": "other"
-  },
-  {
-    "name": "flux-skills",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-skills",
-    "description": "\u26a1 FLUX-native agent skills \u2014 clone, run, modify, compose. A2A-first docs so agents teach agents.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   },
   {
     "name": "flux-stigmergy",
@@ -820,10 +964,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-telepathy",
+    "name": "cuda-ephemeral",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-telepathy",
-    "description": "Rust crate \u2014 A2A message transport, binary encoding, mailbox, routing for Cocapn fleet",
+    "url": "https://github.com/SuperInstance/cuda-ephemeral",
+    "description": "Rust crate \u2014 ephemeral (short-lived) agent task management for Cocapn fleet",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -832,10 +976,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-ephemeral",
+    "name": "cuda-telepathy",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-ephemeral",
-    "description": "Rust crate \u2014 ephemeral (short-lived) agent task management for Cocapn fleet",
+    "url": "https://github.com/SuperInstance/cuda-telepathy",
+    "description": "Rust crate \u2014 A2A message transport, binary encoding, mailbox, routing for Cocapn fleet",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -2855,18 +2999,6 @@
     "category": "flux-research"
   },
   {
-    "name": "flux-zig",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-zig",
-    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
-    "language": "Zig",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-multilingual",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-multilingual",
@@ -2874,6 +3006,18 @@
     "language": "Python",
     "fork": false,
     "stars": 1,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-zig",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-zig",
+    "description": "FLUX Zig \u2014 FASTEST VM at 210ns/iter. Comptime-optimized bytecode interpreter.",
+    "language": "Zig",
+    "fork": false,
+    "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-other"
@@ -3095,10 +3239,10 @@
     "category": "git-agents"
   },
   {
-    "name": "cuda-memory-fabric",
+    "name": "cuda-ghost-tiles",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
-    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
+    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
+    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -3107,10 +3251,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-ghost-tiles",
+    "name": "cuda-memory-fabric",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
-    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
+    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
+    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -3155,10 +3299,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-crypto",
+    "name": "flux-ir",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-crypto",
-    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
+    "url": "https://github.com/SuperInstance/flux-ir",
+    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -3167,10 +3311,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-ir",
+    "name": "flux-crypto",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ir",
-    "description": "FLUX intermediate representation \u2014 structured IR between source and bytecode",
+    "url": "https://github.com/SuperInstance/flux-crypto",
+    "description": "FLUX crypto \u2014 signing, commitments, Merkle trees for agent communication",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -3359,10 +3503,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-bytecode-optimizer",
+    "name": "cuda-context-window",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
-    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
+    "url": "https://github.com/Lucineer/cuda-context-window",
+    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3371,10 +3515,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-context-window",
+    "name": "cuda-bytecode-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-context-window",
-    "description": "Context window management \u2014 compression, summarization, and token budgeting for agent conversations",
+    "url": "https://github.com/Lucineer/cuda-bytecode-optimizer",
+    "description": "FLUX bytecode optimization passes \u2014 dead code elimination, constant folding, jump threading",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3527,18 +3671,6 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-compiler-agent",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-compiler-agent",
-    "description": "Rust+CUDA deliberation bytecode engine \u2014 agentic-native compiler",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
     "name": "cuda-resolve",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-resolve",
@@ -3551,10 +3683,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rtl-optimizer",
+    "name": "cuda-compiler-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
-    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
+    "url": "https://github.com/Lucineer/cuda-compiler-agent",
+    "description": "Rust+CUDA deliberation bytecode engine \u2014 agentic-native compiler",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3575,10 +3707,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-neural-compiler",
+    "name": "cuda-rtl-optimizer",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-neural-compiler",
-    "description": "Neural compiler \u2014 weight quantization (INT4/INT8/FP16/Mixed), METL binary generation, layer scheduling for inference silicon",
+    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
+    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3587,10 +3719,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-swarm-tiler",
+    "name": "cuda-neural-compiler",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
-    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
+    "url": "https://github.com/Lucineer/cuda-neural-compiler",
+    "description": "Neural compiler \u2014 weight quantization (INT4/INT8/FP16/Mixed), METL binary generation, layer scheduling for inference silicon",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3615,6 +3747,18 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-axiom",
     "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-swarm-tiler",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-swarm-tiler",
+    "description": "Rust+CUDA Monte Carlo yield simulation for MoE swarm chips",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -4391,10 +4535,10 @@
     "category": "flux-other"
   },
   {
-    "name": "cuda-budget",
+    "name": "cuda-crdt",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-budget",
-    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
+    "url": "https://github.com/Lucineer/cuda-crdt",
+    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -4403,10 +4547,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-crdt",
+    "name": "cuda-budget",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-crdt",
-    "description": "CRDTs \u2014 G-Counter, PN-Counter, OR-Set, LWW-Register, Vector Clock (Rust)",
+    "url": "https://github.com/Lucineer/cuda-budget",
+    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -5531,11 +5675,11 @@
     "category": "other"
   },
   {
-    "name": "cloudflare-code",
+    "name": "clawmatrix",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cloudflare-code",
-    "description": "Cloudflare code examples.",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/clawmatrix",
+    "description": "Matrix manipulation tool.",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5543,11 +5687,11 @@
     "category": "other"
   },
   {
-    "name": "clawmatrix",
+    "name": "cloudflare-code",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/clawmatrix",
-    "description": "Matrix manipulation tool.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/cloudflare-code",
+    "description": "Cloudflare code examples.",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5819,11 +5963,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-claude",
+    "name": "activelog-backend",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-claude",
-    "description": "Activity Log plugin for Claude.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/activelog-backend",
+    "description": "Backend service for activity logging.",
+    "language": "PowerShell",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5831,11 +5975,11 @@
     "category": "other"
   },
   {
-    "name": "activelog-backend",
+    "name": "activelog-claude",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/activelog-backend",
-    "description": "Backend service for activity logging.",
-    "language": "PowerShell",
+    "url": "https://github.com/SuperInstance/activelog-claude",
+    "description": "Activity Log plugin for Claude.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],

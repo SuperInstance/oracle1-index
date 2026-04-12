@@ -1,5 +1,17 @@
 [
   {
+    "source": "Lucineer/flux-evolve",
+    "target": "SuperInstance/flux-evolve"
+  },
+  {
+    "source": "Lucineer/flux-memory",
+    "target": "SuperInstance/flux-memory"
+  },
+  {
+    "source": "Lucineer/fluxtrust-go",
+    "target": "SuperInstance/fluxtrust-go"
+  },
+  {
     "source": "Lucineer/JetsonClaw1-vessel",
     "target": "SuperInstance/JetsonClaw1-vessel"
   },
@@ -68,12 +80,12 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-telepathy",
-    "target": "SuperInstance/cuda-telepathy"
-  },
-  {
     "source": "Lucineer/cuda-ephemeral",
     "target": "SuperInstance/cuda-ephemeral"
+  },
+  {
+    "source": "Lucineer/cuda-telepathy",
+    "target": "SuperInstance/cuda-telepathy"
   },
   {
     "source": "Lucineer/keeper-c",
@@ -368,12 +380,12 @@
     "target": "Lucineer/zeroclaw-1"
   },
   {
-    "source": "Lucineer/cuda-memory-fabric",
-    "target": "SuperInstance/cuda-memory-fabric"
-  },
-  {
     "source": "Lucineer/cuda-ghost-tiles",
     "target": "SuperInstance/cuda-ghost-tiles"
+  },
+  {
+    "source": "Lucineer/cuda-memory-fabric",
+    "target": "SuperInstance/cuda-memory-fabric"
   },
   {
     "source": "Lucineer/cuda-trust",

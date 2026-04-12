@@ -15,14 +15,14 @@
     "count": 130
   },
   {
+    "key": "flux-other",
+    "title": "FLUX Other",
+    "count": 87
+  },
+  {
     "key": "ai-ml",
     "title": "AI/ML",
     "count": 83
-  },
-  {
-    "key": "flux-other",
-    "title": "FLUX Other",
-    "count": 75
   },
   {
     "key": "infrastructure",
