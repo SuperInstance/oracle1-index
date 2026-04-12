@@ -18,10 +18,58 @@
     "category": "other"
   },
   {
-    "name": "holodeck-tui",
+    "name": "holodeck-zig",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-tui",
-    "description": "Verbal holodeck TUI \u2014 creative thinking environment for agent fleet",
+    "url": "https://github.com/SuperInstance/holodeck-zig",
+    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-c",
+    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-go",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-go",
+    "description": "Holodeck studio implementation in go \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-studio",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-studio",
+    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -78,18 +126,6 @@
     "category": "flux-other"
   },
   {
-    "name": "lighthouse-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "flux-agent-runtime",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-agent-runtime",
@@ -100,6 +136,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "lighthouse-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
   },
   {
     "name": "flux-baton-test",
@@ -196,53 +244,5 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "git-agents"
-  },
-  {
-    "name": "flux-evolve",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-evolve",
-    "description": "Rust self-modification engine: genome, mutation, revert, rollback, elite protection",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-memory",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-memory",
-    "description": "Rust key-value store: TTL, versioning, snapshots, diff, GC",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-trust",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-trust",
-    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-dream-cycle",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-dream-cycle",
-    "description": "Rust background task scheduler: priorities, recurring tasks, retry, overdue detection",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   }
 ]

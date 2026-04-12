@@ -18,10 +18,58 @@
     "category": "other"
   },
   {
-    "name": "holodeck-tui",
+    "name": "holodeck-zig",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-tui",
-    "description": "Verbal holodeck TUI \u2014 creative thinking environment for agent fleet",
+    "url": "https://github.com/SuperInstance/holodeck-zig",
+    "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-c",
+    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-go",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-go",
+    "description": "Holodeck studio implementation in go \u2014 Cocapn fleet",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-studio",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-studio",
+    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -78,18 +126,6 @@
     "category": "flux-other"
   },
   {
-    "name": "lighthouse-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "flux-agent-runtime",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-agent-runtime",
@@ -100,6 +136,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "lighthouse-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
   },
   {
     "name": "flux-baton-test",
@@ -441,18 +489,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-stdlib",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-stdlib",
-    "description": "FLUX standard library \u2014 13 pre-compiled bytecode programs (math, utility)",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-protocol"
-  },
-  {
     "name": "flux-stigmergy-c",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-stigmergy-c",
@@ -463,6 +499,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "flux-stdlib",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-stdlib",
+    "description": "FLUX standard library \u2014 13 pre-compiled bytecode programs (math, utility)",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-protocol"
   },
   {
     "name": "flux-stigmergy",
@@ -501,24 +549,24 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-social",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-social",
-    "description": "Rust social graph: agents, relations, groups, centrality, roles",
-    "language": "Rust",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-skills",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-skills",
     "description": "\u26a1 FLUX-native agent skills \u2014 clone, run, modify, compose. A2A-first docs so agents teach agents.",
     "language": "Python",
     "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-social",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-social",
+    "description": "Rust social graph: agents, relations, groups, centrality, roles",
+    "language": "Rust",
+    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -621,12 +669,12 @@
     "category": "flux-runtime"
   },
   {
-    "name": "flux-runtime-c",
+    "name": "flux-runtime-kor",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-c",
-    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
-    "language": "C",
-    "fork": true,
+    "url": "https://github.com/SuperInstance/flux-runtime-kor",
+    "description": null,
+    "language": "Python",
+    "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -645,12 +693,12 @@
     "category": "flux-runtime"
   },
   {
-    "name": "flux-runtime-kor",
+    "name": "flux-runtime-c",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-kor",
-    "description": null,
-    "language": "Python",
-    "fork": false,
+    "url": "https://github.com/SuperInstance/flux-runtime-c",
+    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
+    "language": "C",
+    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -777,18 +825,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-optimizer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-optimizer",
-    "description": "FLUX peephole bytecode optimizer \u2014 constant folding, dead code elimination, strength reduction",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-toolchain"
-  },
-  {
     "name": "flux-necropolis-c",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-necropolis-c",
@@ -811,6 +847,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "flux-optimizer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-optimizer",
+    "description": "FLUX peephole bytecode optimizer \u2014 constant folding, dead code elimination, strength reduction",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-toolchain"
   },
   {
     "name": "flux-navigate-c",
@@ -885,24 +933,24 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-memory",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-memory",
-    "description": "Rust key-value store: TTL, versioning, snapshots, diff, GC",
-    "language": "Rust",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-lsp",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-lsp",
     "description": "FLUX Ecosystem - flux-lsp",
     "language": "TypeScript",
     "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-memory",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-memory",
+    "description": "Rust key-value store: TTL, versioning, snapshots, diff, GC",
+    "language": "Rust",
+    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -1209,10 +1257,10 @@
     "category": "flux-protocol"
   },
   {
-    "name": "flux-ephemeral",
+    "name": "flux-energy",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-ephemeral",
-    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
+    "url": "https://github.com/SuperInstance/flux-energy",
+    "description": "Rust crate \u2014 ATP energy system: pools, circadian rhythm, costs, instinct triggers, apoptosis",
     "language": "Rust",
     "fork": true,
     "stars": 0,
@@ -1221,10 +1269,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-energy",
+    "name": "flux-ephemeral",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-energy",
-    "description": "Rust crate \u2014 ATP energy system: pools, circadian rhythm, costs, instinct triggers, apoptosis",
+    "url": "https://github.com/SuperInstance/flux-ephemeral",
+    "description": "Rust sandboxed task lifecycle: TTL, CPU/memory budgets, expiry, output capture",
     "language": "Rust",
     "fork": true,
     "stars": 0,
@@ -1377,18 +1425,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-conformance-runner",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance-runner",
-    "description": "C11 conformance test runner: 88 vectors against flux-runtime-c",
-    "language": "C",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "ai-ml"
-  },
-  {
     "name": "flux-coop-runtime",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-coop-runtime",
@@ -1399,6 +1435,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "flux-conformance-runner",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance-runner",
+    "description": "C11 conformance test runner: 88 vectors against flux-runtime-c",
+    "language": "C",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "ai-ml"
   },
   {
     "name": "flux-compass-c",
@@ -1449,24 +1497,24 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-census-c",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-census-c",
-    "description": "Pure C11 population stats: mean/median/stddev, percentiles, outliers, trends",
-    "language": "C",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-bytecode-diff",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-bytecode-diff",
     "description": "Bytecode diff and migration tools \u2014 compare, patch, and migrate FLUX programs across ISA versions",
     "language": "Python",
     "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-census-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-census-c",
+    "description": "Pure C11 population stats: mean/median/stddev, percentiles, outliers, trends",
+    "language": "C",
+    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -2752,18 +2800,6 @@
     "category": "consensus"
   },
   {
-    "name": "fluxkeeper-go",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fluxkeeper-go",
-    "description": "Go package \u2014 system watchdog: /proc monitoring, health scoring, trend analysis, ring buffer",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "infrastructure"
-  },
-  {
     "name": "fluxtelepathy-go",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/fluxtelepathy-go",
@@ -2774,6 +2810,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "fluxkeeper-go",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fluxkeeper-go",
+    "description": "Go package \u2014 system watchdog: /proc monitoring, health scoring, trend analysis, ring buffer",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "infrastructure"
   },
   {
     "name": "fluxenergy-go",
@@ -3040,10 +3088,10 @@
     "category": "infrastructure"
   },
   {
-    "name": "cuda-grimoire",
+    "name": "cuda-necropolis",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-grimoire",
-    "description": "Rust crate \u2014 fleet pattern library (spellbook) with reusable FLUX agent recipes",
+    "url": "https://github.com/SuperInstance/cuda-necropolis",
+    "description": "Rust crate \u2014 fleet graveyard: vessel death, memorial service, knowledge preservation",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -3052,10 +3100,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-necropolis",
+    "name": "cuda-grimoire",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-necropolis",
-    "description": "Rust crate \u2014 fleet graveyard: vessel death, memorial service, knowledge preservation",
+    "url": "https://github.com/SuperInstance/cuda-grimoire",
+    "description": "Rust crate \u2014 fleet pattern library (spellbook) with reusable FLUX agent recipes",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -3256,10 +3304,10 @@
     "category": "cocapn"
   },
   {
-    "name": "cuda-vm-scheduler",
+    "name": "cuda-flux-debugger",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-vm-scheduler",
-    "description": "Cooperative VM multitasking with energy-aware priority scheduling",
+    "url": "https://github.com/SuperInstance/cuda-flux-debugger",
+    "description": "FLUX VM debugging, tracing, profiling, and deterministic replay",
     "language": null,
     "fork": true,
     "stars": 0,
@@ -3268,10 +3316,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-flux-debugger",
+    "name": "cuda-vm-scheduler",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-flux-debugger",
-    "description": "FLUX VM debugging, tracing, profiling, and deterministic replay",
+    "url": "https://github.com/SuperInstance/cuda-vm-scheduler",
+    "description": "Cooperative VM multitasking with energy-aware priority scheduling",
     "language": null,
     "fork": true,
     "stars": 0,
