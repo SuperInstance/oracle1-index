@@ -30,6 +30,18 @@
     "category": "other"
   },
   {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "flux-profiler",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-profiler",
@@ -57,18 +69,6 @@
       "superinstance",
       "vessel"
     ],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
