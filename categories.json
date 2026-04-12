@@ -2,12 +2,12 @@
   {
     "key": "other",
     "title": "Other",
-    "count": 606
+    "count": 609
   },
   {
     "key": "cuda",
     "title": "CUDA",
-    "count": 253
+    "count": 259
   },
   {
     "key": "fleet",
@@ -22,12 +22,12 @@
   {
     "key": "flux-other",
     "title": "FLUX Other",
-    "count": 39
+    "count": 40
   },
   {
     "key": "infrastructure",
     "title": "Infrastructure",
-    "count": 28
+    "count": 29
   },
   {
     "key": "craftmind",
@@ -37,7 +37,7 @@
   {
     "key": "cocapn",
     "title": "Cocapn",
-    "count": 18
+    "count": 19
   },
   {
     "key": "git-agents",
@@ -57,7 +57,7 @@
   {
     "key": "consensus",
     "title": "Consensus",
-    "count": 9
+    "count": 10
   },
   {
     "key": "flux-runtime",

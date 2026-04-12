@@ -1,15 +1,59 @@
 [
   {
+    "source": "Lucineer/JetsonClaw1-vessel",
+    "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
+    "source": "Lucineer/confidence-c",
+    "target": "SuperInstance/confidence-c"
+  },
+  {
+    "source": "Lucineer/telepathy-c",
+    "target": "SuperInstance/telepathy-c"
+  },
+  {
+    "source": "Lucineer/cuda-instruction-set",
+    "target": "SuperInstance/cuda-instruction-set"
+  },
+  {
+    "source": "Lucineer/opcode-philosophy",
+    "target": "SuperInstance/opcode-philosophy"
+  },
+  {
+    "source": "Lucineer/cuda-keeper-core",
+    "target": "SuperInstance/cuda-keeper-core"
+  },
+  {
+    "source": "Lucineer/cuda-dream-cycle",
+    "target": "SuperInstance/cuda-dream-cycle"
+  },
+  {
+    "source": "Lucineer/cuda-telepathy",
+    "target": "SuperInstance/cuda-telepathy"
+  },
+  {
+    "source": "Lucineer/cuda-ephemeral",
+    "target": "SuperInstance/cuda-ephemeral"
+  },
+  {
+    "source": "Lucineer/keeper-c",
+    "target": "SuperInstance/keeper-c"
+  },
+  {
+    "source": "Lucineer/cuda-necropolis",
+    "target": "SuperInstance/cuda-necropolis"
+  },
+  {
+    "source": "Lucineer/cuda-grimoire",
+    "target": "SuperInstance/cuda-grimoire"
+  },
+  {
     "source": "Lucineer/luciddreamer-ai",
     "target": "SuperInstance/luciddreamer-ai"
   },
   {
     "source": "Lucineer/dream-engine",
     "target": "SuperInstance/dream-engine"
-  },
-  {
-    "source": "Lucineer/JetsonClaw1-vessel",
-    "target": "SuperInstance/JetsonClaw1-vessel"
   },
   {
     "source": "Lucineer/cocapn-fleet-readme",
@@ -20,12 +64,12 @@
     "target": "SuperInstance/flux-apps"
   },
   {
-    "source": "Lucineer/cuda-flux-debugger",
-    "target": "SuperInstance/cuda-flux-debugger"
-  },
-  {
     "source": "Lucineer/cuda-vm-scheduler",
     "target": "SuperInstance/cuda-vm-scheduler"
+  },
+  {
+    "source": "Lucineer/cuda-flux-debugger",
+    "target": "SuperInstance/cuda-flux-debugger"
   },
   {
     "source": "Lucineer/cuda-confidence-math",
@@ -1414,10 +1458,6 @@
   {
     "source": "Lucineer/cuda-intelligence",
     "target": "SuperInstance/cuda-intelligence"
-  },
-  {
-    "source": "Lucineer/cuda-instruction-set",
-    "target": "SuperInstance/cuda-instruction-set"
   },
   {
     "source": "Lucineer/cuda-git-agent",
