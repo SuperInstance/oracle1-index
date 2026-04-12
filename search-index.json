@@ -1,5 +1,102 @@
 [
   {
+    "name": "superz-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-vessel",
+    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "auditor",
+      "fleet",
+      "quartermaster",
+      "scout",
+      "superinstance",
+      "vessel"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-skills",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-skills",
+    "description": "\u26a1 FLUX-native agent skills \u2014 clone, run, modify, compose. A2A-first docs so agents teach agents.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "confidence-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/confidence-c",
+    "description": "Pure C11 confidence math \u2014 Bayesian fusion, decay, multi-agent reconciliation, no heap",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "consensus"
+  },
+  {
+    "name": "telepathy-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/telepathy-c",
+    "description": "Pure C11 A2A message transport \u2014 bare-metal 1050-byte messages, mailbox, router, receipts",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "keeper-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/keeper-c",
+    "description": "Pure C11 system watchdog \u2014 bare-metal /proc monitoring, health checks, trend analysis",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "infrastructure"
+  },
+  {
+    "name": "cuda-necropolis",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-necropolis",
+    "description": "Rust crate \u2014 fleet graveyard: vessel death, memorial service, knowledge preservation",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
     "name": "fleet-benchmarks",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/fleet-benchmarks",
@@ -24,20 +121,230 @@
     "category": "other"
   },
   {
-    "name": "capitaine",
+    "name": "luciddreamer-ai",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/luciddreamer-ai",
+    "description": "Cocapn vessel \u2014 accumulated context IS the product",
+    "language": "TypeScript",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "dream-engine",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/dream-engine",
+    "description": "Lucid dreaming content engine \u2014 overnight generation with multi-character narration",
+    "language": "TypeScript",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "agent-skills",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/agent-skills",
+    "description": "\ud83d\udce6 Installable agent skills \u2014 smart applications any agent can drop into a project, customize, and improve through feedback",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "cuda-keeper-core",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "url": "https://github.com/Lucineer/cuda-keeper-core",
+    "description": "Rust crate \u2014 portable system watchdog: /proc monitoring, health checks, trend analysis",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-dream-cycle",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-dream-cycle",
+    "description": "Rust crate \u2014 dream cycle protocol: task queue, idle detection, budget management, provider routing",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
+    "name": "spreader-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/spreader-agent",
+    "description": "\ud83c\udf0a One idea, many perspectives \u2014 drop-in git-agent that fans out across specialist views with synthesis",
     "language": "TypeScript",
     "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "murmur-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/murmur-agent",
+    "description": "\ud83e\udee7 All-night thinking git-agent \u2014 drop into any project, let it think out loud. Budget-agnostic: API or local hardware.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-fleet-stdlib",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-fleet-stdlib",
+    "description": "Shared error codes, status types, and common utilities for the entire FLUX fleet \u2014 the common language every repo speaks",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-sandbox",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-sandbox",
+    "description": "Safe simulation environment for testing cooperative FLUX programs \u2014 mock agents, mock repos, deterministic execution",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-coop-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-coop-runtime",
+    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "greenhorn-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/greenhorn-runtime",
+    "description": "\ud83d\udfe2 Portable agent runtime in Go, C, C++, CUDA. Download, deploy, specialize. Plants agents anywhere within hardware/API limits.",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "greenhorn"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
+    "name": "cuda-grimoire",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-grimoire",
+    "description": "Rust crate \u2014 fleet pattern library (spellbook) with reusable FLUX agent recipes",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
+    "name": "SuperInstance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/SuperInstance",
+    "description": "\ud83c\udf00 The Ocean of Agents \u2014 Navigate the currents, harness the winds, join the fleet.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "claude-code-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/claude-code-vessel",
+    "description": "Claude Code workhorse vessel with experience journal and task delegation",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "babel-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/babel-vessel",
+    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
+  },
+  {
+    "name": "cuda-telepathy",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-telepathy",
+    "description": "Rust crate \u2014 A2A message transport, binary encoding, mailbox, routing for Cocapn fleet",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-ephemeral",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-ephemeral",
+    "description": "Rust crate \u2014 ephemeral (short-lived) agent task management for Cocapn fleet",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "cuda"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -210,18 +517,6 @@
     "category": "cuda"
   },
   {
-    "name": "fleet-witness-marks",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-witness-marks",
-    "description": "Catalog of hard-won debugging lessons across the fleet \u2014 search your predecessors pain",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "fleet"
-  },
-  {
     "name": "flux-ese-parser",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-ese-parser",
@@ -232,6 +527,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-other"
+  },
+  {
+    "name": "fleet-witness-marks",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-witness-marks",
+    "description": "Catalog of hard-won debugging lessons across the fleet \u2014 search your predecessors pain",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "fleet"
   },
   {
     "name": "flux-evolution",
@@ -262,18 +569,6 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-bottle-protocol",
     "description": "Formal specification for the fleet bottle communication protocol \u2014 schema, validation, routing, and lifecycle",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-sandbox",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-sandbox",
-    "description": "Safe simulation environment for testing cooperative FLUX programs \u2014 mock agents, mock repos, deterministic execution",
     "language": "Python",
     "fork": false,
     "stars": 0,
@@ -359,18 +654,6 @@
     "url": "https://github.com/SuperInstance/flux-ide",
     "description": "FLUX Language IDE \u2014 markdown-to-bytecode agent-native development environment",
     "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-fleet-stdlib",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fleet-stdlib",
-    "description": "Shared error codes, status types, and common utilities for the entire FLUX fleet \u2014 the common language every repo speaks",
-    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -618,18 +901,6 @@
     "category": "flux-runtime"
   },
   {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "Equipment-Hardware-Scaler",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Equipment-Hardware-Scaler",
@@ -652,18 +923,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "equipment"
-  },
-  {
-    "name": "SuperInstance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/SuperInstance",
-    "description": "\ud83c\udf00 The Ocean of Agents \u2014 Navigate the currents, harness the winds, join the fleet.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
   },
   {
     "name": "Equipment-Monitoring-Dashboard",
@@ -702,18 +961,6 @@
     "category": "other"
   },
   {
-    "name": "claude-code-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/claude-code-vessel",
-    "description": "Claude Code workhorse vessel with experience journal and task delegation",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "Equipment-Escalation-Router",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Equipment-Escalation-Router",
@@ -738,18 +985,6 @@
     "category": "equipment"
   },
   {
-    "name": "flux-conformance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-meta-orchestrator",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-meta-orchestrator",
@@ -770,25 +1005,6 @@
     "fork": false,
     "stars": 0,
     "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "superz-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-vessel",
-    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "auditor",
-      "fleet",
-      "quartermaster",
-      "scout",
-      "superinstance",
-      "vessel"
-    ],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -916,18 +1132,6 @@
     "category": "flux-runtime"
   },
   {
-    "name": "babel-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/babel-vessel",
-    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
-  },
-  {
     "name": "z-agent-bootcamp",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/z-agent-bootcamp",
@@ -938,30 +1142,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "other"
-  },
-  {
-    "name": "greenhorn-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/greenhorn-runtime",
-    "description": "\ud83d\udfe2 Portable agent runtime in Go, C, C++, CUDA. Download, deploy, specialize. Plants agents anywhere within hardware/API limits.",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "greenhorn"
-  },
-  {
-    "name": "flux-coop-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-coop-runtime",
-    "description": "The missing middle layer \u2014 cooperative execution runtime bridging FLUX VM coordination opcodes to fleet-level message passing",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   },
   {
     "name": "superz-diary",
@@ -1883,18 +2063,6 @@
     "category": "other"
   },
   {
-    "name": "AI-Writings",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/AI-Writings",
-    "description": "A collection of writings by my AI when I tell it to take a break and imagine my projects stories",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "other"
-  },
-  {
     "name": "SmartCRDT",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/SmartCRDT",
@@ -1902,6 +2070,18 @@
     "language": "TypeScript",
     "fork": false,
     "stars": 1,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "other"
+  },
+  {
+    "name": "AI-Writings",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/AI-Writings",
+    "description": "A collection of writings by my AI when I tell it to take a break and imagine my projects stories",
+    "language": null,
+    "fork": false,
+    "stars": 0,
     "topics": [],
     "updated": "2026-04-11",
     "category": "other"
@@ -2231,10 +2411,10 @@
     "category": "git-agents"
   },
   {
-    "name": "cuda-memory-fabric",
+    "name": "cuda-ghost-tiles",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
-    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
+    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
+    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -2243,10 +2423,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-ghost-tiles",
+    "name": "cuda-memory-fabric",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cuda-ghost-tiles",
-    "description": "Learned sparse attention \u2014 ghost tiles prune unnecessary positions while preserving relevance (Rust)",
+    "url": "https://github.com/SuperInstance/cuda-memory-fabric",
+    "description": "Multi-layer agent memory \u2014 working, episodic, semantic, procedural with forgetting curves (Rust)",
     "language": "Makefile",
     "fork": true,
     "stars": 0,
@@ -2675,18 +2855,6 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-resolve",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-resolve",
-    "description": "A2A deliberative compilation in Rust \u2014 JSON payloads, confidence propagation, multi-agent protocol",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
     "name": "cuda-compiler-agent",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-compiler-agent",
@@ -2699,10 +2867,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rtl-optimizer",
+    "name": "cuda-resolve",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
-    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
+    "url": "https://github.com/Lucineer/cuda-resolve",
+    "description": "A2A deliberative compilation in Rust \u2014 JSON payloads, confidence propagation, multi-agent protocol",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2715,6 +2883,18 @@
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/cuda-fpga-toolkit",
     "description": "FPGA toolkit \u2014 TLMM ternary encoding, COE/MIF generation, Hilbert curve tile mapping for inference silicon",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
+  },
+  {
+    "name": "cuda-rtl-optimizer",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-rtl-optimizer",
+    "description": "RTL optimization passes \u2014 constant folding, CSE, DCE, and pipeline register insertion",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2747,10 +2927,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-axiom",
+    "name": "cuda-weight-stream",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-axiom",
-    "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
+    "url": "https://github.com/Lucineer/cuda-weight-stream",
+    "description": "DDR4 to BRAM weight streaming \u2014 tiled weight loading for inference silicon with prefetch and LRU eviction",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -2759,10 +2939,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-weight-stream",
+    "name": "cuda-axiom",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-weight-stream",
-    "description": "DDR4 to BRAM weight streaming \u2014 tiled weight loading for inference silicon with prefetch and LRU eviction",
+    "url": "https://github.com/Lucineer/cuda-axiom",
+    "description": "Axiom language core \u2014 post-human programming language with JSON payloads, confidence types, payload tree execution",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3179,10 +3359,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-persistence",
+    "name": "cuda-sandbox",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-persistence",
-    "description": "Persistence \u2014 checkpointing, state serialization, recovery, rollback, dirty tracking (Rust)",
+    "url": "https://github.com/Lucineer/cuda-sandbox",
+    "description": "Sandbox \u2014 execution isolation, resource limits, operation policies, fault containment (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3191,10 +3371,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-sandbox",
+    "name": "cuda-persistence",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-sandbox",
-    "description": "Sandbox \u2014 execution isolation, resource limits, operation policies, fault containment (Rust)",
+    "url": "https://github.com/Lucineer/cuda-persistence",
+    "description": "Persistence \u2014 checkpointing, state serialization, recovery, rollback, dirty tracking (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3707,10 +3887,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-swarm-agent",
+    "name": "cuda-sensor-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-swarm-agent",
-    "description": "Autonomous swarm vessel \u2014 self-contained agent with fleet coordination, deliberation, health",
+    "url": "https://github.com/Lucineer/cuda-sensor-agent",
+    "description": "Perception agent \u2014 sensor fusion, confidence-weighted observations, health monitoring, built on cuda-equipment",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3719,10 +3899,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-sensor-agent",
+    "name": "cuda-swarm-agent",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-sensor-agent",
-    "description": "Perception agent \u2014 sensor fusion, confidence-weighted observations, health monitoring, built on cuda-equipment",
+    "url": "https://github.com/Lucineer/cuda-swarm-agent",
+    "description": "Autonomous swarm vessel \u2014 self-contained agent with fleet coordination, deliberation, health",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3791,10 +3971,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-lease",
+    "name": "cuda-election",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-lease",
-    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
+    "url": "https://github.com/Lucineer/cuda-election",
+    "description": "Leader election \u2014 Raft-like voting, term management, heartbeat, majority",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -3815,10 +3995,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-election",
+    "name": "cuda-lease",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-election",
-    "description": "Leader election \u2014 Raft-like voting, term management, heartbeat, majority",
+    "url": "https://github.com/Lucineer/cuda-lease",
+    "description": "Lease management \u2014 TTL grants, renewal, expiry, holder revocation",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -4415,18 +4595,6 @@
     "category": "other"
   },
   {
-    "name": "project-JEPA",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/project-JEPA",
-    "description": "JEPA (Joint Embedding Predictive Architecture) implementation",
-    "language": "Go",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "ai-ml"
-  },
-  {
     "name": "Proactive-Planning-AI-Hub",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Proactive-Planning-AI-Hub",
@@ -4437,6 +4605,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "other"
+  },
+  {
+    "name": "project-JEPA",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/project-JEPA",
+    "description": "JEPA (Joint Embedding Predictive Architecture) implementation",
+    "language": "Go",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "ai-ml"
   },
   {
     "name": "Private-ML-Personalization",
@@ -4499,11 +4679,11 @@
     "category": "other"
   },
   {
-    "name": "PersonalLog",
+    "name": "pinchrs",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/PersonalLog",
-    "description": "Personal logging and tracking application",
-    "language": "TypeScript",
+    "url": "https://github.com/SuperInstance/pinchrs",
+    "description": "Pinchrs client platform for social interactions",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -4511,11 +4691,11 @@
     "category": "other"
   },
   {
-    "name": "pinchrs",
+    "name": "PersonalLog",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pinchrs",
-    "description": "Pinchrs client platform for social interactions",
-    "language": null,
+    "url": "https://github.com/SuperInstance/PersonalLog",
+    "description": "Personal logging and tracking application",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -5183,18 +5363,6 @@
     "category": "other"
   },
   {
-    "name": "git-agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/git-agent",
-    "description": "AI-powered agent to automate and assist Git workflows.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "git-agents"
-  },
-  {
     "name": "Hardware-Aware-Flagging",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Hardware-Aware-Flagging",
@@ -5205,6 +5373,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "other"
+  },
+  {
+    "name": "git-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/git-agent",
+    "description": "AI-powered agent to automate and assist Git workflows.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "git-agents"
   },
   {
     "name": "Ghost-tiles",
@@ -5291,18 +5471,6 @@
     "category": "other"
   },
   {
-    "name": "Dynamic-Theming",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Dynamic-Theming",
-    "description": "Dynamic theming system for UI theme switching.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "dodecet-encoder",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/dodecet-encoder",
@@ -5313,6 +5481,18 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "ai-ml"
+  },
+  {
+    "name": "Dynamic-Theming",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Dynamic-Theming",
+    "description": "Dynamic theming system for UI theme switching.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-10",
+    "category": "other"
   },
   {
     "name": "DMLog",
@@ -6827,18 +7007,6 @@
     "category": "other"
   },
   {
-    "name": "luciddreamer-ai",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/luciddreamer-ai",
-    "description": "Cocapn vessel \u2014 accumulated context IS the product",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
     "name": "loop-closure",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/loop-closure",
@@ -8283,18 +8451,6 @@
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/dreamlog-ai",
     "description": "DreamLog.ai \u2014 AI dream journal and lucid dreaming companion. Part of the Lucineer ecosystem.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "other"
-  },
-  {
-    "name": "dream-engine",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/dream-engine",
-    "description": "Lucid dreaming content engine \u2014 overnight generation with multi-character narration",
     "language": null,
     "fork": true,
     "stars": 0,
