@@ -1,17 +1,5 @@
 [
   {
-    "name": "holodeck-studio",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-studio",
-    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -30,6 +18,30 @@
     "category": "other"
   },
   {
+    "name": "holodeck-studio",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-studio",
+    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-profiler",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-profiler",
+    "description": "FLUX performance profiler \u2014 opcode counts, hot paths, register usage, cycle estimates",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-toolchain"
+  },
+  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -45,6 +57,18 @@
       "superinstance",
       "vessel"
     ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-12",
     "category": "other"
   },
@@ -90,18 +114,6 @@
     "url": "https://github.com/SuperInstance/holodeck-zig",
     "description": "Holodeck studio implementation in zig \u2014 Cocapn fleet",
     "language": "Zig",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -239,17 +251,5 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "fleet"
-  },
-  {
-    "name": "flux-isa-v3",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-isa-v3",
-    "description": "ISA v3 edge encoder/decoder \u2014 variable-width 1-3 byte instructions with confidence fusion",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   }
 ]
