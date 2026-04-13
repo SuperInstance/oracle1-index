@@ -1,5 +1,21 @@
 [
   {
+    "source": "Lucineer/seed-mcp-v2",
+    "target": "SuperInstance/seed-mcp-v2"
+  },
+  {
+    "source": "Lucineer/lighthouse-keeper",
+    "target": "SuperInstance/lighthouse-keeper"
+  },
+  {
+    "source": "Lucineer/flux-conformance-runner",
+    "target": "SuperInstance/flux-conformance-runner"
+  },
+  {
+    "source": "Lucineer/JetsonClaw1-vessel",
+    "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
     "source": "Lucineer/flux-confidence",
     "target": "SuperInstance/flux-confidence"
   },
@@ -48,24 +64,16 @@
     "target": "SuperInstance/flux-meta"
   },
   {
-    "source": "Lucineer/JetsonClaw1-vessel",
-    "target": "SuperInstance/JetsonClaw1-vessel"
-  },
-  {
-    "source": "Lucineer/lighthouse-keeper",
-    "target": "SuperInstance/lighthouse-keeper"
-  },
-  {
     "source": "Lucineer/captains-log-academy",
     "target": "SuperInstance/captains-log-academy"
   },
   {
-    "source": "Lucineer/flux-trust",
-    "target": "SuperInstance/flux-trust"
-  },
-  {
     "source": "Lucineer/flux-tools",
     "target": "SuperInstance/flux-tools"
+  },
+  {
+    "source": "Lucineer/flux-trust",
+    "target": "SuperInstance/flux-trust"
   },
   {
     "source": "Lucineer/flux-stigmergy-c",
@@ -160,12 +168,12 @@
     "target": "SuperInstance/flux-ephemeral-c"
   },
   {
-    "source": "Lucineer/flux-ephemeral",
-    "target": "SuperInstance/flux-ephemeral"
-  },
-  {
     "source": "Lucineer/flux-energy",
     "target": "SuperInstance/flux-energy"
+  },
+  {
+    "source": "Lucineer/flux-ephemeral",
+    "target": "SuperInstance/flux-ephemeral"
   },
   {
     "source": "Lucineer/flux-dream-cycle-c",
@@ -178,10 +186,6 @@
   {
     "source": "Lucineer/flux-disasm",
     "target": "SuperInstance/flux-disasm"
-  },
-  {
-    "source": "Lucineer/flux-conformance-runner",
-    "target": "SuperInstance/flux-conformance-runner"
   },
   {
     "source": "Lucineer/flux-compass-c",
@@ -440,12 +444,12 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-ephemeral",
-    "target": "SuperInstance/cuda-ephemeral"
-  },
-  {
     "source": "Lucineer/cuda-telepathy",
     "target": "SuperInstance/cuda-telepathy"
+  },
+  {
+    "source": "Lucineer/cuda-ephemeral",
+    "target": "SuperInstance/cuda-ephemeral"
   },
   {
     "source": "Lucineer/keeper-c",
@@ -472,12 +476,12 @@
     "target": "SuperInstance/cocapn-fleet-readme"
   },
   {
-    "source": "Lucineer/cuda-flux-debugger",
-    "target": "SuperInstance/cuda-flux-debugger"
-  },
-  {
     "source": "Lucineer/cuda-vm-scheduler",
     "target": "SuperInstance/cuda-vm-scheduler"
+  },
+  {
+    "source": "Lucineer/cuda-flux-debugger",
+    "target": "SuperInstance/cuda-flux-debugger"
   },
   {
     "source": "Lucineer/cuda-confidence-math",

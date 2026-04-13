@@ -11,7 +11,7 @@
   },
   {
     "language": "Python",
-    "count": 171,
+    "count": 176,
     "color": "#3572A5"
   },
   {
@@ -60,6 +60,11 @@
     "color": "#89e051"
   },
   {
+    "language": "Jupyter Notebook",
+    "count": 1,
+    "color": "#DA5B0B"
+  },
+  {
     "language": "C#",
     "count": 1,
     "color": "#8b949e"
@@ -73,10 +78,5 @@
     "language": "PowerShell",
     "count": 1,
     "color": "#8b949e"
-  },
-  {
-    "language": "Jupyter Notebook",
-    "count": 1,
-    "color": "#DA5B0B"
   }
 ]
