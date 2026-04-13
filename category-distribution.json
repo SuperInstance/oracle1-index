@@ -2,7 +2,7 @@
   {
     "key": "other",
     "title": "Other",
-    "count": 660
+    "count": 663
   },
   {
     "key": "cuda",
@@ -50,13 +50,13 @@
     "count": 15
   },
   {
-    "key": "equipment",
-    "title": "Equipment",
-    "count": 13
-  },
-  {
     "key": "consensus",
     "title": "Consensus",
+    "count": 14
+  },
+  {
+    "key": "equipment",
+    "title": "Equipment",
     "count": 13
   },
   {

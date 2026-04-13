@@ -904,12 +904,12 @@
     "target": "SuperInstance/mycelium-ai"
   },
   {
-    "source": "Lucineer/nexus-comms",
-    "target": "SuperInstance/nexus-comms"
-  },
-  {
     "source": "Lucineer/nexus-aab-protocol",
     "target": "SuperInstance/nexus-aab-protocol"
+  },
+  {
+    "source": "Lucineer/nexus-comms",
+    "target": "SuperInstance/nexus-comms"
   },
   {
     "source": "Lucineer/mask-locked-inference-chip",
@@ -1080,12 +1080,12 @@
     "target": "SuperInstance/forgiveness-function"
   },
   {
-    "source": "Lucineer/forgetting-problem",
-    "target": "SuperInstance/forgetting-problem"
-  },
-  {
     "source": "Lucineer/fork-first-enterprise",
     "target": "SuperInstance/fork-first-enterprise"
+  },
+  {
+    "source": "Lucineer/forgetting-problem",
+    "target": "SuperInstance/forgetting-problem"
   },
   {
     "source": "Lucineer/git-agent-luc",

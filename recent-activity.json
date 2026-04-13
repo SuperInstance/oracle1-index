@@ -1,5 +1,29 @@
 [
   {
+    "name": "cuda-event",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-event",
+    "description": "Event system \u2014 pub/sub, event sourcing, replay, dead letter queue (Rust)",
+    "language": "Rust",
+    "fork": false,
+    "stars": 1,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "cuda"
+  },
+  {
+    "name": "abstraction-planes",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/abstraction-planes",
+    "description": "The Middle Way \u2014 decompose ideas to their optimal abstraction plane, not all the way to bytecode",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -13,6 +37,75 @@
       "codespaces",
       "hackernews",
       "onboarding"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "smp-flux-bridge",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/smp-flux-bridge",
+    "description": "Bridging SMPBot Tile Algebra with FLUX lock system",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "tile-lock-synthesis",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/tile-lock-synthesis",
+    "description": "Tile Algebra meets FLUX Lock Algebra - formal composition theory for bytecode consistency",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "holodeck",
+      "rust",
+      "systems-programming"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "polyglot-flux-ese",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/polyglot-flux-ese",
+    "description": "Polyglot markdown-to-bytecode compiler \u2014 languages are worldviews, same model writes and compiles",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -114,22 +207,6 @@
       "scout",
       "superinstance",
       "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "html",
-      "superinstance",
-      "tool"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -263,127 +340,5 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "mask-lock-clips",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/mask-lock-clips",
-    "description": "Project for masking and locking video clip features.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "cli",
-      "clips",
-      "command-line",
-      "flux-fleet",
-      "lock",
-      "mask",
-      "terminal"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "lighthouse-monitor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-monitor",
-    "description": "Lighthouse Keeper \u2014 fleet monitoring, agent activity tracking, stall detection",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "analytics",
-      "autonomous-agent",
-      "flux-fleet",
-      "health",
-      "lighthouse",
-      "monitor",
-      "monitoring",
-      "observability",
-      "python"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "isa-v3-draft",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/isa-v3-draft",
-    "description": "FLUX ISA v3 Design Draft \u2014 trifold encoding for cloud/edge/compact modes",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "architecture",
-      "cloud",
-      "devops",
-      "draft",
-      "flux-fleet",
-      "instruction-set",
-      "isa",
-      "specification"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "imagegen1",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/imagegen1",
-    "description": "AI-powered image generation tool for text prompts.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "computer-vision",
-      "flux-fleet",
-      "generative-ai",
-      "imagegen1",
-      "multimedia"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "flux-evolve-py",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-evolve-py",
-    "description": "Python evolution engine for FLUX VM \u2014 deterministic self-modification with elite protection",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "bytecode",
-      "evolve",
-      "flux",
-      "flux-fleet",
-      "python",
-      "virtual-machine"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "flux-chronometer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-chronometer",
-    "description": "Cocapn vessel vessel \u2014 testing and conformance",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "bytecode",
-      "chronometer",
-      "conformance",
-      "flux",
-      "flux-fleet",
-      "testing",
-      "verification",
-      "virtual-machine"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
   }
 ]
