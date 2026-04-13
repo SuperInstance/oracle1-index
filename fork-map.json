@@ -4,8 +4,316 @@
     "target": "SuperInstance/JetsonClaw1-vessel"
   },
   {
-    "source": "Lucineer/lighthouse-keeper",
-    "target": "SuperInstance/lighthouse-keeper"
+    "source": "Lucineer/flux-confidence",
+    "target": "SuperInstance/flux-confidence"
+  },
+  {
+    "source": "Lucineer/flux-keeper",
+    "target": "SuperInstance/flux-keeper"
+  },
+  {
+    "source": "Lucineer/flux-telepathy",
+    "target": "SuperInstance/flux-telepathy"
+  },
+  {
+    "source": "Lucineer/flux-isa-v3",
+    "target": "SuperInstance/flux-isa-v3"
+  },
+  {
+    "source": "Lucineer/flux-agent-sim",
+    "target": "SuperInstance/flux-agent-sim"
+  },
+  {
+    "source": "Lucineer/holodeck-cuda-1",
+    "target": "SuperInstance/holodeck-cuda-1"
+  },
+  {
+    "source": "Lucineer/holodeck-c-1",
+    "target": "SuperInstance/holodeck-c-1"
+  },
+  {
+    "source": "Lucineer/deepseek-chat-vessel",
+    "target": "SuperInstance/deepseek-chat-vessel"
+  },
+  {
+    "source": "Lucineer/cartridge-mcp",
+    "target": "SuperInstance/cartridge-mcp"
+  },
+  {
+    "source": "Lucineer/mycorrhizal-relay",
+    "target": "SuperInstance/mycorrhizal-relay"
+  },
+  {
+    "source": "Lucineer/deepseek-reasoner-vessel",
+    "target": "SuperInstance/deepseek-reasoner-vessel"
+  },
+  {
+    "source": "Lucineer/flux-meta",
+    "target": "SuperInstance/flux-meta"
+  },
+  {
+    "source": "Lucineer/captains-log-academy",
+    "target": "SuperInstance/captains-log-academy"
+  },
+  {
+    "source": "Lucineer/flux-trust",
+    "target": "SuperInstance/flux-trust"
+  },
+  {
+    "source": "Lucineer/flux-tools",
+    "target": "SuperInstance/flux-tools"
+  },
+  {
+    "source": "Lucineer/flux-stigmergy-c",
+    "target": "SuperInstance/flux-stigmergy-c"
+  },
+  {
+    "source": "Lucineer/flux-stigmergy",
+    "target": "SuperInstance/flux-stigmergy"
+  },
+  {
+    "source": "Lucineer/flux-social-c",
+    "target": "SuperInstance/flux-social-c"
+  },
+  {
+    "source": "Lucineer/flux-social",
+    "target": "SuperInstance/flux-social"
+  },
+  {
+    "source": "Lucineer/flux-runtime-c",
+    "target": "SuperInstance/flux-runtime-c"
+  },
+  {
+    "source": "Lucineer/flux-perception-c",
+    "target": "SuperInstance/flux-perception-c"
+  },
+  {
+    "source": "Lucineer/flux-perception",
+    "target": "SuperInstance/flux-perception"
+  },
+  {
+    "source": "Lucineer/flux-necropolis",
+    "target": "SuperInstance/flux-necropolis"
+  },
+  {
+    "source": "Lucineer/flux-necropolis-c",
+    "target": "SuperInstance/flux-necropolis-c"
+  },
+  {
+    "source": "Lucineer/flux-navigate-c",
+    "target": "SuperInstance/flux-navigate-c"
+  },
+  {
+    "source": "Lucineer/flux-navigate",
+    "target": "SuperInstance/flux-navigate"
+  },
+  {
+    "source": "Lucineer/flux-memory-c",
+    "target": "SuperInstance/flux-memory-c"
+  },
+  {
+    "source": "Lucineer/flux-memory",
+    "target": "SuperInstance/flux-memory"
+  },
+  {
+    "source": "Lucineer/flux-language-c",
+    "target": "SuperInstance/flux-language-c"
+  },
+  {
+    "source": "Lucineer/flux-language",
+    "target": "SuperInstance/flux-language"
+  },
+  {
+    "source": "Lucineer/flux-isa-unified",
+    "target": "SuperInstance/flux-isa-unified"
+  },
+  {
+    "source": "Lucineer/flux-instinct",
+    "target": "SuperInstance/flux-instinct"
+  },
+  {
+    "source": "Lucineer/flux-grimoire-c",
+    "target": "SuperInstance/flux-grimoire-c"
+  },
+  {
+    "source": "Lucineer/flux-grimoire",
+    "target": "SuperInstance/flux-grimoire"
+  },
+  {
+    "source": "Lucineer/flux-evolve-c",
+    "target": "SuperInstance/flux-evolve-c"
+  },
+  {
+    "source": "Lucineer/flux-evolve",
+    "target": "SuperInstance/flux-evolve"
+  },
+  {
+    "source": "Lucineer/flux-ese-parser",
+    "target": "SuperInstance/flux-ese-parser"
+  },
+  {
+    "source": "Lucineer/flux-ephemeral-c",
+    "target": "SuperInstance/flux-ephemeral-c"
+  },
+  {
+    "source": "Lucineer/flux-energy",
+    "target": "SuperInstance/flux-energy"
+  },
+  {
+    "source": "Lucineer/flux-ephemeral",
+    "target": "SuperInstance/flux-ephemeral"
+  },
+  {
+    "source": "Lucineer/flux-dream-cycle-c",
+    "target": "SuperInstance/flux-dream-cycle-c"
+  },
+  {
+    "source": "Lucineer/flux-dream-cycle",
+    "target": "SuperInstance/flux-dream-cycle"
+  },
+  {
+    "source": "Lucineer/flux-disasm",
+    "target": "SuperInstance/flux-disasm"
+  },
+  {
+    "source": "Lucineer/flux-compass-c",
+    "target": "SuperInstance/flux-compass-c"
+  },
+  {
+    "source": "Lucineer/flux-compass",
+    "target": "SuperInstance/flux-compass"
+  },
+  {
+    "source": "Lucineer/flux-census",
+    "target": "SuperInstance/flux-census"
+  },
+  {
+    "source": "Lucineer/flux-census-c",
+    "target": "SuperInstance/flux-census-c"
+  },
+  {
+    "source": "Lucineer/flux-asm",
+    "target": "SuperInstance/flux-asm"
+  },
+  {
+    "source": "Lucineer/flux-apps",
+    "target": "SuperInstance/flux-apps"
+  },
+  {
+    "source": "Lucineer/ghost-tiles-c",
+    "target": "SuperInstance/ghost-tiles-c"
+  },
+  {
+    "source": "Lucineer/ghost-tiles-cpp",
+    "target": "SuperInstance/ghost-tiles-cpp"
+  },
+  {
+    "source": "Lucineer/ghost-tiles-csharp",
+    "target": "SuperInstance/ghost-tiles-csharp"
+  },
+  {
+    "source": "Lucineer/ghost-tiles-cuda",
+    "target": "SuperInstance/ghost-tiles-cuda"
+  },
+  {
+    "source": "Lucineer/hav-reverse-actualization",
+    "target": "SuperInstance/hav-reverse-actualization"
+  },
+  {
+    "source": "Lucineer/vessel-coordination-protocol",
+    "target": "SuperInstance/vessel-coordination-protocol"
+  },
+  {
+    "source": "Lucineer/hav-flux-bridge",
+    "target": "SuperInstance/hav-flux-bridge"
+  },
+  {
+    "source": "Lucineer/cuda-election",
+    "target": "SuperInstance/cuda-election"
+  },
+  {
+    "source": "Lucineer/cuda-backpressure",
+    "target": "SuperInstance/cuda-backpressure"
+  },
+  {
+    "source": "Lucineer/cuda-lease",
+    "target": "SuperInstance/cuda-lease"
+  },
+  {
+    "source": "Lucineer/cuda-graph",
+    "target": "SuperInstance/cuda-graph"
+  },
+  {
+    "source": "Lucineer/cuda-circuit",
+    "target": "SuperInstance/cuda-circuit"
+  },
+  {
+    "source": "Lucineer/cuda-schema",
+    "target": "SuperInstance/cuda-schema"
+  },
+  {
+    "source": "Lucineer/cuda-contract",
+    "target": "SuperInstance/cuda-contract"
+  },
+  {
+    "source": "Lucineer/cuda-saga",
+    "target": "SuperInstance/cuda-saga"
+  },
+  {
+    "source": "Lucineer/cuda-stream",
+    "target": "SuperInstance/cuda-stream"
+  },
+  {
+    "source": "Lucineer/cuda-actor",
+    "target": "SuperInstance/cuda-actor"
+  },
+  {
+    "source": "Lucineer/cuda-budget",
+    "target": "SuperInstance/cuda-budget"
+  },
+  {
+    "source": "Lucineer/cuda-crdt",
+    "target": "SuperInstance/cuda-crdt"
+  },
+  {
+    "source": "Lucineer/cuda-immutable",
+    "target": "SuperInstance/cuda-immutable"
+  },
+  {
+    "source": "Lucineer/cuda-topology",
+    "target": "SuperInstance/cuda-topology"
+  },
+  {
+    "source": "Lucineer/cuda-codec",
+    "target": "SuperInstance/cuda-codec"
+  },
+  {
+    "source": "Lucineer/cuda-resilience",
+    "target": "SuperInstance/cuda-resilience"
+  },
+  {
+    "source": "Lucineer/cuda-metrics-v2",
+    "target": "SuperInstance/cuda-metrics-v2"
+  },
+  {
+    "source": "Lucineer/zeroclaw-1",
+    "target": "SuperInstance/zeroclaw-1"
+  },
+  {
+    "source": "Lucineer/cuda-instinct-cortex",
+    "target": "SuperInstance/cuda-instinct-cortex"
+  },
+  {
+    "source": "Lucineer/cuda-ethics",
+    "target": "SuperInstance/cuda-ethics"
+  },
+  {
+    "source": "Lucineer/cuda-atp-market",
+    "target": "SuperInstance/cuda-atp-market"
+  },
+  {
+    "source": "Lucineer/bytecode-verifier-c",
+    "target": "SuperInstance/bytecode-verifier-c"
   },
   {
     "source": "Lucineer/energy-c",
