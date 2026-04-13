@@ -1,5 +1,9 @@
 [
   {
+    "source": "Lucineer/JetsonClaw1-vessel",
+    "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
     "source": "Lucineer/lighthouse-keeper",
     "target": "SuperInstance/lighthouse-keeper"
   },
@@ -580,12 +584,12 @@
     "target": "SuperInstance/self-evolve-ai"
   },
   {
-    "source": "Lucineer/skill-evolver",
-    "target": "SuperInstance/skill-evolver"
-  },
-  {
     "source": "Lucineer/skill-exchange",
     "target": "SuperInstance/skill-exchange"
+  },
+  {
+    "source": "Lucineer/skill-evolver",
+    "target": "SuperInstance/skill-evolver"
   },
   {
     "source": "Lucineer/stigmergy",
@@ -904,12 +908,12 @@
     "target": "SuperInstance/mycelium-ai"
   },
   {
-    "source": "Lucineer/nexus-aab-protocol",
-    "target": "SuperInstance/nexus-aab-protocol"
-  },
-  {
     "source": "Lucineer/nexus-comms",
     "target": "SuperInstance/nexus-comms"
+  },
+  {
+    "source": "Lucineer/nexus-aab-protocol",
+    "target": "SuperInstance/nexus-aab-protocol"
   },
   {
     "source": "Lucineer/mask-locked-inference-chip",
@@ -936,12 +940,12 @@
     "target": "SuperInstance/intelligence-marketplace"
   },
   {
-    "source": "Lucineer/jetson-grand-design",
-    "target": "SuperInstance/jetson-grand-design"
-  },
-  {
     "source": "Lucineer/jetson-compass",
     "target": "SuperInstance/jetson-compass"
+  },
+  {
+    "source": "Lucineer/jetson-grand-design",
+    "target": "SuperInstance/jetson-grand-design"
   },
   {
     "source": "Lucineer/kernel-model",
@@ -1080,12 +1084,12 @@
     "target": "SuperInstance/forgiveness-function"
   },
   {
-    "source": "Lucineer/fork-first-enterprise",
-    "target": "SuperInstance/fork-first-enterprise"
-  },
-  {
     "source": "Lucineer/forgetting-problem",
     "target": "SuperInstance/forgetting-problem"
+  },
+  {
+    "source": "Lucineer/fork-first-enterprise",
+    "target": "SuperInstance/fork-first-enterprise"
   },
   {
     "source": "Lucineer/git-agent-luc",
@@ -1106,10 +1110,6 @@
   {
     "source": "Lucineer/holodeck-cuda-1",
     "target": "SuperInstance/holodeck-cuda-1"
-  },
-  {
-    "source": "Lucineer/JetsonClaw1-vessel",
-    "target": "SuperInstance/JetsonClaw1-vessel"
   },
   {
     "source": "Lucineer/mycorrhizal-relay",
