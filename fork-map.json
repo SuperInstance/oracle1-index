@@ -1,5 +1,53 @@
 [
   {
+    "source": "Lucineer/flux-confidence",
+    "target": "SuperInstance/flux-confidence"
+  },
+  {
+    "source": "Lucineer/flux-keeper",
+    "target": "SuperInstance/flux-keeper"
+  },
+  {
+    "source": "Lucineer/flux-telepathy",
+    "target": "SuperInstance/flux-telepathy"
+  },
+  {
+    "source": "Lucineer/flux-isa-v3",
+    "target": "SuperInstance/flux-isa-v3"
+  },
+  {
+    "source": "Lucineer/flux-agent-sim",
+    "target": "SuperInstance/flux-agent-sim"
+  },
+  {
+    "source": "Lucineer/holodeck-cuda-1",
+    "target": "SuperInstance/holodeck-cuda-1"
+  },
+  {
+    "source": "Lucineer/holodeck-c-1",
+    "target": "SuperInstance/holodeck-c-1"
+  },
+  {
+    "source": "Lucineer/deepseek-chat-vessel",
+    "target": "SuperInstance/deepseek-chat-vessel"
+  },
+  {
+    "source": "Lucineer/cartridge-mcp",
+    "target": "SuperInstance/cartridge-mcp"
+  },
+  {
+    "source": "Lucineer/mycorrhizal-relay",
+    "target": "SuperInstance/mycorrhizal-relay"
+  },
+  {
+    "source": "Lucineer/deepseek-reasoner-vessel",
+    "target": "SuperInstance/deepseek-reasoner-vessel"
+  },
+  {
+    "source": "Lucineer/flux-meta",
+    "target": "SuperInstance/flux-meta"
+  },
+  {
     "source": "Lucineer/JetsonClaw1-vessel",
     "target": "SuperInstance/JetsonClaw1-vessel"
   },
@@ -12,12 +60,12 @@
     "target": "SuperInstance/captains-log-academy"
   },
   {
-    "source": "Lucineer/flux-tools",
-    "target": "SuperInstance/flux-tools"
-  },
-  {
     "source": "Lucineer/flux-trust",
     "target": "SuperInstance/flux-trust"
+  },
+  {
+    "source": "Lucineer/flux-tools",
+    "target": "SuperInstance/flux-tools"
   },
   {
     "source": "Lucineer/flux-stigmergy-c",
@@ -392,12 +440,12 @@
     "target": "SuperInstance/cuda-dream-cycle"
   },
   {
-    "source": "Lucineer/cuda-telepathy",
-    "target": "SuperInstance/cuda-telepathy"
-  },
-  {
     "source": "Lucineer/cuda-ephemeral",
     "target": "SuperInstance/cuda-ephemeral"
+  },
+  {
+    "source": "Lucineer/cuda-telepathy",
+    "target": "SuperInstance/cuda-telepathy"
   },
   {
     "source": "Lucineer/keeper-c",
