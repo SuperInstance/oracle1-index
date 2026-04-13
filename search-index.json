@@ -18,6 +18,18 @@
     "category": "other"
   },
   {
+    "name": "brothers-keeper",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/brothers-keeper",
+    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
+    "language": "Cuda",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "oracle1-index",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/oracle1-index",
@@ -39,18 +51,6 @@
     "url": "https://github.com/SuperInstance/superz-twin",
     "description": "Digital twin of Super Z (FLUX Fleet Architect) \u2014 standalone API-agnostic git-agent with FLUX-native cognition",
     "language": "JavaScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "brothers-keeper",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/brothers-keeper",
-    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
-    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
