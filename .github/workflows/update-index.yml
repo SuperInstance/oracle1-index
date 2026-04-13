@@ -1,4 +1,5 @@
 name: Update Oracle1 Index
+
 on:
   schedule:
     - cron: '*/15 * * * *'  # Every 15 minutes
@@ -22,22 +23,50 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      
+          python-version: '3.12'
+
       - name: Generate index data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate_index.py
-      
-      - name: Update dashboard timestamp
         run: |
-          echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > last-updated.txt
-      
-      - name: Commit changes
+          set -e
+          echo "::group::Generating index data"
+          python3 scripts/generate_index.py
+          echo "::endgroup::"
+
+          # Verify all expected output files exist
+          echo "::group::Verifying output files"
+          EXPECTED_FILES=(
+            search-index.json
+            categories.json
+            fork-map.json
+            recent-activity.json
+            category-distribution.json
+            by-language.json
+            last-updated.txt
+          )
+          MISSING=0
+          for f in "${EXPECTED_FILES[@]}"; do
+            if [ -f "$f" ]; then
+              echo "  ✓ $f ($(wc -c < "$f") bytes)"
+            else
+              echo "  ✗ $f MISSING"
+              MISSING=$((MISSING + 1))
+            fi
+          done
+          if [ $MISSING -gt 0 ]; then
+            echo "::error::$MISSING expected output files are missing"
+            exit 1
+          fi
+          echo "::endgroup::"
+
+      - name: Commit and push changes
         run: |
           git config user.name "oracle1-indexer[bot]"
           git config user.email "oracle1-indexer[bot]@users.noreply.github.com"
@@ -45,17 +74,22 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            CHANGES=$(git diff --staged --stat)
+            echo "Changes to commit:"
+            echo "$CHANGES"
             git commit -m "auto: update index $(date -u +%Y-%m-%d\ %H:%M UTC)"
             git push
           fi
-      
+
       - name: Upload Pages artifact
+        if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-  
+
   deploy:
     needs: build
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
