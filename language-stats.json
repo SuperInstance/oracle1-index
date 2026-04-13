@@ -1,22 +1,22 @@
 [
   {
     "language": "TypeScript",
-    "count": 304,
+    "count": 359,
     "color": "#3178c6"
   },
   {
     "language": "Rust",
-    "count": 205,
+    "count": 206,
     "color": "#dea584"
   },
   {
     "language": "Python",
-    "count": 180,
+    "count": 184,
     "color": "#3572A5"
   },
   {
     "language": "C",
-    "count": 56,
+    "count": 57,
     "color": "#555555"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "language": "JavaScript",
-    "count": 17,
+    "count": 20,
     "color": "#f1e05a"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "language": "Cuda",
-    "count": 5,
+    "count": 4,
     "color": "#8b949e"
   },
   {
