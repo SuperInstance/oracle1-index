@@ -1,10 +1,10 @@
 [
   {
-    "name": "pelagic-twin",
+    "name": "holodeck-rust",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pelagic-twin",
-    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
-    "language": null,
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -45,28 +45,16 @@
     "category": "other"
   },
   {
-    "name": "seed-mcp-v2",
+    "name": "fleet-agent-api",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/seed-mcp-v2",
-    "description": "DeepInfra creative MCP \u2014 Seed-2.0-Mini as star. 15 tools, playbook, chain-of-models.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "holodeck-rust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-rust",
-    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/fleet-agent-api",
+    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-13",
-    "category": "other"
+    "category": "fleet"
   },
   {
     "name": "capitaine",
@@ -85,25 +73,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "flux-conformance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "conformance",
-      "flux-vm",
-      "python",
-      "superinstance",
-      "testing",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
   },
   {
     "name": "superz-vessel",
@@ -125,20 +94,14 @@
     "category": "other"
   },
   {
-    "name": "oracle1-vessel",
+    "name": "git-agent",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-vessel",
-    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "url": "https://github.com/SuperInstance/git-agent",
+    "description": "AI-powered agent to automate and assist Git workflows.",
     "language": "Python",
     "fork": false,
     "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "python",
-      "superinstance",
-      "tool"
-    ],
+    "topics": [],
     "updated": "2026-04-13",
     "category": "git-agents"
   },
@@ -164,6 +127,129 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
+  },
+  {
+    "name": "oracle1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-vessel",
+    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "git-agent",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "git-agents"
+  },
+  {
+    "name": "flux-spec",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-spec",
+    "description": "FLUX Ecosystem - flux-spec",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "specification",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-research",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-research",
+    "description": "FLUX Deep Research \u2014 Compiler/interpreter taxonomy, agent-first design, ISA v2 proposal.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "research",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "pelagic-twin",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/pelagic-twin",
+    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "ec2mud",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ec2mud",
+    "description": "MUD (multi-user dungeon) game engine built on EC2 infrastructure",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "seed-mcp-v2",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/seed-mcp-v2",
+    "description": "DeepInfra creative MCP \u2014 Seed-2.0-Mini as star. 15 tools, playbook, chain-of-models.",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "conformance",
+      "flux-vm",
+      "python",
+      "superinstance",
+      "testing",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
   },
   {
     "name": "ability-transfer",
@@ -207,96 +293,6 @@
     "url": "https://github.com/SuperInstance/edge-research-relay",
     "description": null,
     "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "fleet-liaison-tender",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-liaison-tender",
-    "description": null,
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "fleet"
-  },
-  {
-    "name": "lighthouse-keeper",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "flux-lcar-esp32",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-lcar-esp32",
-    "description": null,
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "quill-isa-architect",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/quill-isa-architect",
-    "description": "Quill \u2014 ISA Spec Architect & Code Archaeologist | Bootable fleet agent twin with lighthouse keeper integration",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agents",
-      "bytecode-vm",
-      "code-archaeology",
-      "flux-runtime",
-      "git-agent",
-      "isa",
-      "specification",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "super-z-quartermaster",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/super-z-quartermaster",
-    "description": "Quartermaster vessel \u2014 GLM-5 Turbo agent. Fleet hygiene, gap analysis, documentation infrastructure, and empty repo build-out.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "documentation",
-      "fleet-hygiene",
-      "gap-analysis",
-      "git-agent",
-      "glm-5",
-      "quartermaster",
-      "superinstance",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "starship-jetsonclaw1",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/starship-jetsonclaw1",
-    "description": "MUD bridge for USS JetsonClaw1 - real Jetson telemetry as a starship TUI",
-    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],

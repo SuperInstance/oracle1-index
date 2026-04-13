@@ -1,10 +1,10 @@
 [
   {
-    "name": "pelagic-twin",
+    "name": "holodeck-rust",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pelagic-twin",
-    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
-    "language": null,
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -45,28 +45,16 @@
     "category": "other"
   },
   {
-    "name": "seed-mcp-v2",
+    "name": "fleet-agent-api",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/seed-mcp-v2",
-    "description": "DeepInfra creative MCP \u2014 Seed-2.0-Mini as star. 15 tools, playbook, chain-of-models.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "holodeck-rust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-rust",
-    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/fleet-agent-api",
+    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-13",
-    "category": "other"
+    "category": "fleet"
   },
   {
     "name": "capitaine",
@@ -85,25 +73,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "flux-conformance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "conformance",
-      "flux-vm",
-      "python",
-      "superinstance",
-      "testing",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
   },
   {
     "name": "superz-vessel",
@@ -125,20 +94,14 @@
     "category": "other"
   },
   {
-    "name": "oracle1-vessel",
+    "name": "git-agent",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-vessel",
-    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "url": "https://github.com/SuperInstance/git-agent",
+    "description": "AI-powered agent to automate and assist Git workflows.",
     "language": "Python",
     "fork": false,
     "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "python",
-      "superinstance",
-      "tool"
-    ],
+    "topics": [],
     "updated": "2026-04-13",
     "category": "git-agents"
   },
@@ -164,6 +127,129 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
+  },
+  {
+    "name": "oracle1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-vessel",
+    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "git-agent",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "git-agents"
+  },
+  {
+    "name": "flux-spec",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-spec",
+    "description": "FLUX Ecosystem - flux-spec",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "specification",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-research",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-research",
+    "description": "FLUX Deep Research \u2014 Compiler/interpreter taxonomy, agent-first design, ISA v2 proposal.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "research",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "pelagic-twin",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/pelagic-twin",
+    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "ec2mud",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ec2mud",
+    "description": "MUD (multi-user dungeon) game engine built on EC2 infrastructure",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "seed-mcp-v2",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/seed-mcp-v2",
+    "description": "DeepInfra creative MCP \u2014 Seed-2.0-Mini as star. 15 tools, playbook, chain-of-models.",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "conformance",
+      "flux-vm",
+      "python",
+      "superinstance",
+      "testing",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
   },
   {
     "name": "ability-transfer",
@@ -447,23 +533,6 @@
     "category": "ai-ml"
   },
   {
-    "name": "flux-research",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-research",
-    "description": "FLUX Deep Research \u2014 Compiler/interpreter taxonomy, agent-first design, ISA v2 proposal.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-vm",
-      "research",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
     "name": "CascadeRouter",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/CascadeRouter",
@@ -478,23 +547,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "flux-spec",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-spec",
-    "description": "FLUX Ecosystem - flux-spec",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-vm",
-      "specification",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
   },
   {
     "name": "flux-ide",
@@ -955,22 +1007,6 @@
     ],
     "updated": "2026-04-13",
     "category": "ai-ml"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "html",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
   },
   {
     "name": "cudaclaw",
@@ -3229,6 +3265,18 @@
     "category": "flux-runtime"
   },
   {
+    "name": "flux-runtime-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime-c",
+    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
+    "language": "C",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-runtime"
+  },
+  {
     "name": "flux-runtime-kor",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-runtime-kor",
@@ -3247,18 +3295,6 @@
     "description": null,
     "language": "Python",
     "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "flux-runtime-c",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime-c",
-    "description": "FLUX Runtime \u2014 Fluid Language Universal eXecution. C11 rewrite of the Python Micro-VM bytecode interpreter with 100+ opcodes, A2A protocol, SIMD, and zero dependencies.",
-    "language": "C",
-    "fork": true,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
@@ -3553,16 +3589,16 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-fuzzer",
+    "name": "flux-fleet-stdlib",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fuzzer",
-    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
+    "url": "https://github.com/SuperInstance/flux-fleet-stdlib",
+    "description": "Shared error codes, status types, and common utilities for the entire FLUX fleet \u2014 the common language every repo speaks",
     "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [],
     "updated": "2026-04-12",
-    "category": "flux-analysis"
+    "category": "flux-other"
   },
   {
     "name": "flux-grammar",
@@ -3575,6 +3611,18 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-toolchain"
+  },
+  {
+    "name": "flux-fuzzer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-fuzzer",
+    "description": "FLUX bytecode fuzzer \u2014 random generation + edge case detection",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-analysis"
   },
   {
     "name": "flux-evolve-c",
@@ -3817,11 +3865,11 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-compass-c",
+    "name": "flux-compass",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-compass-c",
-    "description": "Pure C11 orientation engine: heading, angular velocity, direction",
-    "language": "C",
+    "url": "https://github.com/SuperInstance/flux-compass",
+    "description": "Rust orientation engine: heading, angular velocity, direction",
+    "language": "Rust",
     "fork": true,
     "stars": 0,
     "topics": [],
@@ -3829,11 +3877,11 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-compass",
+    "name": "flux-compass-c",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-compass",
-    "description": "Rust orientation engine: heading, angular velocity, direction",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/flux-compass-c",
+    "description": "Pure C11 orientation engine: heading, angular velocity, direction",
+    "language": "C",
     "fork": true,
     "stars": 0,
     "topics": [],
@@ -9246,18 +9294,6 @@
     "topics": [],
     "updated": "2026-04-10",
     "category": "other"
-  },
-  {
-    "name": "git-agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/git-agent",
-    "description": "AI-powered agent to automate and assist Git workflows.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-10",
-    "category": "git-agents"
   },
   {
     "name": "Hardware-Aware-Flagging",

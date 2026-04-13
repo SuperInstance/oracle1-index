@@ -188,12 +188,12 @@
     "target": "SuperInstance/flux-disasm"
   },
   {
-    "source": "Lucineer/flux-compass-c",
-    "target": "SuperInstance/flux-compass-c"
-  },
-  {
     "source": "Lucineer/flux-compass",
     "target": "SuperInstance/flux-compass"
+  },
+  {
+    "source": "Lucineer/flux-compass-c",
+    "target": "SuperInstance/flux-compass-c"
   },
   {
     "source": "Lucineer/flux-census",
