@@ -39,6 +39,59 @@
     "category": "other"
   },
   {
+    "name": "edge-research-relay",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/edge-research-relay",
+    "description": "Edge computing research relay for academic paper distribution across the FLUX fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "academic",
+      "edge",
+      "flux-fleet",
+      "information-retrieval",
+      "relay",
+      "research",
+      "search"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "flux-py",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-py",
+    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -275,48 +328,6 @@
     "stars": 0,
     "topics": [
       "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "cache-layer-optimizer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cache-layer-optimizer",
-    "description": "Cache optimization layer with intelligent eviction, warming, and invalidation strategies",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "frozen-model-rl",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/frozen-model-rl",
-    "description": "Reinforcement learning with frozen foundation models - efficient adaptation without fine-tuning",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "training"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "gpu-accelerator",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/gpu-accelerator",
-    "description": "GPU acceleration layer for WebGPU and compute shaders - browser-based high-performance computing",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "hardware"
     ],
     "updated": "2026-04-13",
     "category": "other"

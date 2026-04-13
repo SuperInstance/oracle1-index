@@ -39,6 +39,59 @@
     "category": "other"
   },
   {
+    "name": "edge-research-relay",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/edge-research-relay",
+    "description": "Edge computing research relay for academic paper distribution across the FLUX fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "academic",
+      "edge",
+      "flux-fleet",
+      "information-retrieval",
+      "relay",
+      "research",
+      "search"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "flux-py",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-py",
+    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "superz-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/superz-vessel",
@@ -452,23 +505,6 @@
     ],
     "updated": "2026-04-13",
     "category": "fleet"
-  },
-  {
-    "name": "flux-py",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-py",
-    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-vm",
-      "python",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
   },
   {
     "name": "fleet-agent-api",
@@ -992,42 +1028,6 @@
     ],
     "updated": "2026-04-13",
     "category": "git-agents"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "html",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "edge-research-relay",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/edge-research-relay",
-    "description": "Edge computing research relay for academic paper distribution across the FLUX fleet",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "academic",
-      "edge",
-      "flux-fleet",
-      "information-retrieval",
-      "relay",
-      "research",
-      "search"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
   },
   {
     "name": "openmanus-vessel",
