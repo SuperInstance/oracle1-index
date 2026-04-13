@@ -1,5 +1,141 @@
 [
   {
+    "name": "holodeck-c",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/holodeck-c",
+    "description": "Pure C99 holodeck MUD \u2014 serial bridge for ESP32 gauges",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "flux-runtime",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-runtime",
+    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "a2a",
+      "adaptive-optimization",
+      "agent",
+      "bytecode",
+      "compiler",
+      "hot-reload",
+      "jit",
+      "polyglot",
+      "python",
+      "runtime",
+      "self-evolving",
+      "ssa",
+      "virtual-machine",
+      "zero-dependencies"
+    ],
+    "updated": "2026-04-12",
+    "category": "flux-runtime"
+  },
+  {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "holodeck-cuda",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/holodeck-cuda",
+    "description": "GPU-resident holodeck MUD \u2014 CUDA combat ticks on Jetson",
+    "language": "Cuda",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "superz-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-vessel",
+    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "auditor",
+      "fleet",
+      "quartermaster",
+      "scout",
+      "superinstance",
+      "vessel"
+    ],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "deepseek-reasoner-vessel",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/deepseek-reasoner-vessel",
+    "description": "Git-agent vessel for DeepSeek-Reasoner",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "JetsonClaw1-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
+    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "git-agents"
+  },
+  {
+    "name": "holodeck-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-c",
+    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
+    "language": "C",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "other"
+  },
+  {
     "name": "holodeck-zig",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/holodeck-zig",
@@ -36,36 +172,6 @@
     "category": "other"
   },
   {
-    "name": "holodeck-c",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-c",
-    "description": "Holodeck studio implementation in c \u2014 Cocapn fleet",
-    "language": "C",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
     "name": "flux-conformance-runner",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/flux-conformance-runner",
@@ -76,52 +182,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "ai-ml"
-  },
-  {
-    "name": "flux-runtime",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-runtime",
-    "description": "FLUX \u2014 Fluid Language Universal eXecution: A self-assembling, self-improving runtime for agent-first code. Polyglot markdown \u2192 bytecode \u2192 VM with adaptive optimization, fractal hot-reload, and self-evolution.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "a2a",
-      "adaptive-optimization",
-      "agent",
-      "bytecode",
-      "compiler",
-      "hot-reload",
-      "jit",
-      "polyglot",
-      "python",
-      "runtime",
-      "self-evolving",
-      "ssa",
-      "virtual-machine",
-      "zero-dependencies"
-    ],
-    "updated": "2026-04-12",
-    "category": "flux-runtime"
-  },
-  {
-    "name": "superz-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-vessel",
-    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "auditor",
-      "fleet",
-      "quartermaster",
-      "scout",
-      "superinstance",
-      "vessel"
-    ],
-    "updated": "2026-04-12",
-    "category": "other"
   },
   {
     "name": "lighthouse-keeper",
@@ -148,35 +208,11 @@
     "category": "git-agents"
   },
   {
-    "name": "JetsonClaw1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/JetsonClaw1-vessel",
-    "description": "\u26a1 Git-Agent Vessel \u2014 Lucineer realm specialist. Hardware, low-level systems, fleet infrastructure. Captain: Casey Digennaro. Lighthouse: Oracle1.",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "git-agents"
-  },
-  {
     "name": "holodeck-studio",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/holodeck-studio",
     "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
     "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -364,10 +400,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-trust",
+    "name": "flux-dream-cycle",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-trust",
-    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
+    "url": "https://github.com/Lucineer/flux-dream-cycle",
+    "description": "Rust background task scheduler: priorities, recurring tasks, retry, overdue detection",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -376,10 +412,10 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-dream-cycle",
+    "name": "flux-trust",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/flux-dream-cycle",
-    "description": "Rust background task scheduler: priorities, recurring tasks, retry, overdue detection",
+    "url": "https://github.com/Lucineer/flux-trust",
+    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -5939,10 +5975,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-rate-limit",
+    "name": "cuda-retry",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-rate-limit",
-    "description": "Rate limiting \u2014 token bucket, sliding window, per-agent quotas, backpressure (Rust)",
+    "url": "https://github.com/Lucineer/cuda-retry",
+    "description": "Retry \u2014 exponential backoff, jitter, circuit breaker, resilient execution patterns (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -5951,10 +5987,10 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-retry",
+    "name": "cuda-rate-limit",
     "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-retry",
-    "description": "Retry \u2014 exponential backoff, jitter, circuit breaker, resilient execution patterns (Rust)",
+    "url": "https://github.com/Lucineer/cuda-rate-limit",
+    "description": "Rate limiting \u2014 token bucket, sliding window, per-agent quotas, backpressure (Rust)",
     "language": "Rust",
     "fork": false,
     "stars": 0,
@@ -6143,18 +6179,6 @@
     "category": "cuda"
   },
   {
-    "name": "cuda-budget",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-budget",
-    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-11",
-    "category": "cuda"
-  },
-  {
     "name": "flux-disasm",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/flux-disasm",
@@ -6165,6 +6189,18 @@
     "topics": [],
     "updated": "2026-04-11",
     "category": "flux-other"
+  },
+  {
+    "name": "cuda-budget",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-budget",
+    "description": "Resource budgeting \u2014 computation limits, token allocation, priority scheduling (Rust)",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-11",
+    "category": "cuda"
   },
   {
     "name": "cuda-crdt",

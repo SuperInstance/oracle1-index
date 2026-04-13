@@ -1,11 +1,11 @@
 [
   {
-    "source": "Lucineer/lighthouse-keeper",
-    "target": "SuperInstance/lighthouse-keeper"
-  },
-  {
     "source": "Lucineer/JetsonClaw1-vessel",
     "target": "SuperInstance/JetsonClaw1-vessel"
+  },
+  {
+    "source": "Lucineer/lighthouse-keeper",
+    "target": "SuperInstance/lighthouse-keeper"
   },
   {
     "source": "Lucineer/captains-log-academy",
