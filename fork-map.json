@@ -68,12 +68,12 @@
     "target": "SuperInstance/captains-log-academy"
   },
   {
-    "source": "Lucineer/flux-tools",
-    "target": "SuperInstance/flux-tools"
-  },
-  {
     "source": "Lucineer/flux-trust",
     "target": "SuperInstance/flux-trust"
+  },
+  {
+    "source": "Lucineer/flux-tools",
+    "target": "SuperInstance/flux-tools"
   },
   {
     "source": "Lucineer/flux-stigmergy-c",
@@ -104,12 +104,12 @@
     "target": "SuperInstance/flux-perception"
   },
   {
-    "source": "Lucineer/flux-necropolis-c",
-    "target": "SuperInstance/flux-necropolis-c"
-  },
-  {
     "source": "Lucineer/flux-necropolis",
     "target": "SuperInstance/flux-necropolis"
+  },
+  {
+    "source": "Lucineer/flux-necropolis-c",
+    "target": "SuperInstance/flux-necropolis-c"
   },
   {
     "source": "Lucineer/flux-navigate-c",
@@ -188,12 +188,12 @@
     "target": "SuperInstance/flux-disasm"
   },
   {
-    "source": "Lucineer/flux-compass",
-    "target": "SuperInstance/flux-compass"
-  },
-  {
     "source": "Lucineer/flux-compass-c",
     "target": "SuperInstance/flux-compass-c"
+  },
+  {
+    "source": "Lucineer/flux-compass",
+    "target": "SuperInstance/flux-compass"
   },
   {
     "source": "Lucineer/flux-census",
