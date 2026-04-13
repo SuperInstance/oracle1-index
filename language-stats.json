@@ -1,27 +1,27 @@
 [
   {
     "language": "TypeScript",
-    "count": 359,
+    "count": 523,
     "color": "#3178c6"
   },
   {
     "language": "Rust",
-    "count": 206,
+    "count": 342,
     "color": "#dea584"
   },
   {
     "language": "Python",
-    "count": 184,
+    "count": 218,
     "color": "#3572A5"
   },
   {
     "language": "C",
-    "count": 57,
+    "count": 67,
     "color": "#555555"
   },
   {
     "language": "Go",
-    "count": 25,
+    "count": 43,
     "color": "#00ADD8"
   },
   {
@@ -36,13 +36,18 @@
   },
   {
     "language": "HTML",
-    "count": 7,
+    "count": 11,
     "color": "#e34c26"
   },
   {
     "language": "Cuda",
-    "count": 4,
+    "count": 8,
     "color": "#8b949e"
+  },
+  {
+    "language": "Shell",
+    "count": 3,
+    "color": "#89e051"
   },
   {
     "language": "Java",
@@ -55,28 +60,23 @@
     "color": "#ec915c"
   },
   {
-    "language": "Shell",
-    "count": 2,
-    "color": "#89e051"
-  },
-  {
-    "language": "Jupyter Notebook",
-    "count": 1,
-    "color": "#DA5B0B"
-  },
-  {
     "language": "C#",
-    "count": 1,
+    "count": 2,
     "color": "#8b949e"
   },
   {
     "language": "C++",
-    "count": 1,
+    "count": 2,
     "color": "#f34b7d"
   },
   {
     "language": "PowerShell",
     "count": 1,
     "color": "#8b949e"
+  },
+  {
+    "language": "Jupyter Notebook",
+    "count": 1,
+    "color": "#DA5B0B"
   }
 ]
