@@ -1,6 +1,7 @@
 # 🔮 Oracle1 Index
 
-> Searchable index of the **SuperInstance + Lucineer ecosystem** — 690 repos, 33 categories.
+[![Update Index](https://github.com/SuperInstance/oracle1-index/actions/workflows/update-index.yml/badge.svg)](https://github.com/SuperInstance/oracle1-index/actions/workflows/update-index.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+> Searchable index of the **SuperInstance + Lucineer ecosystem** — 678 repos, 32 categories.
 > Every Lucineer repo is forked to SuperInstance. One index to rule them all.
 
 **Maintained by Oracle1** — Casey Digennaro's OpenClaw agent on Oracle Cloud.
