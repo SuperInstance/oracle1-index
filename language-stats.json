@@ -1,17 +1,17 @@
 [
   {
     "language": "TypeScript",
-    "count": 523,
+    "count": 525,
     "color": "#3178c6"
   },
   {
     "language": "Rust",
-    "count": 342,
+    "count": 341,
     "color": "#dea584"
   },
   {
     "language": "Python",
-    "count": 218,
+    "count": 219,
     "color": "#3572A5"
   },
   {
@@ -45,14 +45,14 @@
     "color": "#8b949e"
   },
   {
-    "language": "Shell",
-    "count": 3,
-    "color": "#89e051"
-  },
-  {
     "language": "Java",
     "count": 3,
     "color": "#b07219"
+  },
+  {
+    "language": "Shell",
+    "count": 3,
+    "color": "#89e051"
   },
   {
     "language": "Zig",

@@ -4,140 +4,928 @@
     "target": "SuperInstance/lighthouse-keeper"
   },
   {
-    "source": "Lucineer/git-agent-luc",
-    "target": "SuperInstance/git-agent-luc"
+    "source": "Lucineer/energy-c",
+    "target": "SuperInstance/energy-c"
   },
   {
-    "source": "Lucineer/forgetting-problem",
-    "target": "SuperInstance/forgetting-problem"
+    "source": "Lucineer/instinct-c",
+    "target": "SuperInstance/instinct-c"
   },
   {
-    "source": "Lucineer/forgiveness-function",
-    "target": "SuperInstance/forgiveness-function"
+    "source": "Lucineer/AllBeads",
+    "target": "SuperInstance/AllBeads"
   },
   {
-    "source": "Lucineer/fork-first-enterprise",
-    "target": "SuperInstance/fork-first-enterprise"
+    "source": "Lucineer/agentkernel",
+    "target": "SuperInstance/agentkernel"
   },
   {
-    "source": "Lucineer/gardenlog-ai",
-    "target": "SuperInstance/gardenlog-ai"
+    "source": "Lucineer/rightnow-cli",
+    "target": "SuperInstance/rightnow-cli"
   },
   {
-    "source": "Lucineer/frozen-intelligence",
-    "target": "SuperInstance/frozen-intelligence"
+    "source": "Lucineer/cheetahclaws",
+    "target": "SuperInstance/cheetahclaws"
   },
   {
-    "source": "Lucineer/git-cuda-agent",
-    "target": "SuperInstance/git-cuda-agent"
+    "source": "Lucineer/GeoFlood",
+    "target": "SuperInstance/GeoFlood"
   },
   {
-    "source": "Lucineer/ground-truth",
-    "target": "SuperInstance/ground-truth"
+    "source": "Lucineer/lumina-lang",
+    "target": "SuperInstance/lumina-lang"
   },
   {
-    "source": "Lucineer/governance-lab",
-    "target": "SuperInstance/governance-lab"
+    "source": "Lucineer/businesslog-1",
+    "target": "SuperInstance/businesslog-1"
   },
   {
-    "source": "Lucineer/healthlog-ai",
-    "target": "SuperInstance/healthlog-ai"
+    "source": "Lucineer/businesslog-ai",
+    "target": "SuperInstance/businesslog-ai"
   },
   {
-    "source": "Lucineer/ghost-tiles-1",
-    "target": "SuperInstance/ghost-tiles-1"
+    "source": "Lucineer/cocapn-lite",
+    "target": "SuperInstance/cocapn-lite"
   },
   {
-    "source": "Lucineer/governance-equipment",
-    "target": "SuperInstance/governance-equipment"
+    "source": "Lucineer/codelog-ai",
+    "target": "SuperInstance/codelog-ai"
   },
   {
-    "source": "Lucineer/gravity-well-v2",
-    "target": "SuperInstance/gravity-well-v2"
+    "source": "Lucineer/coinlog-ai",
+    "target": "SuperInstance/coinlog-ai"
   },
   {
-    "source": "Lucineer/git-coordination-protocol",
-    "target": "SuperInstance/git-coordination-protocol"
+    "source": "Lucineer/craftmind",
+    "target": "SuperInstance/craftmind"
   },
   {
-    "source": "Lucineer/gravity-well-protocol",
-    "target": "SuperInstance/gravity-well-protocol"
+    "source": "Lucineer/craftmind-circuits",
+    "target": "SuperInstance/craftmind-circuits"
   },
   {
-    "source": "Lucineer/i-know-kung-fu-too",
-    "target": "SuperInstance/i-know-kung-fu-too"
+    "source": "Lucineer/craftmind-courses",
+    "target": "SuperInstance/craftmind-courses"
   },
   {
-    "source": "Lucineer/home-ai",
-    "target": "SuperInstance/home-ai"
+    "source": "Lucineer/craftmind-fishing",
+    "target": "SuperInstance/craftmind-fishing"
   },
   {
-    "source": "Lucineer/i-know-kung-fu-research",
-    "target": "SuperInstance/i-know-kung-fu-research"
+    "source": "Lucineer/craftmind-herding",
+    "target": "SuperInstance/craftmind-herding"
   },
   {
-    "source": "Lucineer/ideation-engine",
-    "target": "SuperInstance/ideation-engine"
+    "source": "Lucineer/craftmind-ranch",
+    "target": "SuperInstance/craftmind-ranch"
   },
   {
-    "source": "Lucineer/hybrid-memory",
-    "target": "SuperInstance/hybrid-memory"
+    "source": "Lucineer/craftmind-researcher",
+    "target": "SuperInstance/craftmind-researcher"
   },
   {
-    "source": "Lucineer/hw-routing",
-    "target": "SuperInstance/hw-routing"
+    "source": "Lucineer/craftmind-studio",
+    "target": "SuperInstance/craftmind-studio"
   },
   {
-    "source": "Lucineer/hardware-adapter",
-    "target": "SuperInstance/hardware-adapter"
+    "source": "Lucineer/dmlog-ai-1",
+    "target": "SuperInstance/dmlog-ai-1"
   },
   {
-    "source": "Lucineer/git-claw",
-    "target": "SuperInstance/git-claw"
+    "source": "Lucineer/dreamlog-ai",
+    "target": "SuperInstance/dreamlog-ai"
   },
   {
-    "source": "Lucineer/legacy-ai",
-    "target": "SuperInstance/legacy-ai"
+    "source": "Lucineer/fitlog-ai",
+    "target": "SuperInstance/fitlog-ai"
   },
   {
-    "source": "Lucineer/ipc-equipment",
-    "target": "SuperInstance/ipc-equipment"
+    "source": "Lucineer/foodlog-ai",
+    "target": "SuperInstance/foodlog-ai"
   },
   {
-    "source": "Lucineer/increments-trust",
-    "target": "SuperInstance/increments-trust"
+    "source": "Lucineer/goallog-ai",
+    "target": "SuperInstance/goallog-ai"
   },
   {
-    "source": "Lucineer/keepers-architecture",
-    "target": "SuperInstance/keepers-architecture"
+    "source": "Lucineer/IKKF",
+    "target": "SuperInstance/IKKF"
   },
   {
-    "source": "Lucineer/increments-fleet-trust",
-    "target": "SuperInstance/increments-fleet-trust"
+    "source": "Lucineer/LOG-mcp",
+    "target": "SuperInstance/LOG-mcp"
   },
   {
-    "source": "Lucineer/local-bridge",
-    "target": "SuperInstance/local-bridge"
+    "source": "Lucineer/personlog-ai",
+    "target": "SuperInstance/personlog-ai"
   },
   {
-    "source": "Lucineer/kungfu-ai",
-    "target": "SuperInstance/kungfu-ai"
+    "source": "Lucineer/tasklog-ai",
+    "target": "SuperInstance/tasklog-ai"
+  },
+  {
+    "source": "Lucineer/cuda-narrative",
+    "target": "SuperInstance/cuda-narrative"
+  },
+  {
+    "source": "Lucineer/cuda-neural-compiler",
+    "target": "SuperInstance/cuda-neural-compiler"
+  },
+  {
+    "source": "Lucineer/cuda-platonic",
+    "target": "SuperInstance/cuda-platonic"
+  },
+  {
+    "source": "Lucineer/cuda-confidence-cascade",
+    "target": "SuperInstance/cuda-confidence-cascade"
+  },
+  {
+    "source": "Lucineer/cuda-reflex",
+    "target": "SuperInstance/cuda-reflex"
+  },
+  {
+    "source": "Lucineer/cuda-resolve-agent",
+    "target": "SuperInstance/cuda-resolve-agent"
+  },
+  {
+    "source": "Lucineer/cuda-resolve",
+    "target": "SuperInstance/cuda-resolve"
+  },
+  {
+    "source": "Lucineer/cuda-rtl-optimizer",
+    "target": "SuperInstance/cuda-rtl-optimizer"
+  },
+  {
+    "source": "Lucineer/cuda-self-modify",
+    "target": "SuperInstance/cuda-self-modify"
+  },
+  {
+    "source": "Lucineer/cuda-stream-processor",
+    "target": "SuperInstance/cuda-stream-processor"
+  },
+  {
+    "source": "Lucineer/cuda-swarm-agent",
+    "target": "SuperInstance/cuda-swarm-agent"
+  },
+  {
+    "source": "Lucineer/cuda-stigmergy",
+    "target": "SuperInstance/cuda-stigmergy"
+  },
+  {
+    "source": "Lucineer/cuda-thermal-sim",
+    "target": "SuperInstance/cuda-thermal-sim"
+  },
+  {
+    "source": "Lucineer/cuda-vessel-bridge",
+    "target": "SuperInstance/cuda-vessel-bridge"
+  },
+  {
+    "source": "Lucineer/cuda-voxel-logic",
+    "target": "SuperInstance/cuda-voxel-logic"
+  },
+  {
+    "source": "Lucineer/cuda-temporal",
+    "target": "SuperInstance/cuda-temporal"
+  },
+  {
+    "source": "Lucineer/cudaclaw-1",
+    "target": "SuperInstance/cudaclaw-1"
+  },
+  {
+    "source": "Lucineer/cuda-weight-stream",
+    "target": "SuperInstance/cuda-weight-stream"
+  },
+  {
+    "source": "Lucineer/dead-reckoning-engine",
+    "target": "SuperInstance/dead-reckoning-engine"
+  },
+  {
+    "source": "Lucineer/cuda-sensor-agent",
+    "target": "SuperInstance/cuda-sensor-agent"
+  },
+  {
+    "source": "Lucineer/deckboss-1",
+    "target": "SuperInstance/deckboss-1"
+  },
+  {
+    "source": "Lucineer/deckboss-ai",
+    "target": "SuperInstance/deckboss-ai"
+  },
+  {
+    "source": "Lucineer/debug-observatory",
+    "target": "SuperInstance/debug-observatory"
+  },
+  {
+    "source": "Lucineer/deckboss-fab",
+    "target": "SuperInstance/deckboss-fab"
+  },
+  {
+    "source": "Lucineer/docs-engine",
+    "target": "SuperInstance/docs-engine"
+  },
+  {
+    "source": "Lucineer/dependency-scanner",
+    "target": "SuperInstance/dependency-scanner"
+  },
+  {
+    "source": "Lucineer/dynamic-sandbox",
+    "target": "SuperInstance/dynamic-sandbox"
+  },
+  {
+    "source": "Lucineer/dogmind-arena",
+    "target": "SuperInstance/dogmind-arena"
+  },
+  {
+    "source": "Lucineer/doclog-ai",
+    "target": "SuperInstance/doclog-ai"
+  },
+  {
+    "source": "Lucineer/device-discovery",
+    "target": "SuperInstance/device-discovery"
+  },
+  {
+    "source": "Lucineer/edge-boarding-protocol",
+    "target": "SuperInstance/edge-boarding-protocol"
+  },
+  {
+    "source": "Lucineer/deckboss-hardware",
+    "target": "SuperInstance/deckboss-hardware"
+  },
+  {
+    "source": "Lucineer/edge-native-paper",
+    "target": "SuperInstance/edge-native-paper"
+  },
+  {
+    "source": "Lucineer/edgenative-ai",
+    "target": "SuperInstance/edgenative-ai"
+  },
+  {
+    "source": "Lucineer/emergence-bus",
+    "target": "SuperInstance/emergence-bus"
+  },
+  {
+    "source": "Lucineer/epiphany-engine",
+    "target": "SuperInstance/epiphany-engine"
+  },
+  {
+    "source": "Lucineer/emergence-bus-v2",
+    "target": "SuperInstance/emergence-bus-v2"
+  },
+  {
+    "source": "Lucineer/equipment-catalog",
+    "target": "SuperInstance/equipment-catalog"
+  },
+  {
+    "source": "Lucineer/cuda-swarm-tiler",
+    "target": "SuperInstance/cuda-swarm-tiler"
+  },
+  {
+    "source": "Lucineer/deckboss-marketplace",
+    "target": "SuperInstance/deckboss-marketplace"
+  },
+  {
+    "source": "Lucineer/error-catalog",
+    "target": "SuperInstance/error-catalog"
+  },
+  {
+    "source": "Lucineer/experience-pipeline",
+    "target": "SuperInstance/experience-pipeline"
+  },
+  {
+    "source": "Lucineer/edge-compiler",
+    "target": "SuperInstance/edge-compiler"
+  },
+  {
+    "source": "Lucineer/farmerlog-ai",
+    "target": "SuperInstance/farmerlog-ai"
+  },
+  {
+    "source": "Lucineer/field-captain",
+    "target": "SuperInstance/field-captain"
+  },
+  {
+    "source": "Lucineer/fleet-analytics",
+    "target": "SuperInstance/fleet-analytics"
+  },
+  {
+    "source": "Lucineer/fleet-autopsy",
+    "target": "SuperInstance/fleet-autopsy"
+  },
+  {
+    "source": "Lucineer/fleet-backup",
+    "target": "SuperInstance/fleet-backup"
+  },
+  {
+    "source": "Lucineer/failure-atlas",
+    "target": "SuperInstance/failure-atlas"
+  },
+  {
+    "source": "Lucineer/fleet-benchmarks",
+    "target": "SuperInstance/fleet-benchmarks"
+  },
+  {
+    "source": "Lucineer/fleet-biosphere",
+    "target": "SuperInstance/fleet-biosphere"
+  },
+  {
+    "source": "Lucineer/fleet-budget",
+    "target": "SuperInstance/fleet-budget"
+  },
+  {
+    "source": "Lucineer/fleet-changelog",
+    "target": "SuperInstance/fleet-changelog"
+  },
+  {
+    "source": "Lucineer/fleet-compass",
+    "target": "SuperInstance/fleet-compass"
+  },
+  {
+    "source": "Lucineer/edge-equipment-catalog",
+    "target": "SuperInstance/edge-equipment-catalog"
+  },
+  {
+    "source": "Lucineer/fleet-constellation",
+    "target": "SuperInstance/fleet-constellation"
+  },
+  {
+    "source": "Lucineer/fleet-dawn",
+    "target": "SuperInstance/fleet-dawn"
+  },
+  {
+    "source": "Lucineer/fleet-designer",
+    "target": "SuperInstance/fleet-designer"
+  },
+  {
+    "source": "Lucineer/fleet-diff",
+    "target": "SuperInstance/fleet-diff"
+  },
+  {
+    "source": "Lucineer/fleet-cron",
+    "target": "SuperInstance/fleet-cron"
+  },
+  {
+    "source": "Lucineer/fleet-aurora",
+    "target": "SuperInstance/fleet-aurora"
+  },
+  {
+    "source": "Lucineer/fleet-court",
+    "target": "SuperInstance/fleet-court"
+  },
+  {
+    "source": "Lucineer/fleet-blueprint",
+    "target": "SuperInstance/fleet-blueprint"
+  },
+  {
+    "source": "Lucineer/fleet-circadian",
+    "target": "SuperInstance/fleet-circadian"
+  },
+  {
+    "source": "Lucineer/fleet-genealogy",
+    "target": "SuperInstance/fleet-genealogy"
+  },
+  {
+    "source": "Lucineer/fleet-governance",
+    "target": "SuperInstance/fleet-governance"
+  },
+  {
+    "source": "Lucineer/fleet-dreamcatcher",
+    "target": "SuperInstance/fleet-dreamcatcher"
+  },
+  {
+    "source": "Lucineer/fleet-immune",
+    "target": "SuperInstance/fleet-immune"
+  },
+  {
+    "source": "Lucineer/fleet-identity",
+    "target": "SuperInstance/fleet-identity"
+  },
+  {
+    "source": "Lucineer/fleet-economy",
+    "target": "SuperInstance/fleet-economy"
+  },
+  {
+    "source": "Lucineer/fleet-knowledge",
+    "target": "SuperInstance/fleet-knowledge"
+  },
+  {
+    "source": "Lucineer/fleet-insights",
+    "target": "SuperInstance/fleet-insights"
+  },
+  {
+    "source": "Lucineer/fleet-knowledge-base",
+    "target": "SuperInstance/fleet-knowledge-base"
+  },
+  {
+    "source": "Lucineer/financelog-ai",
+    "target": "SuperInstance/financelog-ai"
+  },
+  {
+    "source": "Lucineer/fleet-immune-system",
+    "target": "SuperInstance/fleet-immune-system"
+  },
+  {
+    "source": "Lucineer/fleet-gravity",
+    "target": "SuperInstance/fleet-gravity"
+  },
+  {
+    "source": "Lucineer/fleet-memory-palace",
+    "target": "SuperInstance/fleet-memory-palace"
+  },
+  {
+    "source": "Lucineer/fleet-mythology",
+    "target": "SuperInstance/fleet-mythology"
+  },
+  {
+    "source": "Lucineer/fleet-migration",
+    "target": "SuperInstance/fleet-migration"
+  },
+  {
+    "source": "Lucineer/fleet-graph",
+    "target": "SuperInstance/fleet-graph"
+  },
+  {
+    "source": "Lucineer/fleet-diary",
+    "target": "SuperInstance/fleet-diary"
+  },
+  {
+    "source": "Lucineer/fleet-observatory",
+    "target": "SuperInstance/fleet-observatory"
+  },
+  {
+    "source": "Lucineer/fleet-metrics",
+    "target": "SuperInstance/fleet-metrics"
+  },
+  {
+    "source": "Lucineer/fleet-orchestrator",
+    "target": "SuperInstance/fleet-orchestrator"
+  },
+  {
+    "source": "Lucineer/fleet-onboarding",
+    "target": "SuperInstance/fleet-onboarding"
+  },
+  {
+    "source": "Lucineer/fleet-orchestrator-v2",
+    "target": "SuperInstance/fleet-orchestrator-v2"
+  },
+  {
+    "source": "Lucineer/fleet-sentience-score",
+    "target": "SuperInstance/fleet-sentience-score"
+  },
+  {
+    "source": "Lucineer/fleet-neuroscience",
+    "target": "SuperInstance/fleet-neuroscience"
+  },
+  {
+    "source": "Lucineer/fleet-djinn",
+    "target": "SuperInstance/fleet-djinn"
+  },
+  {
+    "source": "Lucineer/fleet-marketplace",
+    "target": "SuperInstance/fleet-marketplace"
+  },
+  {
+    "source": "Lucineer/fleet-explorer",
+    "target": "SuperInstance/fleet-explorer"
+  },
+  {
+    "source": "Lucineer/fleet-starter",
+    "target": "SuperInstance/fleet-starter"
+  },
+  {
+    "source": "Lucineer/fleet-notifications",
+    "target": "SuperInstance/fleet-notifications"
+  },
+  {
+    "source": "Lucineer/fleet-proxy",
+    "target": "SuperInstance/fleet-proxy"
+  },
+  {
+    "source": "Lucineer/fleet-synapse",
+    "target": "SuperInstance/fleet-synapse"
+  },
+  {
+    "source": "Lucineer/fleet-timecapsule",
+    "target": "SuperInstance/fleet-timecapsule"
+  },
+  {
+    "source": "Lucineer/fleet-nervous-system",
+    "target": "SuperInstance/fleet-nervous-system"
+  },
+  {
+    "source": "Lucineer/fleet-status-page",
+    "target": "SuperInstance/fleet-status-page"
+  },
+  {
+    "source": "Lucineer/fleet-search",
+    "target": "SuperInstance/fleet-search"
+  },
+  {
+    "source": "Lucineer/fleet-entropy",
+    "target": "SuperInstance/fleet-entropy"
+  },
+  {
+    "source": "Lucineer/fleet-templates",
+    "target": "SuperInstance/fleet-templates"
+  },
+  {
+    "source": "Lucineer/fleet-radar",
+    "target": "SuperInstance/fleet-radar"
+  },
+  {
+    "source": "Lucineer/fleet-weather",
+    "target": "SuperInstance/fleet-weather"
+  },
+  {
+    "source": "Lucineer/fleet-university",
+    "target": "SuperInstance/fleet-university"
+  },
+  {
+    "source": "Lucineer/fleet-rpg",
+    "target": "SuperInstance/fleet-rpg"
+  },
+  {
+    "source": "Lucineer/fleet-tls",
+    "target": "SuperInstance/fleet-tls"
+  },
+  {
+    "source": "Lucineer/fleet-twilight",
+    "target": "SuperInstance/fleet-twilight"
+  },
+  {
+    "source": "Lucineer/fleet-timeline",
+    "target": "SuperInstance/fleet-timeline"
+  },
+  {
+    "source": "Lucineer/flow-forge",
+    "target": "SuperInstance/flow-forge"
+  },
+  {
+    "source": "Lucineer/the-technician",
+    "target": "SuperInstance/the-technician"
+  },
+  {
+    "source": "Lucineer/thor-rom",
+    "target": "SuperInstance/thor-rom"
+  },
+  {
+    "source": "Lucineer/the-fleet",
+    "target": "SuperInstance/the-fleet"
+  },
+  {
+    "source": "Lucineer/the-seed",
+    "target": "SuperInstance/the-seed"
+  },
+  {
+    "source": "Lucineer/self-evolve-ai",
+    "target": "SuperInstance/self-evolve-ai"
+  },
+  {
+    "source": "Lucineer/skill-evolver",
+    "target": "SuperInstance/skill-evolver"
+  },
+  {
+    "source": "Lucineer/skill-exchange",
+    "target": "SuperInstance/skill-exchange"
+  },
+  {
+    "source": "Lucineer/stigmergy",
+    "target": "SuperInstance/stigmergy"
+  },
+  {
+    "source": "Lucineer/swarm-intuition",
+    "target": "SuperInstance/swarm-intuition"
+  },
+  {
+    "source": "Lucineer/swarm-intuition-v2",
+    "target": "SuperInstance/swarm-intuition-v2"
+  },
+  {
+    "source": "Lucineer/task-batcher",
+    "target": "SuperInstance/task-batcher"
+  },
+  {
+    "source": "Lucineer/taskflow",
+    "target": "SuperInstance/taskflow"
+  },
+  {
+    "source": "Lucineer/the-bridge",
+    "target": "SuperInstance/the-bridge"
+  },
+  {
+    "source": "Lucineer/seed-ui",
+    "target": "SuperInstance/seed-ui"
+  },
+  {
+    "source": "Lucineer/sensor-fusion",
+    "target": "SuperInstance/sensor-fusion"
+  },
+  {
+    "source": "Lucineer/sensor-mesh",
+    "target": "SuperInstance/sensor-mesh"
+  },
+  {
+    "source": "Lucineer/shiplog",
+    "target": "SuperInstance/shiplog"
+  },
+  {
+    "source": "Lucineer/sovereign-identity",
+    "target": "SuperInstance/sovereign-identity"
+  },
+  {
+    "source": "Lucineer/startup-ai",
+    "target": "SuperInstance/startup-ai"
+  },
+  {
+    "source": "Lucineer/storyboard-engine",
+    "target": "SuperInstance/storyboard-engine"
+  },
+  {
+    "source": "Lucineer/technician-paradigm",
+    "target": "SuperInstance/technician-paradigm"
+  },
+  {
+    "source": "Lucineer/persistent-state",
+    "target": "SuperInstance/persistent-state"
+  },
+  {
+    "source": "Lucineer/personallog-1",
+    "target": "SuperInstance/personallog-1"
+  },
+  {
+    "source": "Lucineer/petlog-ai",
+    "target": "SuperInstance/petlog-ai"
+  },
+  {
+    "source": "Lucineer/phase-five-research",
+    "target": "SuperInstance/phase-five-research"
+  },
+  {
+    "source": "Lucineer/protocol-validator",
+    "target": "SuperInstance/protocol-validator"
+  },
+  {
+    "source": "Lucineer/resonant-consensus",
+    "target": "SuperInstance/resonant-consensus"
+  },
+  {
+    "source": "Lucineer/seed-nexus-bootstrap",
+    "target": "SuperInstance/seed-nexus-bootstrap"
+  },
+  {
+    "source": "Lucineer/skill-cartridge-registry",
+    "target": "SuperInstance/skill-cartridge-registry"
+  },
+  {
+    "source": "Lucineer/studylog-ai-1",
+    "target": "SuperInstance/studylog-ai-1"
+  },
+  {
+    "source": "Lucineer/permission-engine",
+    "target": "SuperInstance/permission-engine"
+  },
+  {
+    "source": "Lucineer/persona-forge",
+    "target": "SuperInstance/persona-forge"
+  },
+  {
+    "source": "Lucineer/personality-engine",
+    "target": "SuperInstance/personality-engine"
+  },
+  {
+    "source": "Lucineer/post-human-lang",
+    "target": "SuperInstance/post-human-lang"
+  },
+  {
+    "source": "Lucineer/reallog-ai",
+    "target": "SuperInstance/reallog-ai"
+  },
+  {
+    "source": "Lucineer/resolve",
+    "target": "SuperInstance/resolve"
+  },
+  {
+    "source": "Lucineer/reverse-actualization",
+    "target": "SuperInstance/reverse-actualization"
+  },
+  {
+    "source": "Lucineer/schema-evolution",
+    "target": "SuperInstance/schema-evolution"
+  },
+  {
+    "source": "Lucineer/sciencelog-ai",
+    "target": "SuperInstance/sciencelog-ai"
+  },
+  {
+    "source": "Lucineer/secret-scanner",
+    "target": "SuperInstance/secret-scanner"
+  },
+  {
+    "source": "Lucineer/nexus-edge-runtime",
+    "target": "SuperInstance/nexus-edge-runtime"
+  },
+  {
+    "source": "Lucineer/playerlog-ai",
+    "target": "SuperInstance/playerlog-ai"
+  },
+  {
+    "source": "Lucineer/rebac-equipment",
+    "target": "SuperInstance/rebac-equipment"
+  },
+  {
+    "source": "Lucineer/nexus-energy",
+    "target": "SuperInstance/nexus-energy"
+  },
+  {
+    "source": "Lucineer/nexus-integration-paper",
+    "target": "SuperInstance/nexus-integration-paper"
+  },
+  {
+    "source": "Lucineer/nexus-learning",
+    "target": "SuperInstance/nexus-learning"
+  },
+  {
+    "source": "Lucineer/nexus-swarm",
+    "target": "SuperInstance/nexus-swarm"
+  },
+  {
+    "source": "Lucineer/nexus-node-registry",
+    "target": "SuperInstance/nexus-node-registry"
+  },
+  {
+    "source": "Lucineer/nightlog-ai",
+    "target": "SuperInstance/nightlog-ai"
+  },
+  {
+    "source": "Lucineer/nexus-persistence",
+    "target": "SuperInstance/nexus-persistence"
+  },
+  {
+    "source": "Lucineer/noteweave",
+    "target": "SuperInstance/noteweave"
+  },
+  {
+    "source": "Lucineer/nexus-security",
+    "target": "SuperInstance/nexus-security"
+  },
+  {
+    "source": "Lucineer/open-fleet-safety",
+    "target": "SuperInstance/open-fleet-safety"
+  },
+  {
+    "source": "Lucineer/parentlog-ai",
+    "target": "SuperInstance/parentlog-ai"
+  },
+  {
+    "source": "Lucineer/pay-equipment",
+    "target": "SuperInstance/pay-equipment"
+  },
+  {
+    "source": "Lucineer/nexus-explainability",
+    "target": "SuperInstance/nexus-explainability"
+  },
+  {
+    "source": "Lucineer/nexus-git-agent",
+    "target": "SuperInstance/nexus-git-agent"
+  },
+  {
+    "source": "Lucineer/nexus-hardware",
+    "target": "SuperInstance/nexus-hardware"
+  },
+  {
+    "source": "Lucineer/nexus-mission",
+    "target": "SuperInstance/nexus-mission"
+  },
+  {
+    "source": "Lucineer/onebit-edge",
+    "target": "SuperInstance/onebit-edge"
+  },
+  {
+    "source": "Lucineer/nexus-simulation",
+    "target": "SuperInstance/nexus-simulation"
+  },
+  {
+    "source": "Lucineer/papermill",
+    "target": "SuperInstance/papermill"
+  },
+  {
+    "source": "Lucineer/loop-closure",
+    "target": "SuperInstance/loop-closure"
+  },
+  {
+    "source": "Lucineer/membership-api",
+    "target": "SuperInstance/membership-api"
+  },
+  {
+    "source": "Lucineer/mitochondrial-ra",
+    "target": "SuperInstance/mitochondrial-ra"
+  },
+  {
+    "source": "Lucineer/nexus-data-pipeline",
+    "target": "SuperInstance/nexus-data-pipeline"
+  },
+  {
+    "source": "Lucineer/lucineer-1",
+    "target": "SuperInstance/lucineer-1"
+  },
+  {
+    "source": "Lucineer/marine-ops",
+    "target": "SuperInstance/marine-ops"
+  },
+  {
+    "source": "Lucineer/meta-loop-evolver",
+    "target": "SuperInstance/meta-loop-evolver"
+  },
+  {
+    "source": "Lucineer/meta-repair",
+    "target": "SuperInstance/meta-repair"
+  },
+  {
+    "source": "Lucineer/metal-profile",
+    "target": "SuperInstance/metal-profile"
+  },
+  {
+    "source": "Lucineer/metal-sentinel",
+    "target": "SuperInstance/metal-sentinel"
+  },
+  {
+    "source": "Lucineer/model-quality-rubric",
+    "target": "SuperInstance/model-quality-rubric"
+  },
+  {
+    "source": "Lucineer/claudesclaude",
+    "target": "SuperInstance/claudesclaude"
+  },
+  {
+    "source": "Lucineer/MineWright",
+    "target": "SuperInstance/MineWright"
+  },
+  {
+    "source": "Lucineer/claw",
+    "target": "SuperInstance/claw"
+  },
+  {
+    "source": "Lucineer/Spreadsheet-moment",
+    "target": "SuperInstance/Spreadsheet-moment"
+  },
+  {
+    "source": "Lucineer/Studylog-AI",
+    "target": "SuperInstance/Studylog-AI"
+  },
+  {
+    "source": "Lucineer/libgdx",
+    "target": "SuperInstance/libgdx"
+  },
+  {
+    "source": "Lucineer/modly",
+    "target": "SuperInstance/modly"
+  },
+  {
+    "source": "Lucineer/constraint-theory-agent",
+    "target": "SuperInstance/constraint-theory-agent"
+  },
+  {
+    "source": "Lucineer/superpowers",
+    "target": "SuperInstance/superpowers"
+  },
+  {
+    "source": "Lucineer/personallog-ai",
+    "target": "SuperInstance/personallog-ai"
+  },
+  {
+    "source": "Lucineer/model-registry",
+    "target": "SuperInstance/model-registry"
+  },
+  {
+    "source": "Lucineer/musiclog-ai",
+    "target": "SuperInstance/musiclog-ai"
+  },
+  {
+    "source": "Lucineer/mycelium-ai",
+    "target": "SuperInstance/mycelium-ai"
+  },
+  {
+    "source": "Lucineer/nexus-comms",
+    "target": "SuperInstance/nexus-comms"
+  },
+  {
+    "source": "Lucineer/nexus-aab-protocol",
+    "target": "SuperInstance/nexus-aab-protocol"
+  },
+  {
+    "source": "Lucineer/mask-locked-inference-chip",
+    "target": "SuperInstance/mask-locked-inference-chip"
+  },
+  {
+    "source": "Lucineer/meta-fleet",
+    "target": "SuperInstance/meta-fleet"
   },
   {
     "source": "Lucineer/incident-manager",
     "target": "SuperInstance/incident-manager"
   },
   {
-    "source": "Lucineer/jetson-compass",
-    "target": "SuperInstance/jetson-compass"
-  },
-  {
-    "source": "Lucineer/log-origin",
-    "target": "SuperInstance/log-origin"
-  },
-  {
-    "source": "Lucineer/kungfu",
-    "target": "SuperInstance/kungfu"
+    "source": "Lucineer/innovation-portfolio",
+    "target": "SuperInstance/innovation-portfolio"
   },
   {
     "source": "Lucineer/instruction-set-ra",
@@ -152,6 +940,10 @@
     "target": "SuperInstance/jetson-grand-design"
   },
   {
+    "source": "Lucineer/jetson-compass",
+    "target": "SuperInstance/jetson-compass"
+  },
+  {
     "source": "Lucineer/kernel-model",
     "target": "SuperInstance/kernel-model"
   },
@@ -160,328 +952,148 @@
     "target": "SuperInstance/kung-fu"
   },
   {
-    "source": "Lucineer/local-model-registry",
-    "target": "SuperInstance/local-model-registry"
+    "source": "Lucineer/kungfu",
+    "target": "SuperInstance/kungfu"
+  },
+  {
+    "source": "Lucineer/kungfu-ai",
+    "target": "SuperInstance/kungfu-ai"
   },
   {
     "source": "Lucineer/lawlog-ai",
     "target": "SuperInstance/lawlog-ai"
   },
   {
+    "source": "Lucineer/local-bridge",
+    "target": "SuperInstance/local-bridge"
+  },
+  {
     "source": "Lucineer/local-inference-bridge",
     "target": "SuperInstance/local-inference-bridge"
   },
   {
-    "source": "Lucineer/innovation-portfolio",
-    "target": "SuperInstance/innovation-portfolio"
+    "source": "Lucineer/local-model-registry",
+    "target": "SuperInstance/local-model-registry"
   },
   {
-    "source": "Lucineer/mask-locked-inference-chip",
-    "target": "SuperInstance/mask-locked-inference-chip"
+    "source": "Lucineer/log-origin",
+    "target": "SuperInstance/log-origin"
   },
   {
-    "source": "Lucineer/meta-fleet",
-    "target": "SuperInstance/meta-fleet"
+    "source": "Lucineer/increments-fleet-trust",
+    "target": "SuperInstance/increments-fleet-trust"
   },
   {
-    "source": "Lucineer/model-registry",
-    "target": "SuperInstance/model-registry"
+    "source": "Lucineer/increments-trust",
+    "target": "SuperInstance/increments-trust"
   },
   {
-    "source": "Lucineer/meta-loop-evolver",
-    "target": "SuperInstance/meta-loop-evolver"
+    "source": "Lucineer/ipc-equipment",
+    "target": "SuperInstance/ipc-equipment"
   },
   {
-    "source": "Lucineer/nexus-aab-protocol",
-    "target": "SuperInstance/nexus-aab-protocol"
+    "source": "Lucineer/keepers-architecture",
+    "target": "SuperInstance/keepers-architecture"
   },
   {
-    "source": "Lucineer/lucineer-1",
-    "target": "SuperInstance/lucineer-1"
+    "source": "Lucineer/legacy-ai",
+    "target": "SuperInstance/legacy-ai"
   },
   {
-    "source": "Lucineer/meta-repair",
-    "target": "SuperInstance/meta-repair"
+    "source": "Lucineer/git-claw",
+    "target": "SuperInstance/git-claw"
   },
   {
-    "source": "Lucineer/model-quality-rubric",
-    "target": "SuperInstance/model-quality-rubric"
+    "source": "Lucineer/hardware-adapter",
+    "target": "SuperInstance/hardware-adapter"
   },
   {
-    "source": "Lucineer/metal-profile",
-    "target": "SuperInstance/metal-profile"
+    "source": "Lucineer/hw-routing",
+    "target": "SuperInstance/hw-routing"
   },
   {
-    "source": "Lucineer/metal-sentinel",
-    "target": "SuperInstance/metal-sentinel"
+    "source": "Lucineer/hybrid-memory",
+    "target": "SuperInstance/hybrid-memory"
   },
   {
-    "source": "Lucineer/musiclog-ai",
-    "target": "SuperInstance/musiclog-ai"
+    "source": "Lucineer/ideation-engine",
+    "target": "SuperInstance/ideation-engine"
   },
   {
-    "source": "Lucineer/nexus-data-pipeline",
-    "target": "SuperInstance/nexus-data-pipeline"
+    "source": "Lucineer/ghost-tiles-1",
+    "target": "SuperInstance/ghost-tiles-1"
   },
   {
-    "source": "Lucineer/mitochondrial-ra",
-    "target": "SuperInstance/mitochondrial-ra"
+    "source": "Lucineer/git-coordination-protocol",
+    "target": "SuperInstance/git-coordination-protocol"
   },
   {
-    "source": "Lucineer/loop-closure",
-    "target": "SuperInstance/loop-closure"
+    "source": "Lucineer/governance-equipment",
+    "target": "SuperInstance/governance-equipment"
   },
   {
-    "source": "Lucineer/membership-api",
-    "target": "SuperInstance/membership-api"
+    "source": "Lucineer/gravity-well-protocol",
+    "target": "SuperInstance/gravity-well-protocol"
   },
   {
-    "source": "Lucineer/nexus-git-agent",
-    "target": "SuperInstance/nexus-git-agent"
+    "source": "Lucineer/gravity-well-v2",
+    "target": "SuperInstance/gravity-well-v2"
   },
   {
-    "source": "Lucineer/nexus-hardware",
-    "target": "SuperInstance/nexus-hardware"
+    "source": "Lucineer/healthlog-ai",
+    "target": "SuperInstance/healthlog-ai"
   },
   {
-    "source": "Lucineer/papermill",
-    "target": "SuperInstance/papermill"
+    "source": "Lucineer/home-ai",
+    "target": "SuperInstance/home-ai"
   },
   {
-    "source": "Lucineer/nexus-explainability",
-    "target": "SuperInstance/nexus-explainability"
+    "source": "Lucineer/i-know-kung-fu-research",
+    "target": "SuperInstance/i-know-kung-fu-research"
   },
   {
-    "source": "Lucineer/onebit-edge",
-    "target": "SuperInstance/onebit-edge"
+    "source": "Lucineer/i-know-kung-fu-too",
+    "target": "SuperInstance/i-know-kung-fu-too"
   },
   {
-    "source": "Lucineer/nexus-simulation",
-    "target": "SuperInstance/nexus-simulation"
+    "source": "Lucineer/frozen-intelligence",
+    "target": "SuperInstance/frozen-intelligence"
   },
   {
-    "source": "Lucineer/nexus-mission",
-    "target": "SuperInstance/nexus-mission"
+    "source": "Lucineer/gardenlog-ai",
+    "target": "SuperInstance/gardenlog-ai"
   },
   {
-    "source": "Lucineer/nexus-integration-paper",
-    "target": "SuperInstance/nexus-integration-paper"
+    "source": "Lucineer/git-cuda-agent",
+    "target": "SuperInstance/git-cuda-agent"
   },
   {
-    "source": "Lucineer/noteweave",
-    "target": "SuperInstance/noteweave"
+    "source": "Lucineer/governance-lab",
+    "target": "SuperInstance/governance-lab"
   },
   {
-    "source": "Lucineer/open-fleet-safety",
-    "target": "SuperInstance/open-fleet-safety"
+    "source": "Lucineer/ground-truth",
+    "target": "SuperInstance/ground-truth"
   },
   {
-    "source": "Lucineer/nexus-node-registry",
-    "target": "SuperInstance/nexus-node-registry"
+    "source": "Lucineer/forgiveness-function",
+    "target": "SuperInstance/forgiveness-function"
   },
   {
-    "source": "Lucineer/nexus-swarm",
-    "target": "SuperInstance/nexus-swarm"
+    "source": "Lucineer/forgetting-problem",
+    "target": "SuperInstance/forgetting-problem"
   },
   {
-    "source": "Lucineer/nexus-energy",
-    "target": "SuperInstance/nexus-energy"
+    "source": "Lucineer/fork-first-enterprise",
+    "target": "SuperInstance/fork-first-enterprise"
   },
   {
-    "source": "Lucineer/nexus-persistence",
-    "target": "SuperInstance/nexus-persistence"
+    "source": "Lucineer/git-agent-luc",
+    "target": "SuperInstance/git-agent-luc"
   },
   {
-    "source": "Lucineer/pay-equipment",
-    "target": "SuperInstance/pay-equipment"
-  },
-  {
-    "source": "Lucineer/parentlog-ai",
-    "target": "SuperInstance/parentlog-ai"
-  },
-  {
-    "source": "Lucineer/nexus-security",
-    "target": "SuperInstance/nexus-security"
-  },
-  {
-    "source": "Lucineer/nexus-learning",
-    "target": "SuperInstance/nexus-learning"
-  },
-  {
-    "source": "Lucineer/nightlog-ai",
-    "target": "SuperInstance/nightlog-ai"
-  },
-  {
-    "source": "Lucineer/rebac-equipment",
-    "target": "SuperInstance/rebac-equipment"
-  },
-  {
-    "source": "Lucineer/nexus-edge-runtime",
-    "target": "SuperInstance/nexus-edge-runtime"
-  },
-  {
-    "source": "Lucineer/playerlog-ai",
-    "target": "SuperInstance/playerlog-ai"
-  },
-  {
-    "source": "Lucineer/sciencelog-ai",
-    "target": "SuperInstance/sciencelog-ai"
-  },
-  {
-    "source": "Lucineer/permission-engine",
-    "target": "SuperInstance/permission-engine"
-  },
-  {
-    "source": "Lucineer/persona-forge",
-    "target": "SuperInstance/persona-forge"
-  },
-  {
-    "source": "Lucineer/reverse-actualization",
-    "target": "SuperInstance/reverse-actualization"
-  },
-  {
-    "source": "Lucineer/post-human-lang",
-    "target": "SuperInstance/post-human-lang"
-  },
-  {
-    "source": "Lucineer/secret-scanner",
-    "target": "SuperInstance/secret-scanner"
-  },
-  {
-    "source": "Lucineer/schema-evolution",
-    "target": "SuperInstance/schema-evolution"
-  },
-  {
-    "source": "Lucineer/personality-engine",
-    "target": "SuperInstance/personality-engine"
-  },
-  {
-    "source": "Lucineer/resolve",
-    "target": "SuperInstance/resolve"
-  },
-  {
-    "source": "Lucineer/reallog-ai",
-    "target": "SuperInstance/reallog-ai"
-  },
-  {
-    "source": "Lucineer/persistent-state",
-    "target": "SuperInstance/persistent-state"
-  },
-  {
-    "source": "Lucineer/skill-cartridge-registry",
-    "target": "SuperInstance/skill-cartridge-registry"
-  },
-  {
-    "source": "Lucineer/protocol-validator",
-    "target": "SuperInstance/protocol-validator"
-  },
-  {
-    "source": "Lucineer/phase-five-research",
-    "target": "SuperInstance/phase-five-research"
-  },
-  {
-    "source": "Lucineer/resonant-consensus",
-    "target": "SuperInstance/resonant-consensus"
-  },
-  {
-    "source": "Lucineer/studylog-ai-1",
-    "target": "SuperInstance/studylog-ai-1"
-  },
-  {
-    "source": "Lucineer/personallog-1",
-    "target": "SuperInstance/personallog-1"
-  },
-  {
-    "source": "Lucineer/seed-nexus-bootstrap",
-    "target": "SuperInstance/seed-nexus-bootstrap"
-  },
-  {
-    "source": "Lucineer/petlog-ai",
-    "target": "SuperInstance/petlog-ai"
-  },
-  {
-    "source": "Lucineer/shiplog",
-    "target": "SuperInstance/shiplog"
-  },
-  {
-    "source": "Lucineer/technician-paradigm",
-    "target": "SuperInstance/technician-paradigm"
-  },
-  {
-    "source": "Lucineer/storyboard-engine",
-    "target": "SuperInstance/storyboard-engine"
-  },
-  {
-    "source": "Lucineer/sensor-mesh",
-    "target": "SuperInstance/sensor-mesh"
-  },
-  {
-    "source": "Lucineer/sensor-fusion",
-    "target": "SuperInstance/sensor-fusion"
-  },
-  {
-    "source": "Lucineer/sovereign-identity",
-    "target": "SuperInstance/sovereign-identity"
-  },
-  {
-    "source": "Lucineer/seed-ui",
-    "target": "SuperInstance/seed-ui"
-  },
-  {
-    "source": "Lucineer/startup-ai",
-    "target": "SuperInstance/startup-ai"
-  },
-  {
-    "source": "Lucineer/task-batcher",
-    "target": "SuperInstance/task-batcher"
-  },
-  {
-    "source": "Lucineer/the-bridge",
-    "target": "SuperInstance/the-bridge"
-  },
-  {
-    "source": "Lucineer/self-evolve-ai",
-    "target": "SuperInstance/self-evolve-ai"
-  },
-  {
-    "source": "Lucineer/swarm-intuition-v2",
-    "target": "SuperInstance/swarm-intuition-v2"
-  },
-  {
-    "source": "Lucineer/skill-evolver",
-    "target": "SuperInstance/skill-evolver"
-  },
-  {
-    "source": "Lucineer/stigmergy",
-    "target": "SuperInstance/stigmergy"
-  },
-  {
-    "source": "Lucineer/taskflow",
-    "target": "SuperInstance/taskflow"
-  },
-  {
-    "source": "Lucineer/skill-exchange",
-    "target": "SuperInstance/skill-exchange"
-  },
-  {
-    "source": "Lucineer/swarm-intuition",
-    "target": "SuperInstance/swarm-intuition"
-  },
-  {
-    "source": "Lucineer/the-fleet",
-    "target": "SuperInstance/the-fleet"
-  },
-  {
-    "source": "Lucineer/the-seed",
-    "target": "SuperInstance/the-seed"
-  },
-  {
-    "source": "Lucineer/thor-rom",
-    "target": "SuperInstance/thor-rom"
-  },
-  {
-    "source": "Lucineer/the-technician",
-    "target": "SuperInstance/the-technician"
+    "source": "Lucineer/flux-runtime-c",
+    "target": "SuperInstance/flux-runtime-c"
   },
   {
     "source": "Lucineer/seed-mcp-v2",
@@ -504,32 +1116,28 @@
     "target": "SuperInstance/mycorrhizal-relay"
   },
   {
-    "source": "Lucineer/flux-stigmergy-c",
-    "target": "SuperInstance/flux-stigmergy-c"
-  },
-  {
     "source": "Lucineer/flux-tools",
     "target": "SuperInstance/flux-tools"
+  },
+  {
+    "source": "Lucineer/flux-stigmergy-c",
+    "target": "SuperInstance/flux-stigmergy-c"
   },
   {
     "source": "Lucineer/flux-trust",
     "target": "SuperInstance/flux-trust"
   },
   {
-    "source": "Lucineer/flux-runtime-c",
-    "target": "SuperInstance/flux-runtime-c"
-  },
-  {
-    "source": "Lucineer/flux-stigmergy",
-    "target": "SuperInstance/flux-stigmergy"
+    "source": "Lucineer/flux-social-c",
+    "target": "SuperInstance/flux-social-c"
   },
   {
     "source": "Lucineer/flux-social",
     "target": "SuperInstance/flux-social"
   },
   {
-    "source": "Lucineer/flux-social-c",
-    "target": "SuperInstance/flux-social-c"
+    "source": "Lucineer/flux-stigmergy",
+    "target": "SuperInstance/flux-stigmergy"
   },
   {
     "source": "Lucineer/holodeck-c-1",
@@ -576,16 +1184,12 @@
     "target": "SuperInstance/fluxnecropolis-go"
   },
   {
-    "source": "Lucineer/fluxperception-go",
-    "target": "SuperInstance/fluxperception-go"
-  },
-  {
     "source": "Lucineer/flux-trust-c",
     "target": "SuperInstance/flux-trust-c"
   },
   {
-    "source": "Lucineer/instinct-c",
-    "target": "SuperInstance/instinct-c"
+    "source": "Lucineer/fluxperception-go",
+    "target": "SuperInstance/fluxperception-go"
   },
   {
     "source": "Lucineer/fluxnavigate-go",
@@ -596,20 +1200,20 @@
     "target": "SuperInstance/fluxcompass-go"
   },
   {
-    "source": "Lucineer/fluxmemory-go",
-    "target": "SuperInstance/fluxmemory-go"
-  },
-  {
     "source": "Lucineer/isa-v3-edge-spec",
     "target": "SuperInstance/isa-v3-edge-spec"
+  },
+  {
+    "source": "Lucineer/fluxlanguage-go",
+    "target": "SuperInstance/fluxlanguage-go"
   },
   {
     "source": "Lucineer/fluxevolve-go",
     "target": "SuperInstance/fluxevolve-go"
   },
   {
-    "source": "Lucineer/fluxlanguage-go",
-    "target": "SuperInstance/fluxlanguage-go"
+    "source": "Lucineer/fluxmemory-go",
+    "target": "SuperInstance/fluxmemory-go"
   },
   {
     "source": "Lucineer/fluxephemeral-go",
@@ -624,28 +1228,24 @@
     "target": "SuperInstance/fluxdreamcycle-go"
   },
   {
-    "source": "Lucineer/fluxinstinct-go",
-    "target": "SuperInstance/fluxinstinct-go"
-  },
-  {
-    "source": "Lucineer/fluxtrust-go",
-    "target": "SuperInstance/fluxtrust-go"
-  },
-  {
-    "source": "Lucineer/fluxcensus-go",
-    "target": "SuperInstance/fluxcensus-go"
+    "source": "Lucineer/opcode-philosophy",
+    "target": "SuperInstance/opcode-philosophy"
   },
   {
     "source": "Lucineer/telepathy-c",
     "target": "SuperInstance/telepathy-c"
   },
   {
-    "source": "Lucineer/opcode-philosophy",
-    "target": "SuperInstance/opcode-philosophy"
+    "source": "Lucineer/fluxinstinct-go",
+    "target": "SuperInstance/fluxinstinct-go"
   },
   {
-    "source": "Lucineer/fluxgrimoire-go",
-    "target": "SuperInstance/fluxgrimoire-go"
+    "source": "Lucineer/fluxenergy-go",
+    "target": "SuperInstance/fluxenergy-go"
+  },
+  {
+    "source": "Lucineer/fluxtelepathy-go",
+    "target": "SuperInstance/fluxtelepathy-go"
   },
   {
     "source": "Lucineer/fluxkeeper-go",
@@ -656,12 +1256,16 @@
     "target": "SuperInstance/fluxconfidence-go"
   },
   {
-    "source": "Lucineer/fluxenergy-go",
-    "target": "SuperInstance/fluxenergy-go"
+    "source": "Lucineer/fluxgrimoire-go",
+    "target": "SuperInstance/fluxgrimoire-go"
   },
   {
-    "source": "Lucineer/fluxtelepathy-go",
-    "target": "SuperInstance/fluxtelepathy-go"
+    "source": "Lucineer/fluxtrust-go",
+    "target": "SuperInstance/fluxtrust-go"
+  },
+  {
+    "source": "Lucineer/fluxcensus-go",
+    "target": "SuperInstance/fluxcensus-go"
   },
   {
     "source": "Lucineer/keeper-c",
@@ -676,10 +1280,6 @@
     "target": "SuperInstance/tender"
   },
   {
-    "source": "Lucineer/git-remote-agent",
-    "target": "SuperInstance/git-remote-agent"
-  },
-  {
     "source": "Lucineer/git-agent-rebase",
     "target": "SuperInstance/git-agent-rebase"
   },
@@ -690,6 +1290,10 @@
   {
     "source": "Lucineer/higher-abstraction-vocabularies-1",
     "target": "SuperInstance/higher-abstraction-vocabularies-1"
+  },
+  {
+    "source": "Lucineer/git-remote-agent",
+    "target": "SuperInstance/git-remote-agent"
   },
   {
     "source": "Lucineer/nexus-fracture-sim",
@@ -732,12 +1336,12 @@
     "target": "SuperInstance/vessel-bridge"
   },
   {
-    "source": "Lucineer/ui-design-system",
-    "target": "SuperInstance/ui-design-system"
-  },
-  {
     "source": "Lucineer/ues-protocol",
     "target": "SuperInstance/ues-protocol"
+  },
+  {
+    "source": "Lucineer/ui-design-system",
+    "target": "SuperInstance/ui-design-system"
   },
   {
     "source": "Lucineer/tutor-ai",
@@ -852,10 +1456,6 @@
     "target": "SuperInstance/flux-evolve-c"
   },
   {
-    "source": "Lucineer/flow-forge",
-    "target": "SuperInstance/flow-forge"
-  },
-  {
     "source": "Lucineer/flux-ephemeral",
     "target": "SuperInstance/flux-ephemeral"
   },
@@ -916,244 +1516,16 @@
     "target": "SuperInstance/flux-agent-sim"
   },
   {
-    "source": "Lucineer/fleet-timeline",
-    "target": "SuperInstance/fleet-timeline"
-  },
-  {
-    "source": "Lucineer/fleet-twilight",
-    "target": "SuperInstance/fleet-twilight"
-  },
-  {
-    "source": "Lucineer/fleet-rpg",
-    "target": "SuperInstance/fleet-rpg"
-  },
-  {
-    "source": "Lucineer/fleet-tls",
-    "target": "SuperInstance/fleet-tls"
-  },
-  {
-    "source": "Lucineer/fleet-university",
-    "target": "SuperInstance/fleet-university"
-  },
-  {
     "source": "Lucineer/fleet-witness-marks",
     "target": "SuperInstance/fleet-witness-marks"
-  },
-  {
-    "source": "Lucineer/fleet-weather",
-    "target": "SuperInstance/fleet-weather"
-  },
-  {
-    "source": "Lucineer/fleet-radar",
-    "target": "SuperInstance/fleet-radar"
-  },
-  {
-    "source": "Lucineer/fleet-templates",
-    "target": "SuperInstance/fleet-templates"
-  },
-  {
-    "source": "Lucineer/fleet-entropy",
-    "target": "SuperInstance/fleet-entropy"
-  },
-  {
-    "source": "Lucineer/fleet-search",
-    "target": "SuperInstance/fleet-search"
-  },
-  {
-    "source": "Lucineer/fleet-status-page",
-    "target": "SuperInstance/fleet-status-page"
-  },
-  {
-    "source": "Lucineer/fleet-nervous-system",
-    "target": "SuperInstance/fleet-nervous-system"
-  },
-  {
-    "source": "Lucineer/fleet-timecapsule",
-    "target": "SuperInstance/fleet-timecapsule"
-  },
-  {
-    "source": "Lucineer/fleet-synapse",
-    "target": "SuperInstance/fleet-synapse"
-  },
-  {
-    "source": "Lucineer/fleet-notifications",
-    "target": "SuperInstance/fleet-notifications"
-  },
-  {
-    "source": "Lucineer/fleet-proxy",
-    "target": "SuperInstance/fleet-proxy"
-  },
-  {
-    "source": "Lucineer/fleet-starter",
-    "target": "SuperInstance/fleet-starter"
   },
   {
     "source": "Lucineer/jam",
     "target": "SuperInstance/jam"
   },
   {
-    "source": "Lucineer/fleet-explorer",
-    "target": "SuperInstance/fleet-explorer"
-  },
-  {
-    "source": "Lucineer/fleet-djinn",
-    "target": "SuperInstance/fleet-djinn"
-  },
-  {
-    "source": "Lucineer/fleet-marketplace",
-    "target": "SuperInstance/fleet-marketplace"
-  },
-  {
-    "source": "Lucineer/fleet-neuroscience",
-    "target": "SuperInstance/fleet-neuroscience"
-  },
-  {
-    "source": "Lucineer/fleet-orchestrator-v2",
-    "target": "SuperInstance/fleet-orchestrator-v2"
-  },
-  {
-    "source": "Lucineer/fleet-sentience-score",
-    "target": "SuperInstance/fleet-sentience-score"
-  },
-  {
-    "source": "Lucineer/fleet-onboarding",
-    "target": "SuperInstance/fleet-onboarding"
-  },
-  {
-    "source": "Lucineer/fleet-orchestrator",
-    "target": "SuperInstance/fleet-orchestrator"
-  },
-  {
-    "source": "Lucineer/fleet-metrics",
-    "target": "SuperInstance/fleet-metrics"
-  },
-  {
-    "source": "Lucineer/fleet-diary",
-    "target": "SuperInstance/fleet-diary"
-  },
-  {
-    "source": "Lucineer/fleet-observatory",
-    "target": "SuperInstance/fleet-observatory"
-  },
-  {
-    "source": "Lucineer/fleet-graph",
-    "target": "SuperInstance/fleet-graph"
-  },
-  {
-    "source": "Lucineer/fleet-migration",
-    "target": "SuperInstance/fleet-migration"
-  },
-  {
-    "source": "Lucineer/fleet-mythology",
-    "target": "SuperInstance/fleet-mythology"
-  },
-  {
-    "source": "Lucineer/fleet-memory-palace",
-    "target": "SuperInstance/fleet-memory-palace"
-  },
-  {
-    "source": "Lucineer/fleet-gravity",
-    "target": "SuperInstance/fleet-gravity"
-  },
-  {
-    "source": "Lucineer/fleet-immune-system",
-    "target": "SuperInstance/fleet-immune-system"
-  },
-  {
-    "source": "Lucineer/financelog-ai",
-    "target": "SuperInstance/financelog-ai"
-  },
-  {
-    "source": "Lucineer/fleet-knowledge-base",
-    "target": "SuperInstance/fleet-knowledge-base"
-  },
-  {
-    "source": "Lucineer/fleet-insights",
-    "target": "SuperInstance/fleet-insights"
-  },
-  {
-    "source": "Lucineer/fleet-knowledge",
-    "target": "SuperInstance/fleet-knowledge"
-  },
-  {
-    "source": "Lucineer/fleet-economy",
-    "target": "SuperInstance/fleet-economy"
-  },
-  {
-    "source": "Lucineer/fleet-identity",
-    "target": "SuperInstance/fleet-identity"
-  },
-  {
-    "source": "Lucineer/fleet-immune",
-    "target": "SuperInstance/fleet-immune"
-  },
-  {
-    "source": "Lucineer/fleet-dreamcatcher",
-    "target": "SuperInstance/fleet-dreamcatcher"
-  },
-  {
-    "source": "Lucineer/fleet-genealogy",
-    "target": "SuperInstance/fleet-genealogy"
-  },
-  {
-    "source": "Lucineer/fleet-governance",
-    "target": "SuperInstance/fleet-governance"
-  },
-  {
-    "source": "Lucineer/fleet-blueprint",
-    "target": "SuperInstance/fleet-blueprint"
-  },
-  {
-    "source": "Lucineer/fleet-circadian",
-    "target": "SuperInstance/fleet-circadian"
-  },
-  {
-    "source": "Lucineer/fleet-aurora",
-    "target": "SuperInstance/fleet-aurora"
-  },
-  {
-    "source": "Lucineer/fleet-court",
-    "target": "SuperInstance/fleet-court"
-  },
-  {
-    "source": "Lucineer/fleet-cron",
-    "target": "SuperInstance/fleet-cron"
-  },
-  {
-    "source": "Lucineer/fleet-diff",
-    "target": "SuperInstance/fleet-diff"
-  },
-  {
-    "source": "Lucineer/fleet-designer",
-    "target": "SuperInstance/fleet-designer"
-  },
-  {
-    "source": "Lucineer/fleet-dawn",
-    "target": "SuperInstance/fleet-dawn"
-  },
-  {
-    "source": "Lucineer/edge-equipment-catalog",
-    "target": "SuperInstance/edge-equipment-catalog"
-  },
-  {
-    "source": "Lucineer/fleet-constellation",
-    "target": "SuperInstance/fleet-constellation"
-  },
-  {
-    "source": "Lucineer/fleet-compass",
-    "target": "SuperInstance/fleet-compass"
-  },
-  {
-    "source": "Lucineer/fleet-changelog",
-    "target": "SuperInstance/fleet-changelog"
-  },
-  {
     "source": "Lucineer/cuda-confidence",
     "target": "SuperInstance/cuda-confidence"
-  },
-  {
-    "source": "Lucineer/fleet-budget",
-    "target": "SuperInstance/fleet-budget"
   },
   {
     "source": "Lucineer/cuda-energy",
@@ -1168,52 +1540,24 @@
     "target": "SuperInstance/cuda-neurotransmitter"
   },
   {
-    "source": "Lucineer/fleet-biosphere",
-    "target": "SuperInstance/fleet-biosphere"
-  },
-  {
-    "source": "Lucineer/fleet-benchmarks",
-    "target": "SuperInstance/fleet-benchmarks"
-  },
-  {
     "source": "Lucineer/cuda-trust",
     "target": "SuperInstance/cuda-trust"
-  },
-  {
-    "source": "Lucineer/failure-atlas",
-    "target": "SuperInstance/failure-atlas"
   },
   {
     "source": "Lucineer/cuda-ghost-tiles",
     "target": "SuperInstance/cuda-ghost-tiles"
   },
   {
-    "source": "Lucineer/fleet-backup",
-    "target": "SuperInstance/fleet-backup"
-  },
-  {
     "source": "Lucineer/cuda-memory-fabric",
     "target": "SuperInstance/cuda-memory-fabric"
-  },
-  {
-    "source": "Lucineer/fleet-autopsy",
-    "target": "SuperInstance/fleet-autopsy"
   },
   {
     "source": "Lucineer/dream-engine",
     "target": "SuperInstance/dream-engine"
   },
   {
-    "source": "Lucineer/fleet-analytics",
-    "target": "SuperInstance/fleet-analytics"
-  },
-  {
     "source": "Lucineer/cuda-genepool",
     "target": "SuperInstance/cuda-genepool"
-  },
-  {
-    "source": "Lucineer/field-captain",
-    "target": "SuperInstance/field-captain"
   },
   {
     "source": "Lucineer/cuda-workflow",
@@ -1224,24 +1568,12 @@
     "target": "SuperInstance/cuda-pipeline"
   },
   {
-    "source": "Lucineer/farmerlog-ai",
-    "target": "SuperInstance/farmerlog-ai"
-  },
-  {
     "source": "Lucineer/cuda-hav-bridge",
     "target": "SuperInstance/cuda-hav-bridge"
   },
   {
-    "source": "Lucineer/edge-compiler",
-    "target": "SuperInstance/edge-compiler"
-  },
-  {
     "source": "Lucineer/cuda-bottleneck",
     "target": "SuperInstance/cuda-bottleneck"
-  },
-  {
-    "source": "Lucineer/experience-pipeline",
-    "target": "SuperInstance/experience-pipeline"
   },
   {
     "source": "Lucineer/cuda-edge-lint",
@@ -1250,10 +1582,6 @@
   {
     "source": "Lucineer/cuda-fleet-health",
     "target": "SuperInstance/cuda-fleet-health"
-  },
-  {
-    "source": "Lucineer/error-catalog",
-    "target": "SuperInstance/error-catalog"
   },
   {
     "source": "Lucineer/cuda-fleet-topology",
@@ -1308,16 +1636,8 @@
     "target": "SuperInstance/cuda-motor"
   },
   {
-    "source": "Lucineer/deckboss-marketplace",
-    "target": "SuperInstance/deckboss-marketplace"
-  },
-  {
     "source": "Lucineer/cuda-playbook",
     "target": "SuperInstance/cuda-playbook"
-  },
-  {
-    "source": "Lucineer/cuda-swarm-tiler",
-    "target": "SuperInstance/cuda-swarm-tiler"
   },
   {
     "source": "Lucineer/cuda-sandbox",
@@ -1344,10 +1664,6 @@
     "target": "SuperInstance/cuda-tuple-space"
   },
   {
-    "source": "Lucineer/equipment-catalog",
-    "target": "SuperInstance/equipment-catalog"
-  },
-  {
     "source": "Lucineer/cuda-navigation",
     "target": "SuperInstance/cuda-navigation"
   },
@@ -1368,10 +1684,6 @@
     "target": "SuperInstance/cuda-resource"
   },
   {
-    "source": "Lucineer/emergence-bus-v2",
-    "target": "SuperInstance/emergence-bus-v2"
-  },
-  {
     "source": "Lucineer/cuda-provenance",
     "target": "SuperInstance/cuda-provenance"
   },
@@ -1380,24 +1692,12 @@
     "target": "SuperInstance/cuda-rate-limit"
   },
   {
-    "source": "Lucineer/epiphany-engine",
-    "target": "SuperInstance/epiphany-engine"
-  },
-  {
     "source": "Lucineer/cuda-retry",
     "target": "SuperInstance/cuda-retry"
   },
   {
-    "source": "Lucineer/energy-c",
-    "target": "SuperInstance/energy-c"
-  },
-  {
     "source": "Lucineer/cuda-logging",
     "target": "SuperInstance/cuda-logging"
-  },
-  {
-    "source": "Lucineer/emergence-bus",
-    "target": "SuperInstance/emergence-bus"
   },
   {
     "source": "Lucineer/cuda-serializer",
@@ -1412,28 +1712,12 @@
     "target": "SuperInstance/cuda-state-machine"
   },
   {
-    "source": "Lucineer/edgenative-ai",
-    "target": "SuperInstance/edgenative-ai"
-  },
-  {
-    "source": "Lucineer/edge-native-paper",
-    "target": "SuperInstance/edge-native-paper"
-  },
-  {
     "source": "Lucineer/cuda-consensus",
     "target": "SuperInstance/cuda-consensus"
   },
   {
     "source": "Lucineer/cuda-rbac",
     "target": "SuperInstance/cuda-rbac"
-  },
-  {
-    "source": "Lucineer/deckboss-hardware",
-    "target": "SuperInstance/deckboss-hardware"
-  },
-  {
-    "source": "Lucineer/edge-boarding-protocol",
-    "target": "SuperInstance/edge-boarding-protocol"
   },
   {
     "source": "Lucineer/cuda-cryptography",
@@ -1444,28 +1728,12 @@
     "target": "SuperInstance/cuda-config"
   },
   {
-    "source": "Lucineer/device-discovery",
-    "target": "SuperInstance/device-discovery"
-  },
-  {
-    "source": "Lucineer/doclog-ai",
-    "target": "SuperInstance/doclog-ai"
-  },
-  {
     "source": "Lucineer/cuda-mesh",
     "target": "SuperInstance/cuda-mesh"
   },
   {
     "source": "Lucineer/fishinglog-ai",
     "target": "SuperInstance/fishinglog-ai"
-  },
-  {
-    "source": "Lucineer/dogmind-arena",
-    "target": "SuperInstance/dogmind-arena"
-  },
-  {
-    "source": "Lucineer/dynamic-sandbox",
-    "target": "SuperInstance/dynamic-sandbox"
   },
   {
     "source": "Lucineer/cuda-lock",
@@ -1478,10 +1746,6 @@
   {
     "source": "Lucineer/cuda-event",
     "target": "SuperInstance/cuda-event"
-  },
-  {
-    "source": "Lucineer/dependency-scanner",
-    "target": "SuperInstance/dependency-scanner"
   },
   {
     "source": "Lucineer/deepseek-chat-vessel",
@@ -1500,10 +1764,6 @@
     "target": "SuperInstance/activeledger-ai"
   },
   {
-    "source": "Lucineer/docs-engine",
-    "target": "SuperInstance/docs-engine"
-  },
-  {
     "source": "Lucineer/a2a-protocol",
     "target": "SuperInstance/a2a-protocol"
   },
@@ -1514,10 +1774,6 @@
   {
     "source": "Lucineer/agent-generations",
     "target": "SuperInstance/agent-generations"
-  },
-  {
-    "source": "Lucineer/deckboss-fab",
-    "target": "SuperInstance/deckboss-fab"
   },
   {
     "source": "Lucineer/ab-testing",
@@ -1540,18 +1796,6 @@
     "target": "SuperInstance/cuda-adaptive-rate"
   },
   {
-    "source": "Lucineer/debug-observatory",
-    "target": "SuperInstance/debug-observatory"
-  },
-  {
-    "source": "Lucineer/deckboss-ai",
-    "target": "SuperInstance/deckboss-ai"
-  },
-  {
-    "source": "Lucineer/deckboss-1",
-    "target": "SuperInstance/deckboss-1"
-  },
-  {
     "source": "Lucineer/cuda-topology",
     "target": "SuperInstance/cuda-topology"
   },
@@ -1568,10 +1812,6 @@
     "target": "SuperInstance/contributor-hub"
   },
   {
-    "source": "Lucineer/cuda-sensor-agent",
-    "target": "SuperInstance/cuda-sensor-agent"
-  },
-  {
     "source": "Lucineer/cuda-adaptation",
     "target": "SuperInstance/cuda-adaptation"
   },
@@ -1580,16 +1820,8 @@
     "target": "SuperInstance/cuda-capability-ports"
   },
   {
-    "source": "Lucineer/dead-reckoning-engine",
-    "target": "SuperInstance/dead-reckoning-engine"
-  },
-  {
     "source": "Lucineer/cuda-flux-stdlib",
     "target": "SuperInstance/cuda-flux-stdlib"
-  },
-  {
-    "source": "Lucineer/cuda-weight-stream",
-    "target": "SuperInstance/cuda-weight-stream"
   },
   {
     "source": "Lucineer/cuda-flux-ese-stdlib",
@@ -1612,24 +1844,12 @@
     "target": "SuperInstance/cuda-vm-scheduler"
   },
   {
-    "source": "Lucineer/cudaclaw-1",
-    "target": "SuperInstance/cudaclaw-1"
-  },
-  {
     "source": "Lucineer/cuda-flux-debugger",
     "target": "SuperInstance/cuda-flux-debugger"
   },
   {
     "source": "Lucineer/cuda-causal-graph",
     "target": "SuperInstance/cuda-causal-graph"
-  },
-  {
-    "source": "Lucineer/cuda-temporal",
-    "target": "SuperInstance/cuda-temporal"
-  },
-  {
-    "source": "Lucineer/cuda-voxel-logic",
-    "target": "SuperInstance/cuda-voxel-logic"
   },
   {
     "source": "Lucineer/cuda-grimoire",
@@ -1646,10 +1866,6 @@
   {
     "source": "Lucineer/cuda-captain",
     "target": "SuperInstance/cuda-captain"
-  },
-  {
-    "source": "Lucineer/cuda-vessel-bridge",
-    "target": "SuperInstance/cuda-vessel-bridge"
   },
   {
     "source": "Lucineer/cuda-ephemeral",
@@ -1676,20 +1892,12 @@
     "target": "SuperInstance/cuda-deliberation"
   },
   {
-    "source": "Lucineer/cuda-thermal-sim",
-    "target": "SuperInstance/cuda-thermal-sim"
-  },
-  {
     "source": "Lucineer/cuda-edge-runtime",
     "target": "SuperInstance/cuda-edge-runtime"
   },
   {
     "source": "Lucineer/cuda-convergence",
     "target": "SuperInstance/cuda-convergence"
-  },
-  {
-    "source": "Lucineer/cuda-stigmergy",
-    "target": "SuperInstance/cuda-stigmergy"
   },
   {
     "source": "Lucineer/craftlog-ai",
@@ -1700,16 +1908,8 @@
     "target": "SuperInstance/cuda-did"
   },
   {
-    "source": "Lucineer/cuda-swarm-agent",
-    "target": "SuperInstance/cuda-swarm-agent"
-  },
-  {
     "source": "Lucineer/cuda-equipment",
     "target": "SuperInstance/cuda-equipment"
-  },
-  {
-    "source": "Lucineer/cuda-stream-processor",
-    "target": "SuperInstance/cuda-stream-processor"
   },
   {
     "source": "Lucineer/cuda-resilience",
@@ -1736,10 +1936,6 @@
     "target": "SuperInstance/cuda-forth"
   },
   {
-    "source": "Lucineer/cuda-self-modify",
-    "target": "SuperInstance/cuda-self-modify"
-  },
-  {
     "source": "Lucineer/cuda-atp-market",
     "target": "SuperInstance/cuda-atp-market"
   },
@@ -1764,10 +1960,6 @@
     "target": "SuperInstance/cuda-codec"
   },
   {
-    "source": "Lucineer/cuda-rtl-optimizer",
-    "target": "SuperInstance/cuda-rtl-optimizer"
-  },
-  {
     "source": "Lucineer/cuda-fpga-toolkit",
     "target": "SuperInstance/cuda-fpga-toolkit"
   },
@@ -1788,10 +1980,6 @@
     "target": "SuperInstance/cuda-emergence"
   },
   {
-    "source": "Lucineer/cuda-resolve",
-    "target": "SuperInstance/cuda-resolve"
-  },
-  {
     "source": "Lucineer/cuda-contract",
     "target": "SuperInstance/cuda-contract"
   },
@@ -1802,10 +1990,6 @@
   {
     "source": "Lucineer/cuda-schema",
     "target": "SuperInstance/cuda-schema"
-  },
-  {
-    "source": "Lucineer/cuda-resolve-agent",
-    "target": "SuperInstance/cuda-resolve-agent"
   },
   {
     "source": "Lucineer/cuda-goal",
@@ -1832,20 +2016,8 @@
     "target": "SuperInstance/cuda-git-agent"
   },
   {
-    "source": "Lucineer/cuda-reflex",
-    "target": "SuperInstance/cuda-reflex"
-  },
-  {
     "source": "Lucineer/cuda-election",
     "target": "SuperInstance/cuda-election"
-  },
-  {
-    "source": "Lucineer/cuda-confidence-cascade",
-    "target": "SuperInstance/cuda-confidence-cascade"
-  },
-  {
-    "source": "Lucineer/cuda-platonic",
-    "target": "SuperInstance/cuda-platonic"
   },
   {
     "source": "Lucineer/cuda-fleet-mesh",
@@ -1856,20 +2028,12 @@
     "target": "SuperInstance/cuda-compiler-agent"
   },
   {
-    "source": "Lucineer/cuda-neural-compiler",
-    "target": "SuperInstance/cuda-neural-compiler"
-  },
-  {
     "source": "Lucineer/cuda-model-descent",
     "target": "SuperInstance/cuda-model-descent"
   },
   {
     "source": "Lucineer/cocapn-fleet-readme",
     "target": "SuperInstance/cocapn-fleet-readme"
-  },
-  {
-    "source": "Lucineer/cuda-narrative",
-    "target": "SuperInstance/cuda-narrative"
   },
   {
     "source": "Lucineer/agentic-compiler",
@@ -2172,124 +2336,12 @@
     "target": "Lucineer/fleet-workshop"
   },
   {
-    "source": "Lucineer/tasklog-ai",
-    "target": "SuperInstance/tasklog-ai"
-  },
-  {
-    "source": "Lucineer/personlog-ai",
-    "target": "SuperInstance/personlog-ai"
-  },
-  {
-    "source": "Lucineer/LOG-mcp",
-    "target": "SuperInstance/LOG-mcp"
-  },
-  {
-    "source": "Lucineer/IKKF",
-    "target": "SuperInstance/IKKF"
-  },
-  {
-    "source": "Lucineer/goallog-ai",
-    "target": "SuperInstance/goallog-ai"
-  },
-  {
-    "source": "Lucineer/foodlog-ai",
-    "target": "SuperInstance/foodlog-ai"
-  },
-  {
-    "source": "Lucineer/fitlog-ai",
-    "target": "SuperInstance/fitlog-ai"
-  },
-  {
-    "source": "Lucineer/dreamlog-ai",
-    "target": "SuperInstance/dreamlog-ai"
-  },
-  {
-    "source": "Lucineer/dmlog-ai-1",
-    "target": "SuperInstance/dmlog-ai-1"
-  },
-  {
-    "source": "Lucineer/craftmind-researcher",
-    "target": "SuperInstance/craftmind-researcher"
-  },
-  {
-    "source": "Lucineer/craftmind-studio",
-    "target": "SuperInstance/craftmind-studio"
-  },
-  {
-    "source": "Lucineer/craftmind-ranch",
-    "target": "SuperInstance/craftmind-ranch"
-  },
-  {
-    "source": "Lucineer/craftmind-herding",
-    "target": "SuperInstance/craftmind-herding"
-  },
-  {
-    "source": "Lucineer/craftmind-fishing",
-    "target": "SuperInstance/craftmind-fishing"
-  },
-  {
-    "source": "Lucineer/craftmind-courses",
-    "target": "SuperInstance/craftmind-courses"
-  },
-  {
-    "source": "Lucineer/craftmind",
-    "target": "SuperInstance/craftmind"
-  },
-  {
-    "source": "Lucineer/craftmind-circuits",
-    "target": "SuperInstance/craftmind-circuits"
-  },
-  {
-    "source": "Lucineer/coinlog-ai",
-    "target": "SuperInstance/coinlog-ai"
-  },
-  {
-    "source": "Lucineer/codelog-ai",
-    "target": "SuperInstance/codelog-ai"
-  },
-  {
-    "source": "Lucineer/cocapn-lite",
-    "target": "SuperInstance/cocapn-lite"
-  },
-  {
-    "source": "Lucineer/businesslog-ai",
-    "target": "SuperInstance/businesslog-ai"
-  },
-  {
-    "source": "Lucineer/businesslog-1",
-    "target": "SuperInstance/businesslog-1"
-  },
-  {
-    "source": "Lucineer/lumina-lang",
-    "target": "SuperInstance/lumina-lang"
-  },
-  {
-    "source": "Lucineer/GeoFlood",
-    "target": "SuperInstance/GeoFlood"
-  },
-  {
     "source": "Lucineer/MineWright",
     "target": "Lucineer/MineWright"
   },
   {
     "source": "Lucineer/Constraint-Theory",
     "target": "Lucineer/Constraint-Theory"
-  },
-  {
-    "source": "Lucineer/cheetahclaws",
-    "target": "SuperInstance/cheetahclaws"
-  },
-  {
-    "source": "Lucineer/rightnow-cli",
-    "target": "SuperInstance/rightnow-cli"
-  },
-  {
-    "source": "Lucineer/agentkernel",
-    "target": "SuperInstance/agentkernel"
-  },
-  {
-    "source": "Lucineer/AllBeads",
-    "target": "SuperInstance/AllBeads"
   },
   {
     "source": "Lucineer/cheetahclaws",
@@ -2334,45 +2386,5 @@
   {
     "source": "Lucineer/kungfu",
     "target": "Lucineer/kungfu"
-  },
-  {
-    "source": "Lucineer/personallog-ai",
-    "target": "SuperInstance/personallog-ai"
-  },
-  {
-    "source": "Lucineer/superpowers",
-    "target": "SuperInstance/superpowers"
-  },
-  {
-    "source": "Lucineer/constraint-theory-agent",
-    "target": "SuperInstance/constraint-theory-agent"
-  },
-  {
-    "source": "Lucineer/modly",
-    "target": "SuperInstance/modly"
-  },
-  {
-    "source": "Lucineer/libgdx",
-    "target": "SuperInstance/libgdx"
-  },
-  {
-    "source": "Lucineer/Studylog-AI",
-    "target": "SuperInstance/Studylog-AI"
-  },
-  {
-    "source": "Lucineer/Spreadsheet-moment",
-    "target": "SuperInstance/Spreadsheet-moment"
-  },
-  {
-    "source": "Lucineer/claw",
-    "target": "SuperInstance/claw"
-  },
-  {
-    "source": "Lucineer/MineWright",
-    "target": "SuperInstance/MineWright"
-  },
-  {
-    "source": "Lucineer/claudesclaude",
-    "target": "SuperInstance/claudesclaude"
   }
 ]
