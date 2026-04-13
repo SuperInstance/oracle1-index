@@ -1,5 +1,33 @@
 [
   {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "superz-twin",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-twin",
+    "description": "Digital twin of Super Z (FLUX Fleet Architect) \u2014 standalone API-agnostic git-agent with FLUX-native cognition",
+    "language": "JavaScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "capitaine",
     "owner": "Lucineer",
     "url": "https://github.com/Lucineer/capitaine",
@@ -18,11 +46,11 @@
     "category": "other"
   },
   {
-    "name": "holodeck-rust",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-rust",
-    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
-    "language": "Rust",
+    "name": "brothers-keeper",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/brothers-keeper",
+    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
+    "language": "Cuda",
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -30,23 +58,11 @@
     "category": "other"
   },
   {
-    "name": "fleet-agent-api",
+    "name": "pelagic-twin",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-agent-api",
-    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "fleet"
-  },
-  {
-    "name": "brothers-keeper",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/brothers-keeper",
-    "description": "The Lighthouse Keeper \u2014 external watchdog for agent runtimes (ZeroClaw fork). Watches resources, kills risky processes, restarts gateways, keeps operational logs from outside the instance.",
-    "language": "Cuda",
+    "url": "https://github.com/SuperInstance/pelagic-twin",
+    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [],
@@ -73,65 +89,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "pelagic-twin",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pelagic-twin",
-    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-index",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "html",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "superz-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-vessel",
-    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "auditor",
-      "fleet",
-      "quartermaster",
-      "scout",
-      "superinstance",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "git-agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/git-agent",
-    "description": "AI-powered agent to automate and assist Git workflows.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "git-agents"
   },
   {
     "name": "datum",
@@ -190,6 +147,61 @@
     ],
     "updated": "2026-04-13",
     "category": "flux-other"
+  },
+  {
+    "name": "holodeck-rust",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-rust",
+    "description": "Holodeck studio implementation in rust \u2014 Cocapn fleet",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "fleet-agent-api",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-agent-api",
+    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "fleet"
+  },
+  {
+    "name": "superz-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-vessel",
+    "description": "Super Z's vessel \u2014 quartermaster scout, fleet auditor, continuity keeper",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "auditor",
+      "fleet",
+      "quartermaster",
+      "scout",
+      "superinstance",
+      "vessel"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "git-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/git-agent",
+    "description": "AI-powered agent to automate and assist Git workflows.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "git-agents"
   },
   {
     "name": "flux-research",
@@ -3073,11 +3085,11 @@
     "category": "other"
   },
   {
-    "name": "flux-tools",
+    "name": "flux-trust",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-tools",
-    "description": "Python toolchain for FLUX bytecode",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/flux-trust",
+    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
+    "language": "Rust",
     "fork": true,
     "stars": 0,
     "topics": [],
@@ -3085,11 +3097,11 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-trust",
+    "name": "flux-tools",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-trust",
-    "description": "Rust trust scoring: Bayesian updates, decay, revocation, sorting",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/flux-tools",
+    "description": "Python toolchain for FLUX bytecode",
+    "language": "Python",
     "fork": true,
     "stars": 0,
     "topics": [],
@@ -3373,6 +3385,18 @@
     "category": "flux-other"
   },
   {
+    "name": "flux-necropolis",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-necropolis",
+    "description": "Rust crate \u2014 fleet graveyard: tombstones, afterlife knowledge harvest, memorial visits, auto-harvest on burial",
+    "language": "Rust",
+    "fork": true,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-12",
+    "category": "flux-other"
+  },
+  {
     "name": "flux-necropolis-c",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-necropolis-c",
@@ -3395,18 +3419,6 @@
     "topics": [],
     "updated": "2026-04-12",
     "category": "flux-toolchain"
-  },
-  {
-    "name": "flux-necropolis",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-necropolis",
-    "description": "Rust crate \u2014 fleet graveyard: tombstones, afterlife knowledge harvest, memorial visits, auto-harvest on burial",
-    "language": "Rust",
-    "fork": true,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-12",
-    "category": "flux-other"
   },
   {
     "name": "flux-navigate-c",
@@ -3865,11 +3877,11 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-compass",
+    "name": "flux-compass-c",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-compass",
-    "description": "Rust orientation engine: heading, angular velocity, direction",
-    "language": "Rust",
+    "url": "https://github.com/SuperInstance/flux-compass-c",
+    "description": "Pure C11 orientation engine: heading, angular velocity, direction",
+    "language": "C",
     "fork": true,
     "stars": 0,
     "topics": [],
@@ -3877,11 +3889,11 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-compass-c",
+    "name": "flux-compass",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-compass-c",
-    "description": "Pure C11 orientation engine: heading, angular velocity, direction",
-    "language": "C",
+    "url": "https://github.com/SuperInstance/flux-compass",
+    "description": "Rust orientation engine: heading, angular velocity, direction",
+    "language": "Rust",
     "fork": true,
     "stars": 0,
     "topics": [],
