@@ -584,12 +584,12 @@
     "target": "SuperInstance/self-evolve-ai"
   },
   {
-    "source": "Lucineer/skill-exchange",
-    "target": "SuperInstance/skill-exchange"
-  },
-  {
     "source": "Lucineer/skill-evolver",
     "target": "SuperInstance/skill-evolver"
+  },
+  {
+    "source": "Lucineer/skill-exchange",
+    "target": "SuperInstance/skill-exchange"
   },
   {
     "source": "Lucineer/stigmergy",
@@ -908,12 +908,12 @@
     "target": "SuperInstance/mycelium-ai"
   },
   {
-    "source": "Lucineer/nexus-comms",
-    "target": "SuperInstance/nexus-comms"
-  },
-  {
     "source": "Lucineer/nexus-aab-protocol",
     "target": "SuperInstance/nexus-aab-protocol"
+  },
+  {
+    "source": "Lucineer/nexus-comms",
+    "target": "SuperInstance/nexus-comms"
   },
   {
     "source": "Lucineer/mask-locked-inference-chip",
@@ -940,12 +940,12 @@
     "target": "SuperInstance/intelligence-marketplace"
   },
   {
-    "source": "Lucineer/jetson-compass",
-    "target": "SuperInstance/jetson-compass"
-  },
-  {
     "source": "Lucineer/jetson-grand-design",
     "target": "SuperInstance/jetson-grand-design"
+  },
+  {
+    "source": "Lucineer/jetson-compass",
+    "target": "SuperInstance/jetson-compass"
   },
   {
     "source": "Lucineer/kernel-model",

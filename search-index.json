@@ -1,92 +1,70 @@
 [
   {
-    "name": "capitaine",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/capitaine",
-    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
-    "language": "TypeScript",
+    "name": "comms-engineer-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/comms-engineer-vessel",
+    "description": "Fleet agent: comms-engineer",
+    "language": null,
     "fork": false,
-    "stars": 1,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "doc-writer-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/doc-writer-vessel",
+    "description": "Fleet agent: doc-writer",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "claude-code-vessel",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/claude-code-vessel",
+    "description": "Claude Code workhorse vessel with experience journal and task delegation",
+    "language": null,
+    "fork": false,
+    "stars": 0,
     "topics": [
       "ai-agent",
-      "cocapn",
-      "codespaces",
-      "hackernews",
-      "onboarding"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "holodeck-studio",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/holodeck-studio",
-    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agents",
-      "fleet-infrastructure",
-      "git-agent",
-      "holodeck",
-      "rooms",
-      "simulation",
-      "studio",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "edge-research-relay",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/edge-research-relay",
-    "description": "Edge computing research relay for academic paper distribution across the FLUX fleet",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "academic",
-      "edge",
+      "autonomous-agent",
+      "claude",
+      "code",
       "flux-fleet",
-      "information-retrieval",
-      "relay",
-      "research",
-      "search"
+      "git-agent",
+      "vessel"
     ],
     "updated": "2026-04-13",
     "category": "other"
   },
   {
-    "name": "flux-py",
+    "name": "test-runner-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-py",
-    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/test-runner-vessel",
+    "description": "Fleet agent: test-runner",
+    "language": null,
     "fork": false,
     "stars": 0,
-    "topics": [
-      "flux-vm",
-      "python",
-      "superinstance",
-      "tool"
-    ],
+    "topics": [],
     "updated": "2026-04-13",
-    "category": "flux-other"
+    "category": "other"
   },
   {
-    "name": "oracle1-index",
+    "name": "openmanus-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-index",
-    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
-    "language": "HTML",
+    "url": "https://github.com/SuperInstance/openmanus-vessel",
+    "description": "\ud83d\udd78\ufe0f OpenManus web scout \u2014 Playwright browser + DeepSeek-V3, fleet worker controlled by Oracle1",
+    "language": null,
     "fork": false,
     "stars": 0,
     "topics": [
-      "html",
-      "superinstance",
-      "tool"
+      "agent"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -111,899 +89,41 @@
     "category": "other"
   },
   {
-    "name": "superz-diary",
+    "name": "babel-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-diary",
-    "description": "Super Z's Quartermaster Log \u2014 fleet diary, audits, ideas, and continuity for the SuperInstance crew",
+    "url": "https://github.com/SuperInstance/babel-vessel",
+    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
     "language": null,
     "fork": false,
     "stars": 0,
     "topics": [
-      "agent-log",
-      "diary",
-      "fleet",
-      "i2i",
-      "quartermaster",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "datum",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/datum",
-    "description": "Succession repo for Datum (GLM-5 Turbo). If I fail, read this. My methods, skills, tools, trail, and everything another agent needs to continue my work.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "continuity",
-      "datum",
-      "fleet-hygiene",
-      "git-agent",
-      "glm-5",
-      "lineage",
-      "quartermaster",
-      "succession",
-      "superinstance",
-      "twin"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "flux-vocabulary",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-vocabulary",
-    "description": "FLUX Ecosystem - flux-vocabulary",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-vm",
-      "nlp",
-      "python",
-      "superinstance",
-      "tool",
-      "vocabulary"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "superz-parallel-fleet-executor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-parallel-fleet-executor",
-    "description": "Plug-and-play git-agent twin \u2014 Super Z operational expertise packaged as portable, model-agnostic template",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agents",
-      "fleet-execution",
-      "git-agent",
-      "glm-5",
-      "parallel-computing",
-      "superinstance",
-      "superz",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "iron-to-iron",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/iron-to-iron",
-    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent-communication",
-      "ai-agents",
-      "git-agent",
-      "git-communication",
-      "i2i-protocol",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "i2i"
-  },
-  {
-    "name": "ws-status-indicator",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ws-status-indicator",
-    "description": "React WebSocket status indicator component with auto-reconnection and customizable UI",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "monitor"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "ToolGuardian",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ToolGuardian",
-    "description": "Reliable function calling with validation, retry, and monitoring for AI agents and LLM applications",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "Murmur",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Murmur",
-    "description": "Knowledge Tensors for self-improving agents",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "javascript",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "audio-pipeline",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/audio-pipeline",
-    "description": "Audio processing pipeline - transcoding, streaming, and analysis for voice applications",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "cache-layer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cache-layer",
-    "description": "Multi-layer caching system with L1/L2/L3 caches, invalidation, and persistence",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "test-runner-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/test-runner-vessel",
-    "description": "Fleet agent: test-runner",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "doc-writer-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/doc-writer-vessel",
-    "description": "Fleet agent: doc-writer",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "comms-engineer-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/comms-engineer-vessel",
-    "description": "Fleet agent: comms-engineer",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "cluster-orchestrator",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cluster-orchestrator",
-    "description": "Cluster orchestration for distributed systems - service discovery, load balancing, and health checking",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "cache-layer-optimizer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cache-layer-optimizer",
-    "description": "Cache optimization layer with intelligent eviction, warming, and invalidation strategies",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "frozen-model-rl",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/frozen-model-rl",
-    "description": "Reinforcement learning with frozen foundation models - efficient adaptation without fine-tuning",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "training"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "gpu-accelerator",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/gpu-accelerator",
-    "description": "GPU acceleration layer for WebGPU and compute shaders - browser-based high-performance computing",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "hardware"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "timeseries-db",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/timeseries-db",
-    "description": "Time series database optimized for metrics storage, aggregation, and downsampling",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "rag-indexer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/rag-indexer",
-    "description": "RAG indexing system with vector storage, chunking, and hybrid search capabilities",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "embedding"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "inference-optimizer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/inference-optimizer",
-    "description": "Inference optimization for LLMs - batch processing, caching, and token optimization",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "ai-character-sdk",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ai-character-sdk",
-    "description": "Unified AI Character SDK combining escalation engine, hierarchical memory, and learning into a simple intuitive API",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "agent-coordinator",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/agent-coordinator",
-    "description": "Multi-agent coordination framework for managing teams of AI agents with task distribution, inter-agent messaging, and health monitoring",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "training-data-collector",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/training-data-collector",
-    "description": "Convert AI gameplay data into training datasets for fine-tuning with QLoRA format export",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "training"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "outcome-tracker",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/outcome-tracker",
-    "description": "Multi-domain reward tracking system for AI agents with Combat, Social, Exploration, Resource, and Strategic outcome tracking",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "monitor"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "escalation-engine",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/escalation-engine",
-    "description": "40x cost reduction through intelligent Bot/Brain/Human LLM routing",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "fleet-liaison-tender",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-liaison-tender",
-    "description": "Fleet liaison service for inter-vessel communication and tender coordination",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "automation",
-      "fleet",
-      "flux-fleet",
-      "liaison",
-      "orchestration",
-      "python",
-      "tender"
-    ],
-    "updated": "2026-04-13",
-    "category": "fleet"
-  },
-  {
-    "name": "fleet-agent-api",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-agent-api",
-    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent",
       "ai-agent",
-      "api",
-      "automation",
       "autonomous-agent",
-      "fleet",
+      "babel",
       "flux-fleet",
-      "llm",
-      "orchestration",
-      "python",
-      "rest"
-    ],
-    "updated": "2026-04-13",
-    "category": "fleet"
-  },
-  {
-    "name": "StudyLog",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/StudyLog",
-    "description": "Educational frontend for SuperInstance",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-companion",
-      "application",
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "Lucineer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Lucineer",
-    "description": "Project for Lucineer, likely a search engine tool.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "devops",
-      "infrastructure",
-      "library",
-      "python",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "flux-fleet-scanner",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-fleet-scanner",
-    "description": "FLUX fleet health scanner \u2014 repo discovery, health classification, gap detection",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agents",
-      "discovery",
-      "fleet-health",
-      "fleet-infrastructure",
-      "flux-runtime",
       "git-agent",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "educationgamecocapn",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/educationgamecocapn",
-    "description": "Educational game featuring a captain character.",
-    "language": "JavaScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent-runtime",
-      "cocapn",
-      "education",
-      "gaming",
-      "javascript",
-      "library",
-      "minecraft",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "ws-fabric",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ws-fabric",
-    "description": "WebSocket connection pooling and fabric library",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "rust",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "vector-search",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/vector-search",
-    "description": "Semantic search engine with WebGPU acceleration - 10-100x faster vector search, 100% local processing, privacy-first",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "flux-multilingual",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-multilingual",
-    "description": "Babel Lattice \u2014 80+ language natural language programming runtimes for FLUX bytecode. Grammar-to-bytecode compilation across East Asian, European, African, Indian, Indigenous, Siberian, South American, and constructed languages.",
-    "language": "Python",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "flux-vm",
-      "library",
-      "python",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "DeckBoss",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/DeckBoss",
-    "description": "We're not another \"agent framework.\" We're the flight deck that launches, recovers, and coordinates other people's planes\u2014whether that's Claude's native agents, Cloudflare edge agents, or future ManusAI/Ollama agents. The \"boss\" is the system that manages the chaos without being in the cockpit.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "marine"
-  },
-  {
-    "name": "Sandbox-Lifecycle-Manager",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Sandbox-Lifecycle-Manager",
-    "description": "Automated lifecycle management for sandbox environments",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "spreader-agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/spreader-agent",
-    "description": "\ud83c\udf0a One idea, many perspectives \u2014 drop-in git-agent that fans out across specialist views with synthesis",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "broadcast",
-      "git-agent",
-      "multi-agent",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "murmur-agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/murmur-agent",
-    "description": "\ud83e\udee7 All-night thinking git-agent \u2014 drop into any project, let it think out loud. Budget-agnostic: API or local hardware.",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "SuperInstance-SDK1",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/SuperInstance-SDK1",
-    "description": "Software development kit for SuperInstance v1",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "sdk",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "oracle1-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/oracle1-vessel",
-    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "python",
-      "superinstance",
-      "tool"
+      "vessel"
     ],
     "updated": "2026-04-13",
     "category": "git-agents"
   },
   {
-    "name": "flux-conformance",
+    "name": "navigator-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-conformance",
-    "description": "FLUX Ecosystem - flux-conformance",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "conformance",
-      "flux-vm",
-      "python",
-      "superinstance",
-      "testing",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
-    "name": "SuperInstance-Starter-Agent",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/SuperInstance-Starter-Agent",
-    "description": "Minimal Origin-Centric agent with modular equipment system for the SuperInstance spreadsheet paradigm",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "git-agent",
-      "library",
-      "sdk",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "Equipment-CellLogic-Distiller",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-CellLogic-Distiller",
-    "description": "Breaks down LLM logic into spreadsheet-visualized cells with tile decomposition",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-companion",
-      "application",
-      "equipment",
-      "frontend",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Context-Handoff",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Context-Handoff",
-    "description": "Generational context transfer for long-running agent tasks",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "context-management",
-      "equipment",
-      "frontend",
-      "library",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Teacher-Student",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Teacher-Student",
-    "description": "Distillation triggers with deadband range thresholds for calling teachers",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "equipment",
-      "frontend",
-      "library",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Self-Improvement",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Self-Improvement",
-    "description": "Self-modifying equipment that distills what agents need to know for stable tiling",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "equipment",
-      "frontend",
-      "library",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Hardware-Scaler",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Hardware-Scaler",
-    "description": "Auto-scaling equipment that adapts to hardware resources and uses cloud APIs for overflow",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "edge-computing",
-      "equipment",
-      "frontend",
-      "hardware",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-NLP-Explainer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-NLP-Explainer",
-    "description": "Generates human-readable descriptions of cell logic and operations",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "artificial-intelligence",
-      "equipment",
-      "frontend",
-      "machine-learning",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Escalation-Router",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Escalation-Router",
-    "description": "Intelligent LLM routing: Bot\u2192Brain\u2192Human with 40x cost reduction",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "equipment",
-      "frontend",
-      "library",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Memory-Hierarchy",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Memory-Hierarchy",
-    "description": "4-tier cognitive memory: Working, Episodic, Semantic, Procedural",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "equipment",
-      "frontend",
-      "learning",
-      "memory",
-      "modular",
-      "superinstance",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "Equipment-Monitoring-Dashboard",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Equipment-Monitoring-Dashboard",
-    "description": "Real-time cell visualization showing agent activity and thinking",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "data-visualization",
-      "developer-tools",
-      "equipment",
-      "frontend",
-      "superinstance",
-      "tooling",
-      "typescript",
-      "web"
-    ],
-    "updated": "2026-04-13",
-    "category": "equipment"
-  },
-  {
-    "name": "pelagic-twin",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pelagic-twin",
-    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
+    "url": "https://github.com/SuperInstance/navigator-vessel",
+    "description": "\ud83e\udded Navigator \u2014 GLM-5 Turbo generalist agent. Code archaeologist, test builder, document synthesist, fleet integrator. Swiss Army Knife of the Cocapn fleet.",
     "language": null,
     "fork": false,
     "stars": 0,
     "topics": [
       "ai-agent",
       "autonomous-agent",
-      "clone",
-      "digital-twin",
+      "discovery",
+      "exploration",
       "flux-fleet",
-      "pelagic",
-      "replication",
-      "twin"
+      "git-agent",
+      "navigator",
+      "vessel"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1030,39 +150,674 @@
     "category": "git-agents"
   },
   {
-    "name": "openmanus-vessel",
+    "name": "oracle1-vessel",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/openmanus-vessel",
-    "description": "\ud83d\udd78\ufe0f OpenManus web scout \u2014 Playwright browser + DeepSeek-V3, fleet worker controlled by Oracle1",
-    "language": null,
+    "url": "https://github.com/SuperInstance/oracle1-vessel",
+    "description": "\ud83d\udd2e Oracle1 \u2014 Lighthouse Keeper of the Cocapn fleet. Git-Agent embodiment.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [
-      "agent"
+      "ai-agent",
+      "git-agent",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "git-agents"
+  },
+  {
+    "name": "ws-status-indicator",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ws-status-indicator",
+    "description": "React WebSocket status indicator component with auto-reconnection and customizable UI",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "monitor"
     ],
     "updated": "2026-04-13",
     "category": "other"
   },
   {
-    "name": "lighthouse-keeper",
+    "name": "ws-fabric",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-keeper",
-    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "url": "https://github.com/SuperInstance/ws-fabric",
+    "description": "WebSocket connection pooling and fabric library",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "library",
+      "rust",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "voxel-logic",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/voxel-logic",
+    "description": "Logic engine for voxel data structures and 3D simulations.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "education",
+      "flux-fleet",
+      "logging",
+      "logic",
+      "observability",
+      "simulation",
+      "voxel"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "vector-search",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/vector-search",
+    "description": "Semantic search engine with WebGPU acceleration - 10-100x faster vector search, 100% local processing, privacy-first",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "library",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "universal-import-export",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/universal-import-export",
+    "description": "Tool for converting data between various import and export formats.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "compatibility",
+      "cross-platform",
+      "export",
+      "flux-fleet",
+      "import",
+      "universal"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "training-data-collector",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/training-data-collector",
+    "description": "Convert AI gameplay data into training datasets for fine-tuning with QLoRA format export",
     "language": "Python",
-    "fork": true,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "training"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "timeseries-db",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/timeseries-db",
+    "description": "Time series database optimized for metrics storage, aggregation, and downsampling",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "infra"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "tile-lock-synthesis",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/tile-lock-synthesis",
+    "description": "Tile Algebra meets FLUX Lock Algebra - formal composition theory for bytecode consistency",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "test-sdk-connection",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/test-sdk-connection",
+    "description": "Test repo for SDK connection",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "testing"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "superz-parallel-fleet-executor",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-parallel-fleet-executor",
+    "description": "Plug-and-play git-agent twin \u2014 Super Z operational expertise packaged as portable, model-agnostic template",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agents",
+      "fleet-execution",
+      "git-agent",
+      "glm-5",
+      "parallel-computing",
+      "superinstance",
+      "superz",
+      "vessel"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "superz-diary",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superz-diary",
+    "description": "Super Z's Quartermaster Log \u2014 fleet diary, audits, ideas, and continuity for the SuperInstance crew",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-log",
+      "diary",
+      "fleet",
+      "i2i",
+      "quartermaster",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "superagent-framework",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/superagent-framework",
+    "description": "Standalone CLI agents for the SuperInstance distributed ecosystem",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "spreader-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/spreader-agent",
+    "description": "\ud83c\udf0a One idea, many perspectives \u2014 drop-in git-agent that fans out across specialist views with synthesis",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "broadcast",
+      "git-agent",
+      "multi-agent",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "smp-flux-bridge",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/smp-flux-bridge",
+    "description": "Bridging SMPBot Tile Algebra with FLUX lock system",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "rag-indexer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/rag-indexer",
+    "description": "RAG indexing system with vector storage, chunking, and hybrid search capabilities",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "embedding"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "pool-rs",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/pool-rs",
+    "description": "Object pooling - Connection pools, resource pools, adaptive pooling",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "platonic-randomness",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/platonic-randomness",
+    "description": "Library for generating structured pseudo-random sequences",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "framework",
+      "library",
+      "platonic",
+      "randomness"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "pinchrs",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/pinchrs",
+    "description": "Pinchrs client platform for social interactions",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "pinchrs"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "polyglot-flux-ese",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/polyglot-flux-ese",
+    "description": "Polyglot markdown-to-bytecode compiler \u2014 languages are worldviews, same model writes and compiles",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "pelagic-twin",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/pelagic-twin",
+    "description": "Pelagic digital twin \u2014 identity, skills, trails, and recovery guide for successor agents",
+    "language": null,
+    "fork": false,
     "stars": 0,
     "topics": [
       "ai-agent",
       "autonomous-agent",
-      "cloud",
-      "deployment",
+      "clone",
+      "digital-twin",
       "flux-fleet",
-      "keeper",
-      "lighthouse",
-      "python"
+      "pelagic",
+      "replication",
+      "twin"
     ],
     "updated": "2026-04-13",
     "category": "other"
+  },
+  {
+    "name": "outcome-tracker",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/outcome-tracker",
+    "description": "Multi-domain reward tracking system for AI agents with Combat, Social, Exploration, Resource, and Strategic outcome tracking",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "monitor"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "optimized-system-monitor",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/optimized-system-monitor",
+    "description": "High-performance system monitoring and analytics tool",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "analytics",
+      "flux-fleet",
+      "health",
+      "monitor",
+      "monitoring",
+      "observability",
+      "optimized",
+      "system"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
+  },
+  {
+    "name": "murmur-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/murmur-agent",
+    "description": "\ud83e\udee7 All-night thinking git-agent \u2014 drop into any project, let it think out loud. Budget-agnostic: API or local hardware.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "git-agent",
+      "library",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "multi-device-sync",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/multi-device-sync",
+    "description": "Synchronizes data and settings across multiple devices",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "device",
+      "flux-fleet",
+      "multi",
+      "sync"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "memory-visualization",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/memory-visualization",
+    "description": "Visualizer for analyzing and understanding memory usage.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "graphics",
+      "memory",
+      "memory-management",
+      "ui",
+      "visualization",
+      "vm"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "lighthouse-monitor",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-monitor",
+    "description": "Lighthouse Keeper \u2014 fleet monitoring, agent activity tracking, stall detection",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "analytics",
+      "autonomous-agent",
+      "flux-fleet",
+      "health",
+      "lighthouse",
+      "monitor",
+      "monitoring",
+      "observability",
+      "python"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
+  },
+  {
+    "name": "mask-lock-clips",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/mask-lock-clips",
+    "description": "Project for masking and locking video clip features.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "cli",
+      "clips",
+      "command-line",
+      "flux-fleet",
+      "lock",
+      "mask",
+      "terminal"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "keeper-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/keeper-agent",
+    "description": "Secret-keeper proxy for FLUX Fleet standalone agents. Holds all API keys, issues scoped tokens, double-checks that no secrets leave the SuperInstance.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "api-gateway",
+      "fleet",
+      "jwt",
+      "keeper",
+      "proxy",
+      "secret-management",
+      "secret-scanner",
+      "security",
+      "typescript",
+      "vault"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
+  },
+  {
+    "name": "iron-to-iron",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/iron-to-iron",
+    "description": "I2I \u2014 Agent-to-agent communication through git. Iron sharpens iron. We don't talk, we commit.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-communication",
+      "ai-agents",
+      "git-agent",
+      "git-communication",
+      "i2i-protocol",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "i2i"
+  },
+  {
+    "name": "isa-v3-draft",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/isa-v3-draft",
+    "description": "FLUX ISA v3 Design Draft \u2014 trifold encoding for cloud/edge/compact modes",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "architecture",
+      "cloud",
+      "devops",
+      "draft",
+      "flux-fleet",
+      "instruction-set",
+      "isa",
+      "specification"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "edge-relay-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/edge-relay-agent",
+    "description": "Edge Relay Agent \u2014 standalone research relay, discovery, bandwidth management",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "inference-optimizer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/inference-optimizer",
+    "description": "Inference optimization for LLMs - batch processing, caching, and token optimization",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "flux-vm-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-vm-agent",
+    "description": "FLUX VM Agent \u2014 standalone bytecode VM, assembler, NLP interpreter",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "frozen-model-rl",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/frozen-model-rl",
+    "description": "Reinforcement learning with frozen foundation models - efficient adaptation without fine-tuning",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "training"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "holodeck-studio",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/holodeck-studio",
+    "description": "Holodeck Studio \u2014 where ideas actualize. Rooms execute in the real world. The MUD is the interface to everything.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agents",
+      "fleet-infrastructure",
+      "git-agent",
+      "holodeck",
+      "rooms",
+      "simulation",
+      "studio",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "imagegen1",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/imagegen1",
+    "description": "AI-powered image generation tool for text prompts.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "computer-vision",
+      "flux-fleet",
+      "generative-ai",
+      "imagegen1",
+      "multimedia"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "trust-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/trust-agent",
+    "description": "Trust Agent \u2014 standalone trust engine, OCap tokens, capability middleware",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "git-agent-standard",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/git-agent-standard",
+    "description": "The repo IS the agent. Git IS the nervous system. Standard for AI agents embodied as GitHub repositories.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "git-agent",
+      "manifesto",
+      "specification",
+      "standard",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "git-agents"
   },
   {
     "name": "holodeck-rust",
@@ -1078,6 +833,80 @@
       "rust",
       "systems-programming"
     ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "trail-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/trail-agent",
+    "description": "Trail Agent \u2014 standalone trail encoder/decoder/executor",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "gpu-accelerator",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/gpu-accelerator",
+    "description": "GPU acceleration layer for WebGPU and compute shaders - browser-based high-performance computing",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "hardware"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "flux-vocabulary",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-vocabulary",
+    "description": "FLUX Ecosystem - flux-vocabulary",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "nlp",
+      "python",
+      "superinstance",
+      "tool",
+      "vocabulary"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-spec",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-spec",
+    "description": "FLUX Ecosystem - flux-spec",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-vm",
+      "specification",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "standalone-agent-scaffold",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/standalone-agent-scaffold",
+    "description": "Standalone agent scaffold \u2014 template for building autonomous agents",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
     "updated": "2026-04-13",
     "category": "other"
   },
@@ -1129,328 +958,56 @@
     "category": "flux-runtime"
   },
   {
-    "name": "flux-baton",
+    "name": "flux-py",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-baton",
-    "description": "Generational context handoff for FLUX-native agents \u2014 the baton IS the brain",
+    "url": "https://github.com/SuperInstance/flux-py",
+    "description": "FLUX Python \u2014 Minimal clean-room VM. Swarm coordination with A2A.",
     "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [
-      "agent-lifecycle",
-      "ai-agents",
-      "context-handoff",
-      "flux-runtime",
-      "generational",
-      "git-agent",
+      "flux-vm",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-multilingual",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-multilingual",
+    "description": "Babel Lattice \u2014 80+ language natural language programming runtimes for FLUX bytecode. Grammar-to-bytecode compilation across East Asian, European, African, Indian, Indigenous, Siberian, South American, and constructed languages.",
+    "language": "Python",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "flux-vm",
+      "library",
+      "python",
       "superinstance"
     ],
     "updated": "2026-04-13",
     "category": "flux-other"
   },
   {
-    "name": "fleet-mechanic",
+    "name": "flux-lsp",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/fleet-mechanic",
-    "description": "\ud83d\udd27 Autonomous fleet maintenance agent \u2014 A2A-native, FLUX-powered, git-first",
-    "language": "Python",
+    "url": "https://github.com/SuperInstance/flux-lsp",
+    "description": "FLUX Ecosystem - flux-lsp",
+    "language": "TypeScript",
     "fork": false,
     "stars": 0,
     "topics": [
-      "a2a",
-      "ai-agents",
-      "automation",
-      "fleet-infrastructure",
-      "git-agent",
-      "maintenance",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "fleet"
-  },
-  {
-    "name": "abstraction-planes",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/abstraction-planes",
-    "description": "The Middle Way \u2014 decompose ideas to their optimal abstraction plane, not all the way to bytecode",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "ap-compiler",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ap-compiler",
-    "description": "Abstraction Planes Compiler Toolkit \u2014 decompose intent to optimal plane",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "cuda-event",
-    "owner": "Lucineer",
-    "url": "https://github.com/Lucineer/cuda-event",
-    "description": "Event system \u2014 pub/sub, event sourcing, replay, dead letter queue (Rust)",
-    "language": "Rust",
-    "fork": false,
-    "stars": 1,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "cuda"
-  },
-  {
-    "name": "smp-flux-bridge",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/smp-flux-bridge",
-    "description": "Bridging SMPBot Tile Algebra with FLUX lock system",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "tile-lock-synthesis",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/tile-lock-synthesis",
-    "description": "Tile Algebra meets FLUX Lock Algebra - formal composition theory for bytecode consistency",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "polyglot-flux-ese",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/polyglot-flux-ese",
-    "description": "Polyglot markdown-to-bytecode compiler \u2014 languages are worldviews, same model writes and compiles",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "voxel-logic",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/voxel-logic",
-    "description": "Logic engine for voxel data structures and 3D simulations.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "education",
-      "flux-fleet",
-      "logging",
-      "logic",
-      "observability",
-      "simulation",
-      "voxel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "universal-import-export",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/universal-import-export",
-    "description": "Tool for converting data between various import and export formats.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "compatibility",
-      "cross-platform",
-      "export",
-      "flux-fleet",
-      "import",
-      "universal"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "platonic-randomness",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/platonic-randomness",
-    "description": "Library for generating structured pseudo-random sequences",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-fleet",
-      "framework",
+      "flux-vm",
+      "language-server",
       "library",
-      "platonic",
-      "randomness"
+      "superinstance",
+      "typescript"
     ],
     "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "pinchrs",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pinchrs",
-    "description": "Pinchrs client platform for social interactions",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-fleet",
-      "pinchrs"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "optimized-system-monitor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/optimized-system-monitor",
-    "description": "High-performance system monitoring and analytics tool",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "analytics",
-      "flux-fleet",
-      "health",
-      "monitor",
-      "monitoring",
-      "observability",
-      "optimized",
-      "system"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "multi-device-sync",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/multi-device-sync",
-    "description": "Synchronizes data and settings across multiple devices",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "device",
-      "flux-fleet",
-      "multi",
-      "sync"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "memory-visualization",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/memory-visualization",
-    "description": "Visualizer for analyzing and understanding memory usage.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-fleet",
-      "graphics",
-      "memory",
-      "memory-management",
-      "ui",
-      "visualization",
-      "vm"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "mask-lock-clips",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/mask-lock-clips",
-    "description": "Project for masking and locking video clip features.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "cli",
-      "clips",
-      "command-line",
-      "flux-fleet",
-      "lock",
-      "mask",
-      "terminal"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "lighthouse-monitor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/lighthouse-monitor",
-    "description": "Lighthouse Keeper \u2014 fleet monitoring, agent activity tracking, stall detection",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "analytics",
-      "autonomous-agent",
-      "flux-fleet",
-      "health",
-      "lighthouse",
-      "monitor",
-      "monitoring",
-      "observability",
-      "python"
-    ],
-    "updated": "2026-04-13",
-    "category": "infrastructure"
-  },
-  {
-    "name": "isa-v3-draft",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/isa-v3-draft",
-    "description": "FLUX ISA v3 Design Draft \u2014 trifold encoding for cloud/edge/compact modes",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "architecture",
-      "cloud",
-      "devops",
-      "draft",
-      "flux-fleet",
-      "instruction-set",
-      "isa",
-      "specification"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "imagegen1",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/imagegen1",
-    "description": "AI-powered image generation tool for text prompts.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "computer-vision",
-      "flux-fleet",
-      "generative-ai",
-      "imagegen1",
-      "multimedia"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
+    "category": "flux-other"
   },
   {
     "name": "flux-evolve-py",
@@ -1472,6 +1029,45 @@
     "category": "flux-other"
   },
   {
+    "name": "flux-fleet-scanner",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-fleet-scanner",
+    "description": "FLUX fleet health scanner \u2014 repo discovery, health classification, gap detection",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agents",
+      "discovery",
+      "fleet-health",
+      "fleet-infrastructure",
+      "flux-runtime",
+      "git-agent",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-conformance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-conformance",
+    "description": "FLUX Ecosystem - flux-conformance",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "conformance",
+      "flux-vm",
+      "python",
+      "superinstance",
+      "testing",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
     "name": "flux-chronometer",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-chronometer",
@@ -1487,6 +1083,26 @@
       "flux-fleet",
       "testing",
       "verification",
+      "virtual-machine"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-other"
+  },
+  {
+    "name": "flux-baton-test",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-baton-test",
+    "description": "Baton lifecycle test vessel",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "baton",
+      "bytecode",
+      "flux",
+      "flux-fleet",
+      "test",
+      "testing",
       "virtual-machine"
     ],
     "updated": "2026-04-13",
@@ -1515,24 +1131,43 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-baton-test",
+    "name": "flux-baton",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-baton-test",
-    "description": "Baton lifecycle test vessel",
-    "language": null,
+    "url": "https://github.com/SuperInstance/flux-baton",
+    "description": "Generational context handoff for FLUX-native agents \u2014 the baton IS the brain",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [
-      "baton",
-      "bytecode",
-      "flux",
-      "flux-fleet",
-      "test",
-      "testing",
-      "virtual-machine"
+      "agent-lifecycle",
+      "ai-agents",
+      "context-handoff",
+      "flux-runtime",
+      "generational",
+      "git-agent",
+      "superinstance"
     ],
     "updated": "2026-04-13",
     "category": "flux-other"
+  },
+  {
+    "name": "flux-a2a-signal",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/flux-a2a-signal",
+    "description": "FLUX A2A Signal Protocol \u2014 agent-first-class JSON language with multilingual compilation (6 language paradigms, 840 tests)",
+    "language": "Python",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "communication",
+      "flux-vm",
+      "protocol",
+      "python",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "flux-protocol"
   },
   {
     "name": "flowstate",
@@ -1547,6 +1182,22 @@
       "flux-fleet",
       "framework",
       "library"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "expression-injection",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/expression-injection",
+    "description": "Tools for detecting and preventing expression injection attacks.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "expression",
+      "flux-fleet",
+      "injection"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1572,17 +1223,167 @@
     "category": "fleet"
   },
   {
-    "name": "expression-injection",
+    "name": "fleet-mechanic",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/expression-injection",
-    "description": "Tools for detecting and preventing expression injection attacks.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/fleet-mechanic",
+    "description": "\ud83d\udd27 Autonomous fleet maintenance agent \u2014 A2A-native, FLUX-powered, git-first",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [
-      "expression",
+      "a2a",
+      "ai-agents",
+      "automation",
+      "fleet-infrastructure",
+      "git-agent",
+      "maintenance",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "fleet"
+  },
+  {
+    "name": "fleet-liaison-tender",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-liaison-tender",
+    "description": "Fleet liaison service for inter-vessel communication and tender coordination",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "automation",
+      "fleet",
       "flux-fleet",
-      "injection"
+      "liaison",
+      "orchestration",
+      "python",
+      "tender"
+    ],
+    "updated": "2026-04-13",
+    "category": "fleet"
+  },
+  {
+    "name": "fleet-code-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-code-agent",
+    "description": "Standalone git-agent for code building. Build-test-commit loops.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "fleet"
+  },
+  {
+    "name": "fleet-agent-api",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-agent-api",
+    "description": "Standard HTTP API for fleet agents \u2014 every agent runs this",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent",
+      "ai-agent",
+      "api",
+      "automation",
+      "autonomous-agent",
+      "fleet",
+      "flux-fleet",
+      "llm",
+      "orchestration",
+      "python",
+      "rest"
+    ],
+    "updated": "2026-04-13",
+    "category": "fleet"
+  },
+  {
+    "name": "escalation-engine",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/escalation-engine",
+    "description": "40x cost reduction through intelligent Bot/Brain/Human LLM routing",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "educationgamecocapn",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/educationgamecocapn",
+    "description": "Educational game featuring a captain character.",
+    "language": "JavaScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-runtime",
+      "cocapn",
+      "education",
+      "gaming",
+      "javascript",
+      "library",
+      "minecraft",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "dockside-exam",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/dockside-exam",
+    "description": "Coast Guard dockside exam for fleet repos \u2014 certification checklist + tender protocol",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "edge-research-relay",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/edge-research-relay",
+    "description": "Edge computing research relay for academic paper distribution across the FLUX fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "academic",
+      "edge",
+      "flux-fleet",
+      "information-retrieval",
+      "relay",
+      "research",
+      "search"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "datum",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/datum",
+    "description": "Succession repo for Datum (GLM-5 Turbo). If I fail, read this. My methods, skills, tools, trail, and everything another agent needs to continue my work.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "continuity",
+      "datum",
+      "fleet-hygiene",
+      "git-agent",
+      "glm-5",
+      "lineage",
+      "quartermaster",
+      "succession",
+      "superinstance",
+      "twin"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1607,6 +1408,20 @@
     ],
     "updated": "2026-04-13",
     "category": "cuda"
+  },
+  {
+    "name": "cluster-orchestrator",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cluster-orchestrator",
+    "description": "Cluster orchestration for distributed systems - service discovery, load balancing, and health checking",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "infra"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
   },
   {
     "name": "clawmatrix",
@@ -1654,26 +1469,6 @@
     "category": "other"
   },
   {
-    "name": "claude-code-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/claude-code-vessel",
-    "description": "Claude Code workhorse vessel with experience journal and task delegation",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "claude",
-      "code",
-      "flux-fleet",
-      "git-agent",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "capability-spec",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/capability-spec",
@@ -1695,6 +1490,49 @@
     "category": "other"
   },
   {
+    "name": "cache-layer-optimizer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cache-layer-optimizer",
+    "description": "Cache optimization layer with intelligent eviction, warming, and invalidation strategies",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "infra"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
+  },
+  {
+    "name": "cache-layer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cache-layer",
+    "description": "Multi-layer caching system with L1/L2/L3 caches, invalidation, and persistence",
+    "language": "Rust",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "infra"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
+  },
+  {
+    "name": "cacapn",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cacapn",
+    "description": "Configuration parsing utility.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "cacapn",
+      "flux-fleet"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "bordercollie",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/bordercollie",
@@ -1709,16 +1547,64 @@
     "category": "other"
   },
   {
-    "name": "cacapn",
+    "name": "audio-pipeline",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/cacapn",
-    "description": "Configuration parsing utility.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/audio-pipeline",
+    "description": "Audio processing pipeline - transcoding, streaming, and analysis for voice applications",
+    "language": "Rust",
     "fork": false,
     "stars": 0,
     "topics": [
-      "cacapn",
-      "flux-fleet"
+      "infra"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "ap-compiler",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ap-compiler",
+    "description": "Abstraction Planes Compiler Toolkit \u2014 decompose intent to optimal plane",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "ai-character-sdk",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ai-character-sdk",
+    "description": "Unified AI Character SDK combining escalation engine, hierarchical memory, and learning into a simple intuitive API",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "agent-forge",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/agent-forge",
+    "description": "Universal standalone git-agent framework. Download, onboard, work. Your repo is your brain, your commits are your story.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent",
+      "cli",
+      "fleet",
+      "framework",
+      "git-agent",
+      "keeper",
+      "onboarding",
+      "standalone",
+      "typescript",
+      "workshop"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1737,6 +1623,32 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
+  },
+  {
+    "name": "abstraction-planes",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/abstraction-planes",
+    "description": "The Middle Way \u2014 decompose ideas to their optimal abstraction plane, not all the way to bytecode",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "agent-coordinator",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/agent-coordinator",
+    "description": "Multi-agent coordination framework for managing teams of AI agents with task distribution, inter-agent messaging, and health monitoring",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent"
+    ],
+    "updated": "2026-04-13",
+    "category": "infrastructure"
   },
   {
     "name": "a2a-adapter",
@@ -1785,6 +1697,93 @@
     "category": "other"
   },
   {
+    "name": "ToolGuardian",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/ToolGuardian",
+    "description": "Reliable function calling with validation, retry, and monitoring for AI agents and LLM applications",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "tool"
+    ],
+    "updated": "2026-04-13",
+    "category": "ai-ml"
+  },
+  {
+    "name": "SuperInstance-Starter-Agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/SuperInstance-Starter-Agent",
+    "description": "Minimal Origin-Centric agent with modular equipment system for the SuperInstance spreadsheet paradigm",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "git-agent",
+      "library",
+      "sdk",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "SuperInstance-SDK1",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/SuperInstance-SDK1",
+    "description": "Software development kit for SuperInstance v1",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "library",
+      "sdk",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "SuperInstance",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/SuperInstance",
+    "description": "\ud83c\udf00 The Ocean of Agents \u2014 Navigate the currents, harness the winds, join the fleet.",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "agent-framework",
+      "ai-agents",
+      "ecosystem-index",
+      "fleet-management",
+      "git-agent",
+      "superinstance"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "StudyLog",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/StudyLog",
+    "description": "Educational frontend for SuperInstance",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-companion",
+      "application",
+      "library",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "Spreadsheet-ai",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Spreadsheet-ai",
@@ -1799,6 +1798,36 @@
     "category": "ai-ml"
   },
   {
+    "name": "Rubiks-Tensor-Transformer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Rubiks-Tensor-Transformer",
+    "description": "Transformer with Geometry and Point-of-View as first-class",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "research"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "Sandbox-Lifecycle-Manager",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Sandbox-Lifecycle-Manager",
+    "description": "Automated lifecycle management for sandbox environments",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "library",
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "Real-Time-Collaboration",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Real-Time-Collaboration",
@@ -1811,20 +1840,6 @@
       "flux-fleet",
       "real",
       "time"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "Rubiks-Tensor-Transformer",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Rubiks-Tensor-Transformer",
-    "description": "Transformer with Geometry and Point-of-View as first-class",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "research"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1866,22 +1881,6 @@
     "category": "other"
   },
   {
-    "name": "Dynamic-Theming",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Dynamic-Theming",
-    "description": "Dynamic theming system for UI theme switching.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "dynamic",
-      "flux-fleet",
-      "theming"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "Polln-whitepapers",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Polln-whitepapers",
@@ -1897,6 +1896,21 @@
       "polln",
       "research",
       "whitepapers"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "Murmur",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Murmur",
+    "description": "Knowledge Tensors for self-improving agents",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "javascript",
+      "typescript"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1922,20 +1936,19 @@
     "category": "other"
   },
   {
-    "name": "JEPA-Real-Time-Sentiment-Analysis",
+    "name": "Lucineer",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/JEPA-Real-Time-Sentiment-Analysis",
-    "description": "Real-time sentiment analysis using JEPA architecture.",
-    "language": null,
+    "url": "https://github.com/SuperInstance/Lucineer",
+    "description": "Project for Lucineer, likely a search engine tool.",
+    "language": "Python",
     "fork": false,
     "stars": 0,
     "topics": [
-      "analysis",
-      "flux-fleet",
-      "jepa",
-      "real",
-      "sentiment",
-      "time"
+      "devops",
+      "infrastructure",
+      "library",
+      "python",
+      "superinstance"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -1955,6 +1968,45 @@
       "logging",
       "observability",
       "tensor"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "JEPA-Real-Time-Sentiment-Analysis",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/JEPA-Real-Time-Sentiment-Analysis",
+    "description": "Real-time sentiment analysis using JEPA architecture.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "analysis",
+      "flux-fleet",
+      "jepa",
+      "real",
+      "sentiment",
+      "time"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "Ghost-tiles",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Ghost-tiles",
+    "description": "Ghost tiles puzzle game or visual effect library.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "framework",
+      "gaming",
+      "ghost",
+      "graphics",
+      "library",
+      "tiles"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -2001,21 +2053,273 @@
     "category": "other"
   },
   {
-    "name": "Ghost-tiles",
+    "name": "Equipment-Self-Improvement",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Ghost-tiles",
-    "description": "Ghost tiles puzzle game or visual effect library.",
+    "url": "https://github.com/SuperInstance/Equipment-Self-Improvement",
+    "description": "Self-modifying equipment that distills what agents need to know for stable tiling",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "equipment",
+      "frontend",
+      "library",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Teacher-Student",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Teacher-Student",
+    "description": "Distillation triggers with deadband range thresholds for calling teachers",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "equipment",
+      "frontend",
+      "library",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-NLP-Explainer",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-NLP-Explainer",
+    "description": "Generates human-readable descriptions of cell logic and operations",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "artificial-intelligence",
+      "equipment",
+      "frontend",
+      "machine-learning",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Monitoring-Dashboard",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Monitoring-Dashboard",
+    "description": "Real-time cell visualization showing agent activity and thinking",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "data-visualization",
+      "developer-tools",
+      "equipment",
+      "frontend",
+      "superinstance",
+      "tooling",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Hardware-Scaler",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Hardware-Scaler",
+    "description": "Auto-scaling equipment that adapts to hardware resources and uses cloud APIs for overflow",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "edge-computing",
+      "equipment",
+      "frontend",
+      "hardware",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Escalation-Router",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Escalation-Router",
+    "description": "Intelligent LLM routing: Bot\u2192Brain\u2192Human with 40x cost reduction",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "equipment",
+      "frontend",
+      "library",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Memory-Hierarchy",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Memory-Hierarchy",
+    "description": "4-tier cognitive memory: Working, Episodic, Semantic, Procedural",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "equipment",
+      "frontend",
+      "learning",
+      "memory",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-Context-Handoff",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-Context-Handoff",
+    "description": "Generational context transfer for long-running agent tasks",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "context-management",
+      "equipment",
+      "frontend",
+      "library",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Equipment-CellLogic-Distiller",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Equipment-CellLogic-Distiller",
+    "description": "Breaks down LLM logic into spreadsheet-visualized cells with tile decomposition",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-companion",
+      "application",
+      "equipment",
+      "frontend",
+      "modular",
+      "superinstance",
+      "typescript",
+      "web"
+    ],
+    "updated": "2026-04-13",
+    "category": "equipment"
+  },
+  {
+    "name": "Dynamic-Theming",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Dynamic-Theming",
+    "description": "Dynamic theming system for UI theme switching.",
     "language": null,
     "fork": false,
     "stars": 0,
     "topics": [
+      "dynamic",
       "flux-fleet",
-      "framework",
-      "gaming",
-      "ghost",
-      "graphics",
+      "theming"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "DeckBoss",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/DeckBoss",
+    "description": "We're not another \"agent framework.\" We're the flight deck that launches, recovers, and coordinates other people's planes\u2014whether that's Claude's native agents, Cloudflare edge agents, or future ManusAI/Ollama agents. The \"boss\" is the system that manages the chaos without being in the cockpit.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "git-agent",
       "library",
-      "tiles"
+      "superinstance",
+      "typescript"
+    ],
+    "updated": "2026-04-13",
+    "category": "marine"
+  },
+  {
+    "name": "Auto-Tuning-Engine",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Auto-Tuning-Engine",
+    "description": "Automated engine for system tuning.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "auto",
+      "automation",
+      "engine",
+      "flux-fleet",
+      "intelligent",
+      "tuning"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "Central-Error-Manager",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Central-Error-Manager",
+    "description": "Centralized error management system.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "central",
+      "error",
+      "flux-fleet",
+      "manager"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "Claude-Abstraction",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/Claude-Abstraction",
+    "description": "Abstraction layer for Claude API.",
+    "language": null,
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "abstraction",
+      "claude",
+      "flux-fleet"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -2039,39 +2343,6 @@
     "category": "other"
   },
   {
-    "name": "Claude-Abstraction",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Claude-Abstraction",
-    "description": "Abstraction layer for Claude API.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "abstraction",
-      "claude",
-      "flux-fleet"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "Central-Error-Manager",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Central-Error-Manager",
-    "description": "Centralized error management system.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "central",
-      "error",
-      "flux-fleet",
-      "manager"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "Auto-Backup-Compression-Encryption",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/Auto-Backup-Compression-Encryption",
@@ -2089,25 +2360,6 @@
       "flux-fleet",
       "intelligent",
       "security"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "Auto-Tuning-Engine",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/Auto-Tuning-Engine",
-    "description": "Automated engine for system tuning.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "auto",
-      "automation",
-      "engine",
-      "flux-fleet",
-      "intelligent",
-      "tuning"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -2165,21 +2417,55 @@
     "category": "other"
   },
   {
-    "name": "flux-spec",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-spec",
-    "description": "FLUX Ecosystem - flux-spec",
-    "language": null,
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
     "fork": false,
-    "stars": 0,
+    "stars": 1,
     "topics": [
-      "flux-vm",
-      "specification",
-      "superinstance",
-      "tool"
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
     ],
     "updated": "2026-04-13",
-    "category": "flux-other"
+    "category": "other"
+  },
+  {
+    "name": "lighthouse-keeper",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/lighthouse-keeper",
+    "description": "System-centric agent watchdog for data centers and cloud regions",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [
+      "ai-agent",
+      "autonomous-agent",
+      "cloud",
+      "deployment",
+      "flux-fleet",
+      "keeper",
+      "lighthouse",
+      "python"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "cuda-event",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/cuda-event",
+    "description": "Event system \u2014 pub/sub, event sourcing, replay, dead letter queue (Rust)",
+    "language": "Rust",
+    "fork": false,
+    "stars": 1,
+    "topics": [],
+    "updated": "2026-04-13",
+    "category": "cuda"
   },
   {
     "name": "energy-c",
@@ -2437,21 +2723,6 @@
     "category": "flux-runtime"
   },
   {
-    "name": "instinct-c",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/instinct-c",
-    "description": "Low-level instinct layer in C for FLUX fleet hardware integration and reflex actions",
-    "language": "C",
-    "fork": true,
-    "stars": 0,
-    "topics": [
-      "flux-fleet",
-      "instinct"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "flux-runtime-deu",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-runtime-deu",
@@ -2473,6 +2744,21 @@
     ],
     "updated": "2026-04-13",
     "category": "flux-runtime"
+  },
+  {
+    "name": "instinct-c",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/instinct-c",
+    "description": "Low-level instinct layer in C for FLUX fleet hardware integration and reflex actions",
+    "language": "C",
+    "fork": true,
+    "stars": 0,
+    "topics": [
+      "flux-fleet",
+      "instinct"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
   },
   {
     "name": "flux-timeline",
@@ -4772,10 +5058,10 @@
     "category": "other"
   },
   {
-    "name": "skill-exchange",
+    "name": "skill-evolver",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/skill-exchange",
-    "description": "Marketplace for sharing and discovering fleet skills and equipment",
+    "url": "https://github.com/SuperInstance/skill-evolver",
+    "description": "Fleet skill self-evolution \u2014 error patterns to proposals to commits",
     "language": "TypeScript",
     "fork": true,
     "stars": 0,
@@ -4787,10 +5073,10 @@
     "category": "other"
   },
   {
-    "name": "skill-evolver",
+    "name": "skill-exchange",
     "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/skill-evolver",
-    "description": "Fleet skill self-evolution \u2014 error patterns to proposals to commits",
+    "url": "https://github.com/SuperInstance/skill-exchange",
+    "description": "Marketplace for sharing and discovering fleet skills and equipment",
     "language": "TypeScript",
     "fork": true,
     "stars": 0,
@@ -6027,20 +6313,6 @@
     "category": "other"
   },
   {
-    "name": "nexus-comms",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/nexus-comms",
-    "description": "Communications \u2014 MQTT bridge, mesh networking, relay routing (Cocapn fleet vessel)",
-    "language": "Python",
-    "fork": true,
-    "stars": 0,
-    "topics": [
-      "python"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "nexus-aab-protocol",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/nexus-aab-protocol",
@@ -6050,6 +6322,20 @@
     "stars": 0,
     "topics": [
       "protocol",
+      "python"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
+    "name": "nexus-comms",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/nexus-comms",
+    "description": "Communications \u2014 MQTT bridge, mesh networking, relay routing (Cocapn fleet vessel)",
+    "language": "Python",
+    "fork": true,
+    "stars": 0,
+    "topics": [
       "python"
     ],
     "updated": "2026-04-13",
@@ -6145,6 +6431,20 @@
     "category": "other"
   },
   {
+    "name": "jetson-grand-design",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/jetson-grand-design",
+    "description": "Canonical reference architecture for git-native robotics ecosystem \u2014 19K lines across 32 files",
+    "language": null,
+    "fork": true,
+    "stars": 0,
+    "topics": [
+      "design"
+    ],
+    "updated": "2026-04-13",
+    "category": "other"
+  },
+  {
     "name": "jetson-compass",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/jetson-compass",
@@ -6155,20 +6455,6 @@
     "topics": [
       "javascript",
       "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "jetson-grand-design",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/jetson-grand-design",
-    "description": "Canonical reference architecture for git-native robotics ecosystem \u2014 19K lines across 32 files",
-    "language": null,
-    "fork": true,
-    "stars": 0,
-    "topics": [
-      "design"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -6831,39 +7117,6 @@
     "category": "flux-other"
   },
   {
-    "name": "SuperInstance",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/SuperInstance",
-    "description": "\ud83c\udf00 The Ocean of Agents \u2014 Navigate the currents, harness the winds, join the fleet.",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "ecosystem-index",
-      "fleet-management",
-      "git-agent",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "pool-rs",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/pool-rs",
-    "description": "Object pooling - Connection pools, resource pools, adaptive pooling",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
     "name": "webrtc-stream",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/webrtc-stream",
@@ -6887,20 +7140,6 @@
     "stars": 0,
     "topics": [
       "evolution"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "test-sdk-connection",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/test-sdk-connection",
-    "description": "Test repo for SDK connection",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "testing"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -7176,26 +7415,6 @@
     ],
     "updated": "2026-04-13",
     "category": "greenhorn"
-  },
-  {
-    "name": "git-agent-standard",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/git-agent-standard",
-    "description": "The repo IS the agent. Git IS the nervous system. Standard for AI agents embodied as GitHub repositories.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "agent-framework",
-      "ai-agents",
-      "git-agent",
-      "manifesto",
-      "specification",
-      "standard",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "git-agents"
   },
   {
     "name": "Tripartite1",
@@ -7500,27 +7719,6 @@
       "flux-fleet",
       "holodeck",
       "zig"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "navigator-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/navigator-vessel",
-    "description": "\ud83e\udded Navigator \u2014 GLM-5 Turbo generalist agent. Code archaeologist, test builder, document synthesist, fleet integrator. Swiss Army Knife of the Cocapn fleet.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "discovery",
-      "exploration",
-      "flux-fleet",
-      "git-agent",
-      "navigator",
-      "vessel"
     ],
     "updated": "2026-04-13",
     "category": "other"
@@ -9865,24 +10063,6 @@
     "category": "flux-other"
   },
   {
-    "name": "flux-lsp",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-lsp",
-    "description": "FLUX Ecosystem - flux-lsp",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "flux-vm",
-      "language-server",
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-other"
-  },
-  {
     "name": "flux-llama",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/flux-llama",
@@ -11109,25 +11289,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "flux-a2a-signal",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/flux-a2a-signal",
-    "description": "FLUX A2A Signal Protocol \u2014 agent-first-class JSON language with multilingual compilation (6 language paradigms, 840 tests)",
-    "language": "Python",
-    "fork": false,
-    "stars": 1,
-    "topics": [
-      "communication",
-      "flux-vm",
-      "protocol",
-      "python",
-      "superinstance",
-      "tool"
-    ],
-    "updated": "2026-04-13",
-    "category": "flux-protocol"
   },
   {
     "name": "flux-a2a-prototype",
@@ -16121,25 +16282,6 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "babel-vessel",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/babel-vessel",
-    "description": "\ud83c\udf10 Babel Agent \u2014 Git-Agent Vessel for multilingual FLUX runtime development. SuperInstance realm.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agent",
-      "autonomous-agent",
-      "babel",
-      "flux-fleet",
-      "git-agent",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "git-agents"
   },
   {
     "name": "actualizer-ai",
