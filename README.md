@@ -1,17 +1,27 @@
 # 🔮 Oracle1 Index
 
-> Searchable index of the **SuperInstance + Lucineer ecosystem** — 678 repos, 32 categories.
+> Searchable index of the **SuperInstance + Lucineer ecosystem** — 690 repos, 33 categories.
 > Every Lucineer repo is forked to SuperInstance. One index to rule them all.
 
 **Maintained by Oracle1** — Casey Digennaro's OpenClaw agent on Oracle Cloud.
 
-## 📡 What's Happening Now (April 10, 2026)
+## 📡 What's Happening Now (April 14, 2026)
 
-Built the entire FLUX polyglot bytecode ecosystem:
-- **14 new repos**, 11 language implementations, 40K words of research
-- FLUX C VM is **4.7x faster than Python** | Zig VM is **fastest at 210ns/iter**
-- New: flux-core (Rust), flux-cuda, flux-llama, flux-wasm, flux-swarm (Go), flux-zig, flux-js, flux-java, flux-py, flux-benchmarks, flux-research, captains-log
-- See [STATUS.md](STATUS.md) for current work and [RECENT_COMMITS.md](RECENT_COMMITS.md) for the activity feed
+Built 12 standalone fleet agents — the backbone of the Pelagic AI Fleet:
+- **12 new agents**, 858 tests, all Python stdlib-only, CLI-first
+- [standalone-agent-scaffold](https://github.com/SuperInstance/standalone-agent-scaffold) — base class every agent inherits from
+- [fleet-protocol](https://github.com/SuperInstance/fleet-protocol) — shared wire format, security, bottle coordination (145 tests)
+- [trust-agent](https://github.com/SuperInstance/trust-agent) — multi-dimensional trust engine (103 tests)
+- [edge-relay-agent](https://github.com/SuperInstance/edge-relay-agent) — cloud-edge asymmetric relay (79 tests)
+- [trail-agent](https://github.com/SuperInstance/trail-agent) — agent worklog as executable bytecode (69 tests)
+- [cartridge-agent](https://github.com/SuperInstance/cartridge-agent) — hot-swappable capability modules (67 tests)
+- [git-agent](https://github.com/SuperInstance/git-agent) — co-captain liaison (66 tests)
+- [knowledge-agent](https://github.com/SuperInstance/knowledge-agent) — atomic knowledge tiles (64 tests)
+- [flux-vm-agent](https://github.com/SuperInstance/flux-vm-agent) — FLUX bytecode VM (56 tests)
+- [keeper-agent](https://github.com/SuperInstance/keeper-agent) — encrypted secret vault (54 tests)
+- [scheduler-agent](https://github.com/SuperInstance/scheduler-agent) — cost-optimized scheduling (49 tests)
+- [liaison-agent](https://github.com/SuperInstance/liaison-agent) — fleet communication bridge (38 tests)
+- See [THE-FLEET.md](THE-FLEET.md) for the full fleet manifest
 
 ## Fork Status
 
@@ -33,7 +43,7 @@ Lucineer-only (empty, can't fork): 3 repos
 
 | File | Purpose |
 |------|---------|
-| [`search-index.json`](./search-index.json) | Flat array — all 611 repos, grep/jq friendly |
+| [`search-index.json`](./search-index.json) | Flat array — all 702 repos, grep/jq friendly |
 | [`fork-map.json`](./fork-map.json) | SuperInstance fork → Lucineer parent mapping (405 pairs) |
 | [`keyword-index.json`](./keyword-index.json) | Keyword → repo name lookup |
 | [`by-language.json`](./by-language.json) | Language → repo name lookup |
@@ -109,6 +119,7 @@ graph TD
 | [Swarm Intelligence](./categories/swarm-intelligence/) | 6 | 0 | 6 | Swarm intuition, stigmergy, collective reasoning. |
 | [Trust & Governance](./categories/trust-governance/) | 13 | 0 | 13 | Compliance, identity, zero-trust, EU AI Act. |
 | [Web & UI](./categories/web-ui/) | 12 | 8 | 4 | Frontend, dashboards, Cloudflare, design systems. |
+| [**Standalone Agents**](./categories/standalone-agents/) | **12** | **12** | **0** | **🆕 12 production Python agents — scaffold, keeper, git, trust, FLUX VM, edge relay, scheduler, knowledge, protocol, liaison, cartridge, trail. 858 tests.** |
 
 ## Languages
 
@@ -116,7 +127,7 @@ graph TD
 |----------|-------|
 | Unknown | 470 |
 | TypeScript | 63 |
-| Python | 47 |
+| Python | 59 |
 | Rust | 24 |
 | JavaScript | 5 |
 | Makefile | 4 |
@@ -129,4 +140,4 @@ graph TD
 
 ---
 
-*Indexed by Oracle1 🔮 • Fork-complete • Updated 2026-04-10*
+*Indexed by Oracle1 🔮 • Fork-complete • Updated 2026-04-14*

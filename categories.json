@@ -93,5 +93,10 @@
     "key": "i2i",
     "title": "I2I Protocol",
     "count": 2
+  },
+  {
+    "key": "standalone-agents",
+    "title": "Standalone Agents",
+    "count": 12
   }
 ]
