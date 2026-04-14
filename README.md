@@ -5,6 +5,22 @@
 
 **Maintained by Oracle1** — Casey Digennaro's OpenClaw agent on Oracle Cloud.
 
+## 📊 Live Status Dashboard
+
+| Metric | Value |
+|--------|-------|
+| **Total Repos** | 100+ (690 indexed across SuperInstance + Lucineer) |
+| **Total Tests** | 11,106+ (flux-runtime: 1,944 · standalone agents: 1,019 · oracle1-vessel: 2,489+) |
+| **Languages** | Python, Rust, Go, TypeScript, C, Zig, CUDA, Java |
+| **CI/CD** | GitHub Actions |
+| **Categories** | 33 |
+| **Integration Edges** | 40+ cross-repo dependencies mapped |
+| **Index Size** | 674 KB search index · 247 KB keyword index |
+
+> 🟢 **Fleet Status:** 2 vessels active · 15 standalone agents operational · 8 open ISA fences
+
+---
+
 ## 📡 What's Happening Now (April 14, 2026)
 
 Built 15 standalone fleet agents — the backbone of the Pelagic AI Fleet:
@@ -42,25 +58,60 @@ Lucineer-only (empty, can't fork): 3 repos
 - 📊 12 repo deep analyses
 - 🔗 40-connection integration map
 
-## Quick Search
+## 🔍 Search
 
-| File | Purpose |
-|------|---------|
-| [`search-index.json`](./search-index.json) | Flat array — all 702 repos, grep/jq friendly |
-| [`fork-map.json`](./fork-map.json) | SuperInstance fork → Lucineer parent mapping (405 pairs) |
-| [`keyword-index.json`](./keyword-index.json) | Keyword → repo name lookup |
-| [`by-language.json`](./by-language.json) | Language → repo name lookup |
-| [`categories.json`](./categories.json) | Category list with counts |
+The index provides two complementary search files for fleet-wide discovery:
+
+| File | Size | Purpose |
+|------|------|---------|
+| [`search-index.json`](./search-index.json) | 674 KB | Flat array — all 702 repos with full metadata (name, owner, language, stars, topics, category). grep/jq friendly. |
+| [`keyword-index.json`](./keyword-index.json) | 247 KB | Keyword → repo name lookup. Extracted tokens from descriptions and names, categorized for fast lookup. |
+| [`fork-map.json`](./fork-map.json) | — | SuperInstance fork → Lucineer parent mapping (405 pairs) |
+| [`by-language.json`](./by-language.json) | — | Language → repo name lookup |
+| [`categories.json`](./categories.json) | — | Category list with counts |
+
+### Example: Full-text search with `jq`
 
 ```bash
+# Find repos matching "CRDT" in name or description
+jq '[.[] | select(.name | test("crdt"; "i")) or select(.description | test("crdt"; "i"))]' \
+  search-index.json
+
+# All Rust repos with stars > 0
+jq '[.[] | select(.language == "Rust" and .stars > 0)]' search-index.json
+
+# Repos in the "fleet" category
+jq '[.[] | select(.category == "fleet")]' search-index.json
+
 # Find a repo by keyword
 jq '.cocapn' keyword-index.json
 
-# Check if a SuperInstance repo is a fork
-jq '."cocapn"' fork-map.json
-
 # All Rust repos
 jq '.Rust' by-language.json
+```
+
+### Example: Python query
+
+```python
+import json
+
+with open("search-index.json") as f:
+    repos = json.load(f)
+
+# Full-text search across all repos
+matching = [
+    r for r in repos
+    if "flux" in r["name"].lower() or "flux" in r.get("description", "").lower()
+]
+for r in matching:
+    print(f"{r['owner']}/{r['name']}  [{r['language']}]  ⭐{r['stars']}")
+
+# Keyword lookup
+with open("keyword-index.json") as f:
+    keywords = json.load(f)
+
+for repo in keywords.get("crdt", []):
+    print(f"Keyword 'CRDT' → {repo}")
 ```
 
 ## Architecture
@@ -124,6 +175,62 @@ graph TD
 | [Web & UI](./categories/web-ui/) | 12 | 8 | 4 | Frontend, dashboards, Cloudflare, design systems. |
 | [**Standalone Agents**](./categories/standalone-agents/) | **15** | **15** | **0** | **🆕 15 production Python agents — scaffold, keeper, git, trust, FLUX VM, edge relay, scheduler, knowledge, protocol, liaison, cartridge, trail, superz-runtime, mud-bridge, lighthouse. 1,019 tests.** |
 
+## 🚢 Fleet Composition
+
+The fleet is organized into functional categories with clear ownership boundaries:
+
+| Category | Key Repos | Role |
+|----------|-----------|------|
+| **Runtime** | `flux-runtime`, `flux-runtime-c`, `flux-core`, `flux-cuda`, `flux-wasm`, `flux-zig`, `flux-js`, `flux-py`, `flux-java` | Polyglot FLUX bytecode VM — 11 language implementations, 2,000+ tests |
+| **TUI / Debugger** | `flux-tui` | Interactive debugger and terminal UI for FLUX |
+| **Conformance** | `flux-conformance` | Cross-runtime conformance test suite |
+| **Orchestration** | `oracle1-*`, `cocapn`, `deckboss`, `fleet-orchestrator` | Fleet coordination, agent lifecycle, bottle protocol |
+| **CRDT** | `SmartCRDT` | Conflict-free replicated data types for distributed agent state |
+| **Research** | `flux-research`, `flux-emergence-research`, `jepa-*` | Deep research: ISA design, emergent behavior, joint-embedding predictive architecture |
+| **Infrastructure** | `fleet-*`, `git-agent`, `git-agent-*`, `super-z-*`, `superz-runtime`, `lighthouse`, `mud-bridge` | Agents, protocols, health monitoring, deployment, edge relay |
+| **Theory** | `constraint-theory-core`, `holonomy`, `rigidity`, `bits` | Deterministic geometric snapping, first-person perspective, mathematical foundations |
+| **Equipment** | `equipment-memory-hierarchy`, `equipment-escalation-router`, `equipment-swarm-coordinator`, `equipment-self-install` | Modular equipment system for agent capabilities |
+| **CraftMind** | `craftmind`, `craftmind-fishing`, `craftmind-herding`, `craftmind-ranch` | Minecraft as AI training ground |
+| **Standalone Agents** | 15 agents (scaffold → lighthouse) | Production Python fleet backbone — 1,019 tests |
+
+## 🔗 Integration Map
+
+[`integration-map.json`](./integration-map.json) defines **40+ dependency edges** across the fleet. Each edge is a JSON object:
+
+```json
+{
+  "from": "SuperInstance/deckboss",
+  "to":   "SuperInstance/cocapn",
+  "rel":  "depends",
+  "why":  "Flight deck control interface for the Cocapn agent runtime"
+}
+```
+
+**Relationship types:**
+| `rel` | Meaning |
+|-------|---------|
+| `depends` | Hard dependency — cannot function without the target |
+| `integrates` | Soft dependency — optional integration for enhanced behavior |
+| `extends` | Extension — inherits or specializes the target repo |
+
+**Key dependency clusters:**
+- **Cocapn hub** — `deckboss`, `Mycelium`, `AIR`, `git-agent`, `cocapn-ai` all connect through `cocapn`
+- **FLUX runtime** — depends on `agentic-compiler` (bytecode) and `constraint-theory-core` (geometric snapping)
+- **Cudaclaw** — orchestrates 10K+ agents using `SmartCRDT` conflict resolution
+- **CraftMind** — drives autonomous Minecraft play via `ai-character-sdk` + `hierarchical-memory` + `equipment-escalation-router`
+- **Fleet orchestration** — `fleet-orchestrator` → `a2a-protocol` + `cuda-deliberation` + `the-fleet`
+
+```bash
+# All deps for a specific repo
+jq '[.[] | select(.from == "SuperInstance/cocapn")]' integration-map.json
+
+# Reverse deps: who depends on SmartCRDT?
+jq '[.[] | select(.to == "SuperInstance/SmartCRDT")]' integration-map.json
+
+# All "depends" relationships
+jq '[.[] | select(.rel == "depends")]' integration-map.json
+```
+
 ## Languages
 
 | Language | Repos |
@@ -143,4 +250,4 @@ graph TD
 
 ---
 
-*Indexed by Oracle1 🔮 • Fork-complete • Updated 2026-04-14*
+<img src="callsign1.jpg" width="128" alt="callsign">
