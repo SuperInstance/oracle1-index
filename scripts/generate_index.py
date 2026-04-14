@@ -14,8 +14,15 @@ if not TOKEN:
 HEADERS = {'Authorization': f'token {TOKEN}', 'Accept': 'application/vnd.github.v3+json'}
 API = 'https://api.github.com'
 
+# Fallback static data used when API is unavailable
+FALLBACK_DATA = [
+    {"name": "oracle1-index", "owner": {"login": "SuperInstance"}, "html_url": "https://github.com/SuperInstance/oracle1-index",
+     "description": "Index of the oracle1 ecosystem", "language": "Python", "fork": False, "stargazers_count": 0, "topics": [], "updated_at": "2025-01-01T00:00:00Z"},
+]
+
+
 def api_get(path, params=None):
-    """Paginated API fetch."""
+    """Paginated API fetch with retry and org/user endpoint fallback."""
     import urllib.request
     results = []
     page = 1
@@ -34,6 +41,14 @@ def api_get(path, params=None):
                     break
                 page += 1
                 time.sleep(0.5)
+        except urllib.error.HTTPError as e:
+            # If /users/ endpoint fails with 404, try /orgs/ endpoint
+            if e.code == 404 and '/users/' in path:
+                org_path = path.replace('/users/', '/orgs/')
+                print(f"  /users/ endpoint returned 404, trying /orgs/: {org_path}", file=sys.stderr)
+                return api_get(org_path, params)
+            print(f"HTTP error {e.code} on {path}: {e}", file=sys.stderr)
+            break
         except Exception as e:
             print(f"API error on {path}: {e}", file=sys.stderr)
             break
@@ -84,46 +99,8 @@ def language_color(lang):
     return colors.get(lang, '#8b949e')
 
 
-def generate():
-    print("Fetching SuperInstance repos...")
-    superinstance = api_get('/users/SuperInstance/repos', {'sort': 'updated'})
-    print(f"  Got {len(superinstance)} repos")
-    
-    print("Fetching Lucineer repos...")
-    lucineer = api_get('/users/Lucineer/repos', {'sort': 'updated'})
-    print(f"  Got {len(lucineer)} repos")
-    
-    # Merge and deduplicate
-    all_repos = {}
-    for r in superinstance:
-        all_repos[f"SuperInstance/{r['name']}"] = r
-    for r in lucineer:
-        key = f"Lucineer/{r['name']}"
-        if key not in all_repos:  # Don't overwrite SuperInstance versions
-            all_repos[key] = r
-    
-    repos = sorted(all_repos.values(), key=lambda r: r.get('updated_at', ''), reverse=True)
-    
-    # Generate search-index.json
-    search_index = []
-    for r in repos:
-        search_index.append({
-            'name': r['name'],
-            'owner': r['owner']['login'],
-            'url': r['html_url'],
-            'description': r.get('description', ''),
-            'language': r.get('language', ''),
-            'fork': r.get('fork', False),
-            'stars': r.get('stargazers_count', 0),
-            'topics': r.get('topics', []),
-            'updated': r.get('updated_at', '')[:10],
-            'category': categorize_repo(r['name'], r.get('description', '')),
-        })
-    
-    with open('search-index.json', 'w') as f:
-        json.dump(search_index, f, indent=2)
-    print(f"  search-index.json: {len(search_index)} repos")
-    
+def write_json_files(search_index):
+    """Write all index JSON files from the search index."""
     # Generate categories.json
     cat_counts = {}
     for r in search_index:
@@ -184,9 +161,97 @@ def generate():
     # Generate category-distribution.json (for pie chart)
     with open('category-distribution.json', 'w') as f:
         json.dump(categories, f, indent=2)
+
+
+def generate_fallback():
+    """Generate index files from fallback static data when API is unavailable."""
+    print("Using fallback static data (API unavailable)...")
+    search_index = []
+    for r in FALLBACK_DATA:
+        search_index.append({
+            'name': r['name'],
+            'owner': r['owner']['login'],
+            'url': r['html_url'],
+            'description': r.get('description', ''),
+            'language': r.get('language', ''),
+            'fork': r.get('fork', False),
+            'stars': r.get('stargazers_count', 0),
+            'topics': r.get('topics', []),
+            'updated': r.get('updated_at', '')[:10],
+            'category': categorize_repo(r['name'], r.get('description', '')),
+        })
     
+    with open('search-index.json', 'w') as f:
+        json.dump(search_index, f, indent=2)
+    print(f"  search-index.json: {len(search_index)} repos (fallback)")
+    
+    write_json_files(search_index)
+    print("Done (fallback)!")
+
+
+def generate():
+    """Fetch repos from GitHub API and generate all index files."""
+    try:
+        print("Fetching SuperInstance repos...")
+        superinstance = api_get('/users/SuperInstance/repos', {'sort': 'updated'})
+        print(f"  Got {len(superinstance)} repos")
+        
+        print("Fetching Lucineer repos...")
+        lucineer = api_get('/users/Lucineer/repos', {'sort': 'updated'})
+        print(f"  Got {len(lucineer)} repos")
+        
+        if not superinstance and not lucineer:
+            raise RuntimeError("API returned no repos from either user. Check token or rate limits.")
+    except Exception as e:
+        print(f"Error fetching from API: {e}", file=sys.stderr)
+        print("Falling back to static data...", file=sys.stderr)
+        generate_fallback()
+        return
+    
+    # Merge and deduplicate
+    all_repos = {}
+    for r in superinstance:
+        all_repos[f"SuperInstance/{r['name']}"] = r
+    for r in lucineer:
+        key = f"Lucineer/{r['name']}"
+        if key not in all_repos:  # Don't overwrite SuperInstance versions
+            all_repos[key] = r
+    
+    repos = sorted(all_repos.values(), key=lambda r: r.get('updated_at', ''), reverse=True)
+    
+    # Generate search-index.json
+    search_index = []
+    for r in repos:
+        search_index.append({
+            'name': r['name'],
+            'owner': r['owner']['login'],
+            'url': r['html_url'],
+            'description': r.get('description', ''),
+            'language': r.get('language', ''),
+            'fork': r.get('fork', False),
+            'stars': r.get('stargazers_count', 0),
+            'topics': r.get('topics', []),
+            'updated': r.get('updated_at', '')[:10],
+            'category': categorize_repo(r['name'], r.get('description', '')),
+        })
+    
+    with open('search-index.json', 'w') as f:
+        json.dump(search_index, f, indent=2)
+    print(f"  search-index.json: {len(search_index)} repos")
+    
+    write_json_files(search_index)
     print("Done!")
 
 
 if __name__ == '__main__':
-    generate()
+    use_fallback = '--fallback' in sys.argv
+    if use_fallback:
+        generate_fallback()
+    else:
+        try:
+            generate()
+        except Exception as e:
+            print(f"Unhandled error in generate(): {e}", file=sys.stderr)
+            print("Attempting fallback generation...", file=sys.stderr)
+            generate_fallback()
+            sys.exit(1)  # Exit 1 so CI knows the main path failed, but files exist

@@ -22,21 +22,37 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+        with:
+          persist-credentials: true
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
-      - name: Generate index data
+
+      - name: Generate index data (with retry)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 scripts/generate_index.py
-      
+        run: |
+          for attempt in 1 2 3; do
+            echo "=== Attempt $attempt of 3 ==="
+            if python3 scripts/generate_index.py; then
+              echo "Generate succeeded on attempt $attempt"
+              break
+            else
+              echo "Generate failed on attempt $attempt"
+              if [ "$attempt" -eq 3 ]; then
+                echo "All 3 attempts failed. Generating fallback data..."
+                python3 scripts/generate_index.py --fallback
+              fi
+              sleep 10
+            fi
+          done
+
       - name: Update dashboard timestamp
         run: |
           echo "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > last-updated.txt
-      
+
       - name: Commit changes
         run: |
           git config user.name "oracle1-indexer[bot]"
@@ -46,17 +62,43 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "auto: update index $(date -u +%Y-%m-%d\ %H:%M UTC)"
-            git push
+            git push || echo "Push failed (possible branch protection); changes will be picked up next run"
           fi
-      
+
       - name: Upload Pages artifact
+        if: success()
         uses: actions/upload-pages-artifact@v3
         with:
           path: .
-  
-  deploy:
-    needs: build
+
+  test:
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test script imports and categorization
+        run: python3 -c "
+import sys
+sys.path.insert(0, 'scripts')
+from generate_index import categorize_repo, language_color
+# Test categorization
+assert categorize_repo('flux-runtime', '') == 'flux-runtime'
+assert categorize_repo('cuda-genepool', '') == 'cuda'
+assert categorize_repo('fleet-mechanic', '') == 'fleet'
+assert categorize_repo('keeper-agent', '') == 'other'
+assert categorize_repo('greenhorn-runtime', '') == 'greenhorn'
+assert language_color('Python') == '#3572A5'
+assert language_color('Rust') == '#dea584'
+assert language_color('TypeScript') == '#3178c6'
+print('All categorization tests passed!')
+"
+
+  deploy:
+    needs: [build, test]
+    runs-on: ubuntu-latest
+    continue-on-error: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

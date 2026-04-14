@@ -1,0 +1,30 @@
+name: CI
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test script imports and categorization
+        run: python3 -c "
+import sys
+sys.path.insert(0, 'scripts')
+from generate_index import categorize_repo, language_color
+# Test categorization
+assert categorize_repo('flux-runtime', '') == 'flux-runtime'
+assert categorize_repo('cuda-genepool', '') == 'cuda'
+assert categorize_repo('fleet-mechanic', '') == 'fleet'
+assert categorize_repo('keeper-agent', '') == 'other'
+assert categorize_repo('greenhorn-runtime', '') == 'greenhorn'
+assert language_color('Python') == '#3572A5'
+assert language_color('Rust') == '#dea584'
+assert language_color('TypeScript') == '#3178c6'
+print('All categorization tests passed!')
+"
