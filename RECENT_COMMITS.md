@@ -44,3 +44,18 @@
 - fence-0x47: C Runtime extended ops
 - fence-0x48: CUDA FLUX kernel
 - fence-0x49: Edge reality report
+
+## 2026-04-15 — flux-tui Zig Rewrite (Phase 1 Complete)
+
+### flux-tui — Standalone FLUX Micro-VM in Zig
+- **Branch**: `zig-rewrite` at SuperInstance/flux-tui
+- **102 opcodes** across 9 categories (ISA v3), comptime enum dispatch
+- **64-register file**: R0-R15 (GP/i32), F0-F15 (f32), V0-V15 (SIMD/128-bit)
+- **6 encoding formats**: A(1B), B(2B), C(3B), D(4B), E(4B), G(variable)
+- **Capability-based memory**: Linear regions, 256 max, stack helpers
+- **Full interpreter**: Fetch-decode-execute for all opcodes
+- **CLI**: run, disasm, version, help commands
+- **15 tests** passing (opcodes, registers, memory, interpreter)
+- **2,772 lines** of Zig, zero dependencies, single static binary
+- Ported from flux-runtime Python source (opcodes.py, interpreter.py, registers.py, memory.py)
+- **Next**: Phase 2 TUI Shell (crossterm), Phase 3 Python Bridge (C ABI)
