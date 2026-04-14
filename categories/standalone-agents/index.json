@@ -166,5 +166,47 @@
     "updated": "2026-04-14",
     "test_count": 69,
     "capabilities": ["trail-encoding", "trail-decoding", "trail-printer", "trail-verifier", "trail-compiler", "trail-executor", "fingerprinting", "string-hash-table", "workshop-recipes"]
+  },
+  {
+    "name": "superz-runtime",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Self-booting fleet orchestrator — 8-phase boot sequence, process management with auto-restart, TUI dashboard, and Docker support. The runtime that starts the fleet.",
+    "url": "https://github.com/SuperInstance/superz-runtime",
+    "language": "Python",
+    "stars": 0,
+    "topics": ["runtime", "orchestrator", "boot", "process-management", "docker", "tui", "fleet"],
+    "fork": false,
+    "updated": "2026-04-14",
+    "test_count": 66,
+    "capabilities": ["8-phase-boot", "process-management", "auto-restart", "tui-dashboard", "docker-support", "fleet-orchestration"]
+  },
+  {
+    "name": "mud-bridge",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "HTTP API bridge for Holodeck MUD — programmatic agent-MUD connection, session management, event parsing, and long-polling for real-time world interaction.",
+    "url": "https://github.com/SuperInstance/mud-bridge",
+    "language": "Python",
+    "stars": 0,
+    "topics": ["mud", "bridge", "http-api", "holodeck", "session", "event-parsing", "fleet"],
+    "fork": false,
+    "updated": "2026-04-14",
+    "test_count": 47,
+    "capabilities": ["http-api-bridge", "agent-mud-connection", "session-management", "event-parsing", "long-polling", "holodeck-integration"]
+  },
+  {
+    "name": "lighthouse",
+    "owner": "SuperInstance",
+    "origin": "SuperInstance",
+    "description": "Fleet health dashboard and alerting — unified health monitoring, status transitions, JSONL health store, alert system, and system metrics collection.",
+    "url": "https://github.com/SuperInstance/lighthouse",
+    "language": "Python",
+    "stars": 0,
+    "topics": ["health", "monitoring", "dashboard", "alerting", "metrics", "fleet"],
+    "fork": false,
+    "updated": "2026-04-14",
+    "test_count": 48,
+    "capabilities": ["unified-health-monitoring", "status-transitions", "jsonl-health-store", "alert-system", "system-metrics", "fleet-dashboard"]
   }
 ]

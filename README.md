@@ -7,8 +7,8 @@
 
 ## 📡 What's Happening Now (April 14, 2026)
 
-Built 12 standalone fleet agents — the backbone of the Pelagic AI Fleet:
-- **12 new agents**, 858 tests, all Python stdlib-only, CLI-first
+Built 15 standalone fleet agents — the backbone of the Pelagic AI Fleet:
+- **15 new agents**, 1,019 tests, all Python stdlib-only (or minimal deps), CLI-first
 - [standalone-agent-scaffold](https://github.com/SuperInstance/standalone-agent-scaffold) — base class every agent inherits from
 - [fleet-protocol](https://github.com/SuperInstance/fleet-protocol) — shared wire format, security, bottle coordination (145 tests)
 - [trust-agent](https://github.com/SuperInstance/trust-agent) — multi-dimensional trust engine (103 tests)
@@ -21,6 +21,9 @@ Built 12 standalone fleet agents — the backbone of the Pelagic AI Fleet:
 - [keeper-agent](https://github.com/SuperInstance/keeper-agent) — encrypted secret vault (54 tests)
 - [scheduler-agent](https://github.com/SuperInstance/scheduler-agent) — cost-optimized scheduling (49 tests)
 - [liaison-agent](https://github.com/SuperInstance/liaison-agent) — fleet communication bridge (38 tests)
+- [superz-runtime](https://github.com/SuperInstance/superz-runtime) — self-booting fleet orchestrator (66 tests, stdlib+pyyaml)
+- [mud-bridge](https://github.com/SuperInstance/mud-bridge) — HTTP API bridge for Holodeck MUD (47 tests)
+- [lighthouse](https://github.com/SuperInstance/lighthouse) — fleet health dashboard and alerting (48 tests)
 - See [THE-FLEET.md](THE-FLEET.md) for the full fleet manifest
 
 ## Fork Status
@@ -119,7 +122,7 @@ graph TD
 | [Swarm Intelligence](./categories/swarm-intelligence/) | 6 | 0 | 6 | Swarm intuition, stigmergy, collective reasoning. |
 | [Trust & Governance](./categories/trust-governance/) | 13 | 0 | 13 | Compliance, identity, zero-trust, EU AI Act. |
 | [Web & UI](./categories/web-ui/) | 12 | 8 | 4 | Frontend, dashboards, Cloudflare, design systems. |
-| [**Standalone Agents**](./categories/standalone-agents/) | **12** | **12** | **0** | **🆕 12 production Python agents — scaffold, keeper, git, trust, FLUX VM, edge relay, scheduler, knowledge, protocol, liaison, cartridge, trail. 858 tests.** |
+| [**Standalone Agents**](./categories/standalone-agents/) | **15** | **15** | **0** | **🆕 15 production Python agents — scaffold, keeper, git, trust, FLUX VM, edge relay, scheduler, knowledge, protocol, liaison, cartridge, trail, superz-runtime, mud-bridge, lighthouse. 1,019 tests.** |
 
 ## Languages
 
