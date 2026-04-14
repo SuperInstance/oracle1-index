@@ -908,12 +908,12 @@
     "target": "SuperInstance/mycelium-ai"
   },
   {
-    "source": "Lucineer/nexus-aab-protocol",
-    "target": "SuperInstance/nexus-aab-protocol"
-  },
-  {
     "source": "Lucineer/nexus-comms",
     "target": "SuperInstance/nexus-comms"
+  },
+  {
+    "source": "Lucineer/nexus-aab-protocol",
+    "target": "SuperInstance/nexus-aab-protocol"
   },
   {
     "source": "Lucineer/mask-locked-inference-chip",

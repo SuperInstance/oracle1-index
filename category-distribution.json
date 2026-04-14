@@ -2,7 +2,7 @@
   {
     "key": "other",
     "title": "Other",
-    "count": 674
+    "count": 679
   },
   {
     "key": "cuda",
@@ -17,7 +17,7 @@
   {
     "key": "fleet",
     "title": "Fleet Infrastructure",
-    "count": 138
+    "count": 139
   },
   {
     "key": "ai-ml",
@@ -27,7 +27,7 @@
   {
     "key": "infrastructure",
     "title": "Infrastructure",
-    "count": 35
+    "count": 36
   },
   {
     "key": "craftmind",

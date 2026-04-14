@@ -1,5 +1,123 @@
 [
   {
+    "name": "oracle1-index",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/oracle1-index",
+    "description": "Oracle1 \u2014 Searchable index of 663 repos. 32 categories, fork map, integration graph.",
+    "language": "HTML",
+    "fork": false,
+    "stars": 0,
+    "topics": [
+      "html",
+      "superinstance",
+      "tool"
+    ],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "integration-tests",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/integration-tests",
+    "description": "Cross-agent integration tests for the Pelagic standalone fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "capitaine",
+    "owner": "Lucineer",
+    "url": "https://github.com/Lucineer/capitaine",
+    "description": "Capitaine \u2014 fork a repo, click Codespaces, the agent is alive. The repo IS the agent.",
+    "language": "TypeScript",
+    "fork": false,
+    "stars": 1,
+    "topics": [
+      "ai-agent",
+      "cocapn",
+      "codespaces",
+      "hackernews",
+      "onboarding"
+    ],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "cartridge-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/cartridge-agent",
+    "description": "Standalone cartridge agent for fleet orchestration - handles cartridge building, scene management, and bridge communications",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "liaison-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/liaison-agent",
+    "description": "Standalone liaison agent for fleet orchestration - handles escalation, tendering, and fleet bridge communications",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "fleet-protocol",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/fleet-protocol",
+    "description": "Shared fleet communication protocol \u2014 message format, wire protocol, registry, bottle async, and security for the SuperInstance agent fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "fleet"
+  },
+  {
+    "name": "knowledge-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/knowledge-agent",
+    "description": "Knowledge tile management agent \u2014 trust fusion, tile query, wiki database for the SuperInstance fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
+    "name": "scheduler-agent",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/scheduler-agent",
+    "description": "Fleet task scheduling agent \u2014 priority queue, cost analysis, and distributed task orchestration for the SuperInstance fleet",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "infrastructure"
+  },
+  {
+    "name": "agent-bootcamp",
+    "owner": "SuperInstance",
+    "url": "https://github.com/SuperInstance/agent-bootcamp",
+    "description": "Spiral bootcamp for git-agents \u2014 challenges adapt to weaknesses, dojo pits agent against variants of itself",
+    "language": "Python",
+    "fork": false,
+    "stars": 0,
+    "topics": [],
+    "updated": "2026-04-14",
+    "category": "other"
+  },
+  {
     "name": "comms-engineer-vessel",
     "owner": "SuperInstance",
     "url": "https://github.com/SuperInstance/comms-engineer-vessel",
@@ -180,151 +298,5 @@
     ],
     "updated": "2026-04-13",
     "category": "other"
-  },
-  {
-    "name": "ws-fabric",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/ws-fabric",
-    "description": "WebSocket connection pooling and fabric library",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "rust",
-      "superinstance"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "voxel-logic",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/voxel-logic",
-    "description": "Logic engine for voxel data structures and 3D simulations.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "education",
-      "flux-fleet",
-      "logging",
-      "logic",
-      "observability",
-      "simulation",
-      "voxel"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "vector-search",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/vector-search",
-    "description": "Semantic search engine with WebGPU acceleration - 10-100x faster vector search, 100% local processing, privacy-first",
-    "language": "TypeScript",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "library",
-      "superinstance",
-      "typescript"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "universal-import-export",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/universal-import-export",
-    "description": "Tool for converting data between various import and export formats.",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "compatibility",
-      "cross-platform",
-      "export",
-      "flux-fleet",
-      "import",
-      "universal"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "training-data-collector",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/training-data-collector",
-    "description": "Convert AI gameplay data into training datasets for fine-tuning with QLoRA format export",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "training"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "timeseries-db",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/timeseries-db",
-    "description": "Time series database optimized for metrics storage, aggregation, and downsampling",
-    "language": "Rust",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "infra"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
-  },
-  {
-    "name": "tile-lock-synthesis",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/tile-lock-synthesis",
-    "description": "Tile Algebra meets FLUX Lock Algebra - formal composition theory for bytecode consistency",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "test-sdk-connection",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/test-sdk-connection",
-    "description": "Test repo for SDK connection",
-    "language": null,
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "testing"
-    ],
-    "updated": "2026-04-13",
-    "category": "other"
-  },
-  {
-    "name": "superz-parallel-fleet-executor",
-    "owner": "SuperInstance",
-    "url": "https://github.com/SuperInstance/superz-parallel-fleet-executor",
-    "description": "Plug-and-play git-agent twin \u2014 Super Z operational expertise packaged as portable, model-agnostic template",
-    "language": "Python",
-    "fork": false,
-    "stars": 0,
-    "topics": [
-      "ai-agents",
-      "fleet-execution",
-      "git-agent",
-      "glm-5",
-      "parallel-computing",
-      "superinstance",
-      "superz",
-      "vessel"
-    ],
-    "updated": "2026-04-13",
-    "category": "ai-ml"
   }
 ]
