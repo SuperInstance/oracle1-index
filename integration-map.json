@@ -238,5 +238,65 @@
     "to": "Lucineer/cuda-deliberation",
     "rel": "depends",
     "why": "Species classification confidence uses Bayesian consensus"
+  },
+  {
+    "from": "SuperInstance/sonar-vision",
+    "to": "SuperInstance/marine-gpu-edge",
+    "rel": "integrates",
+    "why": "SonarVision Python inference pipeline receives depth data via MEP protocol from marine-gpu-edge CUDA sensor fusion"
+  },
+  {
+    "from": "SuperInstance/sonar-vision",
+    "to": "SuperInstance/holodeck-rust",
+    "rel": "integrates",
+    "why": "Underwater sensor room plugin \u2014 SonarVision generates video descriptions from simulated sonar in MUD environments"
+  },
+  {
+    "from": "SuperInstance/sonar-vision",
+    "to": "SuperInstance/cocapn-dashboard",
+    "rel": "integrates",
+    "why": "Live sonar telemetry viz \u2014 real-time depth-to-video streaming panel for fleet monitoring dashboards"
+  },
+  {
+    "from": "SuperInstance/sonar-vision",
+    "to": "SuperInstance/fleet-simulator",
+    "rel": "integrates",
+    "why": "Plug-and-play sensor plugin \u2014 simulated agents navigate underwater environments using SonarVision predictions"
+  },
+  {
+    "from": "SuperInstance/sonar-vision",
+    "to": "SuperInstance/businesslog-ai",
+    "rel": "integrates",
+    "why": "Inference logging, usage metering, and business metrics for SonarVision API usage"
+  },
+  {
+    "from": "SuperInstance/marine-gpu-edge",
+    "to": "SuperInstance/sonar-vision",
+    "rel": "depends",
+    "why": "CUDA beamformer output feeds SonarVision encoder \u2014 MEP bridge carries depth data between C++/CUDA and Python inference"
+  },
+  {
+    "from": "SuperInstance/jepa-perception-lab",
+    "to": "SuperInstance/sonar-vision",
+    "rel": "extends",
+    "why": "JEPA-based video prediction as an alternative decoder for SonarVision \u2014 benchmarked against deterministic decoder"
+  },
+  {
+    "from": "SuperInstance/cross-pollination",
+    "to": "SuperInstance/sonar-vision",
+    "rel": "analyzes",
+    "why": "Cross-pollination engine finds shared concepts between SonarVision and marine/fleet repos for integration opportunities"
+  },
+  {
+    "from": "SuperInstance/constraint-theory-core",
+    "to": "SuperInstance/sonar-vision",
+    "rel": "underpins",
+    "why": "Constraint-theoretic physics for underwater simulation \u2014 Pythagorean snap, AC-3 propagation, dependency scheduling in water physics"
+  },
+  {
+    "from": "SuperInstance/flux-runtime",
+    "to": "SuperInstance/sonar-vision",
+    "rel": "integrates",
+    "why": "FLUX bytecode ISA for physics constraint processing \u2014 deterministic underwater simulation without float drift"
   }
 ]
